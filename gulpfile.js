@@ -2,11 +2,11 @@ var gulp = require('gulp'),
     rename = require('gulp-rename'),
     markdown = require('gulp-markdown');
 
-gulp.task('markdown_docker', function() {
+gulp.task('markdown', function() {
     return gulp.src('README.md')
         .pipe(rename({
             extname: ".html",
-            suffix: "-documentation"
+            suffix: "-tutorial"
 
         }))
         .pipe(markdown())
@@ -15,8 +15,8 @@ gulp.task('markdown_docker', function() {
 });
 
 gulp.task('move_images', function() {
-    return gulp.src("images/tbas-documentation/*.*")
-        .pipe(gulp.dest('/var/www/html/tbas2_1/pages/images/tbas-documentation'));
+    return gulp.src("images/tbas-tutorial/*.*")
+        .pipe(gulp.dest('/var/www/html/tbas2_1/pages/images/tbas-tutorial'));
 });
 
-gulp.task('default', ['markdown_docker', 'move_images']);
+gulp.task('default', ['markdown', 'move_images']);
