@@ -19,4 +19,9 @@ gulp.task('move_images', function() {
         .pipe(gulp.dest('/var/www/html/tbas2_1/pages/images/tbas-tutorial'));
 });
 
-gulp.task('default', ['markdown', 'move_images']);
+gulp.task('move_data', function() {
+    return gulp.src("data/tbas-tutorial/*.*")
+        .pipe(gulp.dest('/var/www/html/tbas2_1/pages/data/tbas-tutorial'));
+});
+
+gulp.task('default', ['markdown', 'move_images', 'move_data']);
