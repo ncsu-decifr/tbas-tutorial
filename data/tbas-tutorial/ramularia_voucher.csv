@@ -1,0 +1,54 @@
+Identifier_name,Species,Host_isolation source,Country,Collector,GB-ITS,GB-ACT,GB-TEF1,GB-GAPDH,GB-RPB2,GB-HIS3
+Ramularia_agrimoniae_CPC_11653,Ramularia_agrimoniae,Agrimonia pilosa,South Korea,H.-D. Shin,KJ504784,KJ504448,KJ504699,KJ504567,KJ504655,KJ504611
+Ramularia_calcea_CBS_101612,Ramularia_calcea,Symphytum sp.,Germany,G. Arnold,KJ504785,KJ504449,KJ504700,KJ504568,KJ504656,KJ504612
+Ramularia_collo-cygni_CBS_101181,Ramularia_collo-cygni,Hordeum vulgare,Germany,E. Sachs,KJ504786,KJ504450,KJ504701,KJ504569,KJ504657,KJ504613
+Ramularia_decipiens_CBS_114300,Ramularia_decipiens,Rumex aquaticus,Sweden,E. Gunnerbeck,KJ504787,KJ504451,KJ504702,KJ504570,KJ504658,KJ504614
+Ramularia_eucalypti_CBS_155.82,Ramularia_eucalypti,Puccinia sp. on Carex acutiformis,Netherlands,W. Gams & O. Constantinescu,KJ504789,KJ504453,KJ504704,KJ504572,KJ504660,KJ504616
+Ramularia_eucalypti_CBS_356.69,Ramularia_eucalypti,Malus sylvestris,Netherlands,-,KJ504790,KJ504454,KJ504705,KJ504573,KJ504661,KJ504617
+Ramularia_eucalypti_CBS_101045,Ramularia_eucalypti,Geranium pusillum,Netherlands,H.A. van der Aa,KJ504791,KJ504455,KJ504706,KJ504574,KJ504662,KJ504618
+Ramularia_eucalypti_CBS_120726,Ramularia_eucalypti,Corymbia grandifolia,Italy,W. Gams,KJ504792,KJ504456,KJ504707,KJ504575,KJ504663,KJ504619
+Ramularia_eucalypti_CPC_13043,Ramularia_eucalypti,Corymbia grandifolia,Italy,W. Gams,KJ504792,KJ504456,KJ504707,KJ504575,KJ504663,KJ504619
+Ramularia_eucalypti_CBS_120728,Ramularia_eucalypti,Eucalyptus sp.,Australia,P.W. Crous,KJ504793,KJ504457,KJ504708,KJ504576,KJ504664,KJ504620
+Ramularia_eucalypti_CPC_13304,Ramularia_eucalypti,Eucalyptus sp.,Australia,P.W. Crous,KJ504793,KJ504457,KJ504708,KJ504576,KJ504664,KJ504620
+Ramularia_eucalypti_CPC_13044,Ramularia_eucalypti,Corymbia grandifolia,Italy,W. Gams,KJ504794,KJ504458,KJ504709,KJ504577,KJ504665,KJ504621
+Ramularia_eucalypti_CPC_13045,Ramularia_eucalypti,Corymbia grandifolia,Italy,W. Gams,KJ504795,KJ504459,KJ504710,KJ504578,KJ504666,KJ504622
+Ramularia_eucalypti_CPC_16804,Ramularia_eucalypti,Pinus wallichiana,Netherlands,W. Quaedvlieg,KJ504796,KJ504460,KJ504711,KJ504579,KJ504667,KJ504623
+Ramularia_eucalypti_CPC_19187,Ramularia_eucalypti,Phragmites sp.,Netherlands,P.W. Crous,KJ504797,KJ504461,KJ504712,KJ504580,KJ504668,KJ504624
+Ramularia_eucalypti_CPC_19188,Ramularia_eucalypti,Phragmites sp.,Netherlands,P.W. Crous,KJ504798,KJ504462,KJ504713,KJ504581,KJ504669,KJ504625
+Ramularia_glechomatis_CBS_108979,Ramularia_glechomatis,Glechoma hederacea,Netherlands,G. Verkley,KJ504799,KJ504463,KJ504714,KJ504582,KJ504670,KJ504626
+Ramularia_glennii_CBS_120727,Ramularia_glennii,Corymbia grandifolia,Italy,W. Gams,KJ504767,KJ504431,KJ504682,-,KJ504638,KJ504594
+Ramularia_glennii_CPC_13046,Ramularia_glennii,Corymbia grandifolia,Italy,W. Gams,KJ504767,KJ504431,KJ504682,-,KJ504638,KJ504594
+Ramularia_glennii_CBS_122989,Ramularia_glennii,Human skin,Netherlands,-,KJ504768,KJ504432,KJ504683,KJ504551,KJ504639,KJ504595
+Ramularia_glennii_CPC_15195,Ramularia_glennii,Human skin,Netherlands,-,KJ504768,KJ504432,KJ504683,KJ504551,KJ504639,KJ504595
+Ramularia_glennii_CBS_129441,Ramularia_glennii,Human lungs,Netherlands,-,KJ504769,KJ504433,KJ504684,KJ504552,KJ504640,KJ504596
+Ramularia_glennii_CPC_13047,Ramularia_glennii,Corymbia grandifolia,Italy,W. Gams,KJ504770,KJ504434,KJ504685,KJ504553,KJ504641,KJ504597
+Ramularia_glennii_CPC_13048,Ramularia_glennii,Corymbia grandifolia,Italy,W. Gams,KJ504771,KJ504435,KJ504686,KJ504554,KJ504642,KJ504598
+Ramularia_glennii_CPC_16560,Ramularia_glennii,Eucalyptus camaldulensis,Iraq,A. Saadoon,KJ504772,KJ504436,KJ504687,KJ504555,KJ504643,KJ504599
+Ramularia_glennii_CPC_16561,Ramularia_glennii,Eucalyptus camaldulensis,Iraq,A. Saadoon,KJ504773,KJ504437,KJ504688,KJ504556,KJ504644,KJ504600
+Ramularia_glennii_CPC_16565,Ramularia_glennii,Eucalyptus camaldulensis,Iraq,A. Saadoon,KJ504774,KJ504438,KJ504689,KJ504557,KJ504645,KJ504601
+Ramularia_glennii_CPC_18468,Ramularia_glennii,Rubber of refrigerator,USA: Athens,A.E. Glenn,KJ504775,KJ504439,KJ504690,KJ504558,KJ504646,KJ504602
+Ramularia_glennii_CPC_18469,Ramularia_glennii,Rubber of refrigerator,USA: Athens,A.E. Glenn,KJ504776,KJ504440,KJ504691,KJ504559,KJ504647,KJ504603
+Ramularia_glennii_CPC_18470,Ramularia_glennii,Rubber of refrigerator,USA: Athens,A.E. Glenn,KJ504777,KJ504441,KJ504692,KJ504560,KJ504648,KJ504604
+Ramularia_haroldporteri_CBS_137272,Ramularia_haroldporteri,Unidentified bulb plant,South Africa,P.W. Crous,KJ504766,KJ504430,KJ504681,-,KJ504637,KJ504593
+Ramularia_haroldporteri_CPC_16296,Ramularia_haroldporteri,Unidentified bulb plant,South Africa,P.W. Crous,KJ504766,KJ504430,KJ504681,-,KJ504637,KJ504593
+Ramularia_major_CPC_12543,Ramularia_major,Petasites japonicus,South Korea,H.-D. Shin,KJ504800,KJ504464,KJ504715,KJ504583,KJ504671,KJ504627
+Ramularia_mali_CBS_129581,Ramularia_mali,Apple in storage,Italy,-,KJ504778,KJ504442,KJ504693,KJ504561,KJ504649,KJ504605
+Ramularia_miae_CBS_120121,Ramularia_miae,Wachendorfia thyrsiflora,South Africa,M.K. Crous & P.W. Crous,KJ504801,KJ504465,KJ504716,KJ504584,KJ504672,KJ504628
+Ramularia_miae_CPC_12736,Ramularia_miae,Wachendorfia thyrsiflora,South Africa,M.K. Crous & P.W. Crous,KJ504801,KJ504465,KJ504716,KJ504584,KJ504672,KJ504628
+Ramularia_miae_CPC_12737,Ramularia_miae,Wachendorfia thyrsiflora,South Africa,M.K. Crous & P.W. Crous,KJ504802,KJ504466,KJ504717,KJ504585,KJ504673,KJ504629
+Ramularia_miae_CPC_12738,Ramularia_miae,Wachendorfia thyrsiflora,South Africa,M.K. Crous & P.W. Crous,KJ504803,KJ504467,KJ504718,KJ504586,KJ504674,KJ504630
+Ramularia_miae_CPC_19835,Ramularia_miae,Gazania rigens var. uniflora,South Africa,P.W. Crous,KJ504804,KJ504468,KJ504719,KJ504587,KJ504675,KJ504631
+Ramularia_miae_CPC_19770,Ramularia_miae,Leonotis leonurus,South Africa,P.W. Crous,KJ504805,KJ504469,KJ504720,KJ504588,KJ504676,KJ504632
+Ramularia_nyssicola_CBS_127665,Ramularia_nyssicola,Nyssa ogeche _ sylvatica hybrid,USA: Maryland,R. Olsen,KJ504765,KJ504429,KJ504680,-,KJ504636,KJ504592
+Ramularia_plurivora_CBS_118693,Ramularia_plurivora,Human skin,Netherlands,-,KJ504779,KJ504443,KJ504694,KJ504562,KJ504650,KJ504606
+Ramularia_plurivora_CPC_12206,Ramularia_plurivora,Human skin,Netherlands,-,KJ504779,KJ504443,KJ504694,KJ504562,KJ504650,KJ504606
+Ramularia_plurivora_CBS_118743,Ramularia_plurivora,Human bone marrow,Netherlands,-,KJ504780,KJ504444,KJ504695,KJ504563,KJ504651,KJ504607
+Ramularia_plurivora_CPC_12207,Ramularia_plurivora,Human bone marrow,Netherlands,-,KJ504780,KJ504444,KJ504695,KJ504563,KJ504651,KJ504607
+Ramularia_plurivora_CPC_11517,Ramularia_plurivora,Coleosporium plectanthri on Plectranthus excisus,South Korea,H.-D. Shin,KJ504781,KJ504445,KJ504696,KJ504564,KJ504652,KJ504608
+Ramularia_plurivora_CPC_16123,Ramularia_plurivora,Melon in storage,Netherlands,-,KJ504782,KJ504446,KJ504697,KJ504565,KJ504653,KJ504609
+Ramularia_plurivora_CPC_16124,Ramularia_plurivora,Melon in storage,Netherlands,-,KJ504783,KJ504447,KJ504698,KJ504566,KJ504654,KJ504610
+Ramularia_pratensis_CBS_136.23,Ramularia_pratensis,-,-,A. Weber,KJ504806,KJ504470,KJ504721,KJ504589,KJ504677,KJ504633
+Ramularia_sp._CBS_114568,Ramularia_sp.,Epilobium hirsutum,Sweden,E. Gunnerbeck,KJ504788,KJ504452,KJ504703,KJ504571,KJ504659,KJ504615
+Ramularia_tovarae_CBS_113305,Ramularia_tovarae,Persicaria filiformis,South Korea,H.-D. Shin,KJ504807,KJ504471,KJ504722,KJ504590,KJ504678,KJ504634
+Ramularia_vizellae_CBS_130601,Ramularia_vizellae,Vizella interrupta,South Africa,P.W. Crous,KJ504808,KJ504472,KJ504723,KJ504591,KJ504679,KJ504635
+Ramularia_vizellae_CPC_18283,Ramularia_vizellae,Vizella interrupta,South Africa,P.W. Crous,KJ504808,KJ504472,KJ504723,KJ504591,KJ504679,KJ504635
