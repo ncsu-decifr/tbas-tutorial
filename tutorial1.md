@@ -1,8 +1,10 @@
 # T-BAS v2.1 Tutorial 1: Viewing Trees, Alignments, and Specimen Metadata
 
-1. In this tutorial we will be using the Ramularia reference tree as an example to illustrate the features available when viewing trees in T-BAS. To begin, go to the T-BAS start page (https://tbas.hpc.ncsu.edu/start) and click on the T-BAS Trees button (see arrow).
+1. In this tutorial we will be using the *Ramularia* reference tree as an example to illustrate the features available when viewing trees in T-BAS. To begin, go to the T-BAS start page (https://tbas.hpc.ncsu.edu/start) and click on the **T-BAS Trees** button (see arrow).
 ![](images/tbas-tutorial/tutorial1.1.png)
 2. Click on the blue bullet to select the Ramularia reference tree.  Note only trees with a solid blue bullet in the guide tree contain data.
 ![](images/tbas-tutorial/tutorial1.2.png)
 3. The Ramularia tree is now highlighted in red.  Below the guide tree are options (blue buttons) for View Tree Data (i.e., viewing/downloading of tree, alignments and specimen metadata), and Place Unknowns (i.e., phylogenetic placement of unknown sequences).
 ![](images/tbas-tutorial/tutorial1.3.png)
+4. Clicking on the View Tree Data button will open up a new tab with the Ramularia tree. At the top of the left side pane are buttons for help (tutorials), new data (to place unknown sequences on tree), update voucher (to upload new specimen metadata), color editor (to assign new colors to attributes in tree), reset defaults (to restore default settings; if your settings do not show the defaults shown in the screenshots in this tutorial, hit reset) and select by list (to upload a file with a list of taxa to highlight in tree). Entering text in the Search box will search for the name across all tree data.  The options under Highlighted taxa are available when user selects a leaf or clade in the tree or taxa are selected from an uploaded list.  Note the default settings for Layout (radial), Format (FASTA - aligned), and Sequence (RPB2) in this example.  There are subheadings under Sequence if the user wants to view each locus separate or multiple loci concatenated.
+![](images/tbas-tutorial/tutorial1.4.png)
