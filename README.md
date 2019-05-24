@@ -1,5 +1,5 @@
-# TBAS-tutorial
-step-by-step illustrated guides of major features in T-BAS
+# T-BAS Tutorials
+Step-by-step illustrated guides of major features in T-BAS v2.1.
 
 * [Tutorial 1](tbas-tutorial_1.php): Viewing Trees, Alignments, and Specimen Metadata
 * Tutorial 2: Phylogeny-based placement of unknown sequences, new subtree and network inference
