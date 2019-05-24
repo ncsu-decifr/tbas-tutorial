@@ -34,8 +34,11 @@ Text options include italicizing names and adjusting font size. The Colorize Lea
 11. Clicking on Newick tree under Highlighted taxa will display the tree for the highlighted taxa in a new tab.  Depending on which option is selected under Format the Newick tree is displayed in NEXUS or PHYLIP format.
 ![](images/tbas-tutorial/tutorial1.11.png)
 
+Tree in **NEWICK/NEXUS** format
 ![](images/tbas-tutorial/tutorial1.11.1.png)
 
+
+Tree in **NEWICK/PHYLIP** format
 ![](images/tbas-tutorial/tutorial1.11.2.png)
 
 12. Click to select all six loci (RPB2, ITS, GAPDH, HIS3, ACT and TEF-1a), with the concatenated option under Sequence, and NEXUS as the file Format. Then click on view to display the concatenated multi-locus alignment in NEXUS format with character partition block showing the start and end position of each locus in the alignment. The dashboard window on the right provides a summary of the variation for each locus.
