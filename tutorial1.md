@@ -42,11 +42,11 @@ Tree in **NEWICK/NEXUS** format
 Tree in **NEWICK/PHYLIP** format
 ![](images/tbas-tutorial/tutorial1.11.2.png)
 
-12. Click to select all six loci (RPB2, ITS, GAPDH, HIS3, ACT and TEF-1a), with the concatenated option under Sequence, and NEXUS as the file Format. Then click on view to display the concatenated multi-locus alignment in NEXUS format with character partition block showing the start and end position of each locus in the alignment. The dashboard window on the right provides a summary of the variation for each locus.
+12. Click to select all six loci (RPB2, ITS, GAPDH, HIS3, ACT and TEF-1a), with the **concatenated** option under **Sequence**, and **NEXUS** as the file **Format**. Then click on **view** to display the concatenated multi-locus alignment in NEXUS format with character partition block showing the start and end position of each locus in the alignment. The dashboard window on the right provides a summary of the variation for each locus.
 ![](images/tbas-tutorial/tutorial1.12.png)
 
-13. Switching the Format to PHYLIP, selecting concatenated under Sequence, and then clicking on view shows the multi-locus concatenated alignment in PHYLIP format.
+13. Switching the **Format** to **PHYLIP**, selecting **concatenated** under **Sequence**, and then clicking on **view** shows the multi-locus concatenated alignment in PHYLIP format.
 ![](images/tbas-tutorial/tutorial1.13.png)
 
-14. Clicking on the Show taxa for data pull-down menu will display options for selecting taxa that contain a specified number of loci.  In this example, all of the five highlighted taxa have data for all six loci.  In other trees, the selected taxa may be missing information for one or more loci. This feature will create alignment files with varying numbers of loci which are useful for assessing topological incongruence using a cumulative supermatrix approach and the Mesquite Hypha package (http://mesquiteproject.org/packages/hypha/manual/index.html).
+14. Clicking on the **Show taxa for data** pull-down menu will display options for selecting taxa that contain a specified number of loci.  In this example, all of the five highlighted taxa have data for all six loci.  In other trees, the selected taxa may be missing information for one or more loci. This feature will create alignment files with varying numbers of loci which are useful for assessing topological incongruence using a cumulative supermatrix approach and the Mesquite Hypha package (http://mesquiteproject.org/packages/hypha/manual/index.html).
 ![](images/tbas-tutorial/tutorial1.14.png)
