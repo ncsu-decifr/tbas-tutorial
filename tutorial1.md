@@ -23,16 +23,16 @@ Text options include **italicizing names** and **adjusting font size**. The **Co
 7. Below is the tree shown in **rectangular layout** shown with the following options selected. Magnification increased by clicking multiple times on ![](images/tbas-tutorial/magnifier_plus.jpg) until **Zoom**=0.8316, **Font size** +6, **Font size bootstrap** +4, names are **Italicized**, no colorizing of leaves or bands, **Colorize Branches** by Species, set **Branch Width** to 4, and **show bootstrap values with numbers**. The **branch lengths** are drawn to scale.  Both the **Horizontal** and **Vertical Scaling** were adjusted as shown below.
 ![](images/tbas-tutorial/tutorial1.7.png)
 
-8. Hover over and left click on node (see arrow) to show pop-up menu and under Taxa click on Select.  All the taxa in the selected clade will be highlighted in red. The pop-up also shows available options for Metadata, Labels and Tree. The dashboard window at the top right highlights the selected species and the window below shows the number of taxa selected (5), the number of taxa with missing data for RPB2 (0), number of taxa with data (5).
+8. Hover over and left click on node (see arrow) to show pop-up menu and under **Taxa** click on **Select**.  All the taxa in the selected clade will be highlighted in red. The pop-up also shows available options for **Metadata, Labels** and **Tree**. The dashboard window at the top right highlights the selected species and the window below shows the number of taxa selected (5), the number of taxa with missing data for RPB2 (0), number of taxa with data (5).
 ![](images/tbas-tutorial/tutorial1.8.png)
 
-9. Clicking on the view button under Highlighted taxa will show the sequences for RPB2 (NEXUS format) for the highlighted taxa in a new pop-up window. Note the pop-up menu shown in step 8 also has a view option under Metadata. The dashboard window at the bottom right now provides a summary of the total length of the alignment (664), number of constant sites (660) and number of variable sites (4).
+9. Clicking on the **view** button under **Highlighted taxa** will show the sequences for RPB2 (**NEXUS** format) for the highlighted taxa in a new pop-up window. Note the pop-up menu shown in step 8 also has a **view** option under **Metadata**. The dashboard window at the bottom right now provides a summary of the total length of the alignment (664), number of constant sites (660) and number of variable sites (4).
 ![](images/tbas-tutorial/tutorial1.9.png)
 
-10. Selecting the PHYLIP option under the Format menu and then clicking on the view button under Highlighted taxa will show the sequences for RPB2 (PHYLIP format) for the highlighted taxa in the pop-up window.
+10. Selecting the **PHYLIP** option under the **Format** menu and then clicking on the **view** button under **Highlighted taxa** will show the sequences for RPB2 (**PHYLIP** format) for the highlighted taxa in the pop-up window.
 ![](images/tbas-tutorial/tutorial1.10.png)
 
-11. Clicking on Newick tree under Highlighted taxa will display the tree for the highlighted taxa in a new tab.  Depending on which option is selected under Format the Newick tree is displayed in NEXUS or PHYLIP format.
+11. Clicking on **Newick tree** under **Highlighted taxa** will display the tree for the highlighted taxa in a new tab.  Depending on which option is selected under **Format** the Newick tree is displayed in **NEXUS** or **PHYLIP** format.
 ![](images/tbas-tutorial/tutorial1.11.png)
 
 Tree in **NEWICK/NEXUS** format
