@@ -33,21 +33,23 @@ bTo identify highly divergent sequences we first generate a similarity matrix fo
 14.  Click on the Assignments file to download and open in Excel. This file shows that four unknown sequences were excluded using the UNITE filter and that all the unknowns belong to a single OTU0 and are most closely related to Ramularia collo-cygni. This placement is strongly supported with an accumulated likelihood weight of 0.999991 out of a total of 1.0. When using EPA placement, likelihood scores that are less than 0.95 indicate weaker placements that may be unreliable.
 Aside note: If the UNITE filter is skipped and you run this placement again, the genetic distance cutoff will also exclude the same four sequences. This shows the utility of the genetic distance cutoff when placing sequences from other loci since the UNITE database is only for ITS.
 
-15.
+15.  Click on the BLAST (complete) file to download and open in Excel. This file shows that the four excluded taxa (2073, 2072, 2070, 2076) belong to different families and orders.
 
-16.
+16. The tree with the placements can be viewed by clicking on the view tree link in the email or the View tree button in the browser results page
 
-17.
+17.  Below is the tree resized and formatted with the following options selected. Magnification reduced by clicking multiple times on  or panning with mouse until Zoom=0.5220 (or enter the value in the box and press enter), Font size +8, Colorize leaves by Species, and set branch Width to 2. The branch lengths are drawn to scale. The legend is displayed in the dashboard window on the right. Note only a single representative of OTU0 (411) is displayed in the tree. Click on the leaf (see arrow) to display the pop-up menu and select Likelihood weight under Labels.
 
-18.
+18. This will highlight 411 and its nearest sibling Ramularia collo-cygni where the accumulated likelihood weight has reached a value of at least 0.95 out of a total of 1.0. This is a graphical method of visualizing the reliability of placements – the Assignments file shows the calculated likelihood weights. In the dashboard window on the left, click on PHYLIP under Format and ITS under Sequence (unclick the RBP2) and then click on view (see arrow). The alignment of the two selected taxa will appear in a new pop-up window. Then click on the Phylogeny (RAxML) button (see arrow).
 
-19.
+19. A new tab will open with options for performing de novo phylogenetic reconstruction for the selected taxa. Check the boxes for Realign sequences in clade with MAFFT, Include unknowns duplicates in alignment and ITS.  Copy and paste the reference taxa Ramularia_collo-cygni_CBS_101181 from the alignment file in the previous step into the Outgroup names box and hit submit.
 
-20.
+20. A progress bar will appear to allow the user to monitor the run which should finish in under 5 min. T-BAS will also send you an email when the run is complete.
+Then click on view tree (see arrow).
 
-21.
+21.  Here is the tree displayed using Rectangular under Layout. Reset the Defaults under Help (see arrow). The order of isolates may be different from what is shown in this view.
+Select all the leaves in tree by clicking on select all (see arrow). View the alignments by selecting PHYLIP under Format and then clicking on view (see arrow). The alignment shows additional variation (see arrows) within OTU0 that was ignored in the original placement of the clustered sequences.
 
-22.
+22. Return to the original placement phylogeny (in one of the tabs) and click on the Network (TCS) button (see arrow).
 
 23.
 
