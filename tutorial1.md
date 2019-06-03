@@ -19,33 +19,33 @@ Text options include italicize names and adjusting font size. The Colorize Leave
 6. Below is the tree resized and formatted with the following options selected. Magnification reduced by clicking multiple times on  or panning with mouse until Zoom=0.5220 (or enter the value in the box and press enter), Font size +6, Font size bootstrap +5, Colorize leaves by Species, Colorize band 2 by Country, Colorize Branches by Species, set branch Width to 2, show bootstrap values with thick lines, and show bootstrap values (numbers). The branch lengths are drawn to scale. The legends are displayed in the dashboard window on the right.
 ![](images/tbas-tutorial1/tutorial1.6.png)
 
-7.
+7. Below is the tree shown in rectangular layout shown with the following options selected. Magnification increased by clicking multiple times on  until Zoom=0.8316, Font size +6, Font size bootstrap +4, names are Italicized, no colorizing of leaves or bands, Colorize Branches by Species, set Branch Width to 4, and show bootstrap values with numbers. The branch lengths are drawn to scale.  Both the Horizontal and Vertical Scaling were adjusted as shown below.
 ![](images/tbas-tutorial1/tutorial1.7.png)
 
-8.
+8. Hover over and left click on node (see arrow) to show pop-up menu and under Taxa click on Select.  All the taxa in the selected clade will show in red. The pop-up also shows available options for Metadata, Labels and Tree. The dashboard window at the top right highlights the selected species and the window below shows the number of taxa selected (5), the number of taxa with missing data for RPB2 (0), number of taxa with data (5).
 ![](images/tbas-tutorial1/tutorial1.8.png)
 
-9.
+9. Change the Format to NEXUS. Clicking on the view button under Highlighted taxa will show the sequences for RPB2 (NEXUS format) for the highlighted taxa in a new pop-up window. Note the pop-up menu shown in step 8 also has a view option under Metadata that could be used instead. The dashboard window at the bottom right now provides a summary of the total length of the alignment (664), number of constant sites (660) and number of variable sites (4).
+
 ![](images/tbas-tutorial1/tutorial1.9.png)
 
-10.
+10. Selecting the PHYLIP option under the Format menu and then clicking on the view button under Highlighted taxa will show the sequences for RPB2 (PHYLIP format) for the highlighted taxa in the pop-up window.
 ![](images/tbas-tutorial1/tutorial1.10.png)
 
-11.
+11. Clicking on Newick tree under Highlighted taxa will display the tree for the highlighted taxa in a new tab.  Depending on which option is selected under Format the Newick tree is displayed in NEXUS or PHYLIP format.
 ![](images/tbas-tutorial1/tutorial1.11.png)
 
-
+Tree in NEWICK/NEXUS format
 ![](images/tbas-tutorial1/tutorial1.11.1.png)
 
-
-
+Tree in NEWICK/PHYLIP format
 ![](images/tbas-tutorial1/tutorial1.11.2.png)
 
-12.
+12. Click to select all six loci (RPB2, ITS, GAPDH, HIS3, ACT and TEF-1a), with the concatenated option under Sequence, and NEXUS as the file Format. Then click on view to display the concatenated multi-locus alignment in NEXUS format with character partition block showing the start and end position of each locus in the alignment. This information is useful when using other tools, for example PartitionFinder to identify the optimal data partitions evolving under the same evolutionary model. The dashboard window on the right provides a summary of the variation for each locus.
 ![](images/tbas-tutorial1/tutorial1.12.png)
 
-13.
+13. Switching the Format to PHYLIP, selecting concatenated under Sequence, and then clicking on view shows the multi-locus concatenated alignment in PHYLIP format.
 ![](images/tbas-tutorial1/tutorial1.13.png)
 
-14.
+14. Clicking on the Show taxa for data pull-down menu will display options for selecting taxa that contain a specified number of loci.  In this example, all of the five highlighted taxa have data for all six loci.  In other trees, the selected taxa may be missing information for one or more loci. This feature will create alignment files with varying numbers of loci which are useful for assessing topological incongruence using a cumulative supermatrix approach and the Mesquite Hypha package.
 ![](images/tbas-tutorial1/tutorial1.14.png)
