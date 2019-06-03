@@ -86,11 +86,17 @@ Select all the leaves in tree by clicking on select all (see arrow). View the al
 The progress bar shows that MAFFT is running.
 ![](images/tbas-tutorial2/Tutorial2.23.2.png)
 
-24. At the end of the run a results page is generated. Click on the viewer link (see arrow) to view the network. You will also receive an email with the results from the run.
-![](images/tbas-tutorial2/)
+24. At the end of the run a results page is generated. Click on the viewer link (see arrow) to view the network.
+![](images/tbas-tutorial2/Tutorial2.24.1.png)
+You will also receive an email with the results from the run.
+![](images/tbas-tutorial2/Tutorial2.24.2.png)
 
-25.  The network shows that OTU0 comprises three haplotypes with one that was sampled on all five collection dates and on all three hosts. The dashboard window on the left in the viewer displays the selected attribute legend (i.e. date collected or host ID). You can switch attributes using the pull-down (see arrow) and the colors in the network will automatically update. Select names under the Click on node to show and then click on the intermediate sized node on the left (see arrow). This will display the specimen names in that node in a pop-up window and a summary of the Attribute Count for the selected node on the left panel at the bottom. Select alignments and select Host ID as shown for the image on the right. Click on the intermediate sized node (see arrow) on the right to display the alignments.
-![](images/tbas-tutorial2/)
+25.  The network shows that OTU0 comprises three haplotypes with one that was sampled on all five collection dates and on all three hosts. The dashboard window on the left in the viewer displays the selected attribute legend (i.e. date collected or host ID). You can switch attributes using the pull-down (see arrow) and the colors in the network will automatically update.
+![](images/tbas-tutorial2/Tutorial2.25.1.png)
+Select names under the Click on node to show and then click on the intermediate sized node on the left (see arrow). This will display the specimen names in that node in a pop-up window and a summary of the Attribute Count for the selected node on the left panel at the bottom.
+![](images/tbas-tutorial2/Tutorial2.25.2.png)
+Select alignments and select Host ID as shown for the image on the right. Click on the intermediate sized node (see arrow) on the right to display the alignments.
+![](images/tbas-tutorial2/Tutorial2.25.3.png)
 
 
 
