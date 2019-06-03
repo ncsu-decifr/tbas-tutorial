@@ -15,7 +15,7 @@ gulp.task('markdown', function() {
 });
 
 gulp.task('tutorial1', function() {
-    return gulp.src('tutorial1.md')
+    return gulp.src('tutorial*.md')
         .pipe(rename({
             extname: ".html"
 
