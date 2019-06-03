@@ -37,18 +37,21 @@ As a side note: when uploading multiple files, you will need to match each uploa
 ![](images/tbas-tutorial2/Tutorial2.10.2.png)
 
 11. The run will start, and a progress bar shows the current step in the analysis pipeline.  A Kill run button is provided if you decide to terminate the run. Below are some screenshots showing the run progression.
-![](images/tbas-tutorial2/)
+![](images/tbas-tutorial2/Tutorial2.11.1.png)
+![](images/tbas-tutorial2/Tutorial2.11.2.png)
+![](images/tbas-tutorial2/Tutorial2.11.3.png)
 
 
 12. The run should complete in under 10 min and the results will be displayed in the browser window.
-![](images/tbas-tutorial2/)
+![](images/tbas-tutorial2/Tutorial2.12.png)
 
 13. T-BAS will also send you an email with links to the output files and the runtime options that were selected for the run. Note this run will be deleted after 30 days so if you would like to keep the results you can download the files separately or download archive of all the files (see arrow). The XML is a phyloXML file that includes the tree, alignments and metadata for the entire run. The BLAST report and the Assignments file (see arrows) summarize results from BLAST searches of UNITE and EPA phylogeny-based placement on Ramularia reference tree, respectively. The Qiime file reports that clustering was done at the 1.0 level (i.e. duplicates removed).
-![](images/tbas-tutorial2/)
+![](images/tbas-tutorial2/Tutorial2.13.png)
 
 14.  Click on the Assignments file to download and open in Excel. This file shows that four unknown sequences were excluded using the UNITE filter and that all the unknowns belong to a single OTU0 and are most closely related to Ramularia collo-cygni. This placement is strongly supported with an accumulated likelihood weight of 0.999991 out of a total of 1.0. When using EPA placement, likelihood scores that are less than 0.95 indicate weaker placements that may be unreliable.
+![](images/tbas-tutorial2/Tutorial2.14.1.png)
 Aside note: If the UNITE filter is skipped and you run this placement again, the genetic distance cutoff will also exclude the same four sequences. This shows the utility of the genetic distance cutoff when placing sequences from other loci since the UNITE database is only for ITS.
-![](images/tbas-tutorial2/)
+![](images/tbas-tutorial2/Tutorial2.14.2.png)
 
 15.  Click on the BLAST (complete) file to download and open in Excel. This file shows that the four excluded taxa (2073, 2072, 2070, 2076) belong to different families and orders.
 ![](images/tbas-tutorial2/)
