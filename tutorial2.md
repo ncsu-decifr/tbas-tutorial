@@ -74,15 +74,17 @@ Then click on view tree (see arrow).
 ![](images/tbas-tutorial2/Tutorial2.20.2.png)
 
 21.  Here is the tree displayed using Rectangular under Layout. Reset the Defaults under Help (see arrow). The order of isolates may be different from what is shown in this view.
+![](images/tbas-tutorial2/Tutorial2.21.1.png)
 Select all the leaves in tree by clicking on select all (see arrow). View the alignments by selecting PHYLIP under Format and then clicking on view (see arrow). The alignment shows additional variation (see arrows) within OTU0 that was ignored in the original placement of the clustered sequences.
-![](images/tbas-tutorial2/)
+![](images/tbas-tutorial2/Tutorial2.21.2.png)
 
 22. Return to the original placement phylogeny (in one of the tabs) and click on the Network (TCS) button (see arrow).
-![](images/tbas-tutorial2/)
+![](images/tbas-tutorial2/Tutorial2.22.png)
 
 23.  A new tab will open showing the available options for network inference using statistical parsimony. Gaps can be treated as a fifth character state or as missing data and parsimony connection limits of 90-99%. Check the options to Realign sequences in clade with MAFFT and ITS. If placements were performed for multiple loci the user will be able to examine networks for different locus combinations.  Hit submit to start the run.
+![](images/tbas-tutorial2/Tutorial2.23.1.png)
 The progress bar shows that MAFFT is running.
-![](images/tbas-tutorial2/)
+![](images/tbas-tutorial2/Tutorial2.23.2.png)
 
 24. At the end of the run a results page is generated. Click on the viewer link (see arrow) to view the network. You will also receive an email with the results from the run.
 ![](images/tbas-tutorial2/)
