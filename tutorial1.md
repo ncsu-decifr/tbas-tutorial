@@ -26,22 +26,19 @@ Text options include **italicize names** and **adjusting font size**. The **Colo
 ![](images/tbas-tutorial1/tutorial1.8.png)
 
 9. Change the **Format** to **NEXUS**. Clicking on the **view** button under **Highlighted taxa** will show the sequences for RPB2 (**NEXUS** format) for the highlighted taxa in a new pop-up window. Note the pop-up menu shown in step 8 also has a **view** option under **Metadata** that could be used instead. The dashboard window at the bottom right now provides a summary of the total length of the alignment (664), number of constant sites (660) and number of variable sites (4).
-
 ![](images/tbas-tutorial1/tutorial1.9.png)
 
-10. Selecting the PHYLIP option under the Format menu and then clicking on the view button under Highlighted taxa will show the sequences for RPB2 (PHYLIP format) for the highlighted taxa in the pop-up window.
+10. Selecting the **PHYLIP** option under the **Format** menu and then clicking on the **view** button under **Highlighted taxa** will show the sequences for RPB2 (**PHYLIP** format) for the highlighted taxa in the pop-up window.
 ![](images/tbas-tutorial1/tutorial1.10.png)
 
-11. Clicking on Newick tree under Highlighted taxa will display the tree for the highlighted taxa in a new tab.  Depending on which option is selected under Format the Newick tree is displayed in NEXUS or PHYLIP format.
+11. Clicking on **Newick tree** under **Highlighted taxa** will display the tree for the highlighted taxa in a new tab.  Depending on which option is selected under **Format** the Newick tree is displayed in **NEXUS** or **PHYLIP** format.
 ![](images/tbas-tutorial1/tutorial1.11.png)
-
-Tree in NEWICK/NEXUS format
+Tree in **NEWICK/NEXUS** format
 ![](images/tbas-tutorial1/tutorial1.11.1.png)
-
-Tree in NEWICK/PHYLIP format
+Tree in **NEWICK/PHYLIP** format
 ![](images/tbas-tutorial1/tutorial1.11.2.png)
 
-12. Click to select all six loci (RPB2, ITS, GAPDH, HIS3, ACT and TEF-1a), with the concatenated option under Sequence, and NEXUS as the file Format. Then click on view to display the concatenated multi-locus alignment in NEXUS format with character partition block showing the start and end position of each locus in the alignment. This information is useful when using other tools, for example PartitionFinder to identify the optimal data partitions evolving under the same evolutionary model. The dashboard window on the right provides a summary of the variation for each locus.
+12. Click to select all six loci (RPB2, ITS, GAPDH, HIS3, ACT and TEF-1a), with the **concatenated** option under **Sequence**, and **NEXUS** as the file **Format**. Then click on **view** to display the concatenated multi-locus alignment in NEXUS format with character partition block showing the start and end position of each locus in the alignment. This information is useful when using other tools, for example [PartitionFinder](http://www.robertlanfear.com/partitionfinder/) to identify the optimal data partitions evolving under the same evolutionary model. The dashboard window on the right provides a summary of the variation for each locus.
 ![](images/tbas-tutorial1/tutorial1.12.png)
 
 13. Switching the Format to PHYLIP, selecting concatenated under Sequence, and then clicking on view shows the multi-locus concatenated alignment in PHYLIP format.
