@@ -25,9 +25,17 @@ gulp.task('tutorial1', function() {
         .pipe(gulp.dest('/var/www/html/tbas2_1/pages'))
 });
 
-gulp.task('move_images', function() {
-    return gulp.src("images/tbas-tutorial/*.*")
-        .pipe(gulp.dest('/var/www/html/tbas2_1/pages/images/tbas-tutorial'));
+gulp.task('move_images1', function() {
+    return gulp.src("images/tbas-tutorial1/*.*")
+        .pipe(gulp.dest('/var/www/html/tbas2_1/pages/images/tbas-tutorial1'));
+});
+gulp.task('move_images2', function() {
+    return gulp.src("images/tbas-tutorial2/*.*")
+        .pipe(gulp.dest('/var/www/html/tbas2_1/pages/images/tbas-tutorial2'));
+});
+gulp.task('move_images3', function() {
+    return gulp.src("images/tbas-tutorial3/*.*")
+        .pipe(gulp.dest('/var/www/html/tbas2_1/pages/images/tbas-tutorial3'));
 });
 
 gulp.task('move_data', function() {
@@ -36,5 +44,10 @@ gulp.task('move_data', function() {
 });
 
 gulp.task('default', [
-    'markdown', 'tutorial1', 'move_images', 'move_data'
+    'markdown',
+    'tutorial1',
+    'move_images1',
+    'move_images2',
+    'move_images3',
+    'move_data'
 ]);
