@@ -1,33 +1,33 @@
 # Tutorial 3: Uploading and creating a custom T-BAS reference tree with alignments and specimen metadata, and option to place unknown sequences and metadata
 
 1. In this tutorial we will be uploading a custom reference tree and all of the files that are needed to perform a placement of unknown sequences on that tree. We will use the Ramularia reference tree and files that are available in [TreeBase](https://www.treebase.org/treebase-web/search/studySearch.html). For your convenience we made these files available as links in the tutorial. They can be downloaded by searching for the S16754 study ID in [TreeBase](https://www.treebase.org/treebase-web/search/studySearch.html) and retrieving the original [tree](http://purl.org/phylo/treebase/phylows/tree/TB2:Tr79968?format=nexus) and [alignment](https://www.treebase.org/treebase-web/search/downloadANexusFile.html?id=16754&treeid=79968) files. The specimen metadata was extracted from Table 1 in [Videira et al. 2015](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4510271/). To begin, go to the T-BAS start page (https://tbas.hpc.ncsu.edu/start) and click on the Upload Tree button (see arrow).
-![](images/tbas-tutorial3/)
+![](images/tbas-tutorial3/Tutorial3.1.png)
 
 2. You will be required to login. If you are first time user, you will need to register by clicking on the Registration page link (see arrow).
-![](images/tbas-tutorial3/)
+![](images/tbas-tutorial3/Tutorial3.2.1.png)
 If you already registered but forgot your PIN you can go to the Registration page and Check to resend lost PIN (see arrow).
-![](images/tbas-tutorial3/)
+![](images/tbas-tutorial3/Tutorial3.2.2.png)
 
 3. After registering you will be returned to the login page. Enter your email address, PIN and check the box acknowledging your acceptance of our disclaimer and privacy policy. Then click Submit.
-![](images/tbas-tutorial3/)
+![](images/tbas-tutorial3/Tutorial3.3.png)
 
 4. After login you will see two options for uploading trees: Newick tree or cifr phyloXML.  The Newick format is for the tree only and selecting this option will expand the window to allow you to upload the sequence alignment and specimen metadata for the reference tree. The cifr phyloXML is a new data standard that extends phyloXML to include both sequence alignments and specimen metadata.  The cifr phyloXML makes it convenient to place on trees from previous T-BAS runs because only one file needs to be uploaded. To begin click on Newick tree (see arrow).
-![](images/tbas-tutorial3/)
+![](images/tbas-tutorial3/Tutorial3.4.png)
 
 5. This will expand the display to show three upload sections: Upload reference tree, Upload reference sequence alignment and Upload reference metadata.  Click on the example file links (see arrows) for each section to load the files.
-![](images/tbas-tutorial3/)
+![](images/tbas-tutorial3/Tutorial3.5.png)
 
 6. The example files will now be visible and can be edited.  We will be making some minor edits to the Nexus sequence alignment file. To see more of the alignment file click and drag down the corner box (see arrow).
-![](images/tbas-tutorial3/)
+![](images/tbas-tutorial3/Tutorial3.6.png)
 
 7. The expanded window will look as shown below.  Search for “locus” in your browser.
-![](images/tbas-tutorial3/)
+![](images/tbas-tutorial3/Tutorial3.7.png)
 
 8. The search will highlight the loci that are defined in the character partition block and preceded by “charset” (see arrow). If we make no changes the loci will be labeled as locus1, locus2, locus3, locus4, locus5 and locus6 in T-BAS. These names make it difficult to track these loci when performing placements and retrieving data. In this example, the actual name of the locus is provided at the end of the charset line. For example, for locus1 the name is RPB2. Note all locus designations in the alignment file (highlighted in yellow and orange) will need to be relabeled – see next step.
-![](images/tbas-tutorial3/)
+![](images/tbas-tutorial3/Tutorial3.8.png)
 
 9. Here are the relabeled loci. T-BAS can now correctly track the loci and the user will know which target locus to select when performing a placement (described below).
-![](images/tbas-tutorial3/)
+![](images/tbas-tutorial3/Tutorial3.9.png)
 
 10. Scroll to the next section where you will be able to view the reference files or perform a phylogeny-based placement using those files.  Whenever uploading a new dataset in T-BAS first view the files to make sure they are imported correctly.  Leave the default as shown below (see arrow) and hit submit.
 ![](images/tbas-tutorial3/)
