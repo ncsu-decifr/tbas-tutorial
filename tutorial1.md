@@ -44,8 +44,7 @@ Text options include **italicize names** and **adjusting font size**. The **Colo
    Set **Branch Width** to 4  
    **Show bootstrap values with numbers**.  
    **Branch lengths** are drawn to scale.  
-
-   Both the **Horizontal** and **Vertical Scaling** were adjusted as shown below.
+   **Horizontal** and **Vertical Scaling** were adjusted as shown below.
 ![](images/tbas-tutorial1/Tutorial1.7.png)
 
 8. Hover over and left click on node (see arrow) to show pop-up menu and under **Taxa** click on **Select**.  All the taxa in the selected clade will show in red. The pop-up menu also shows available options for **Metadata, Labels**, and **Tree**. The dashboard window at the top right highlights the selected species and the window below shows the number of taxa selected (5), the number of taxa with missing data for RPB2 (0), number of taxa with data (5).
