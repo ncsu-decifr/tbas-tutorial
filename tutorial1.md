@@ -1,5 +1,7 @@
 # Tutorial 1: Viewing T-BAS trees, alignments, and specimen metadata
-1. In this tutorial we will be using the *Ramularia* reference tree as an example to illustrate the features available when viewing trees in T-BAS. To begin, go to the T-BAS start page (https://tbas.hpc.ncsu.edu/start) and click on the **T-BAS Trees** button (see arrow).
+In this tutorial we will be using the *Ramularia* reference tree as an example to illustrate the features available when viewing trees in T-BAS. 
+
+1. Go to the T-BAS start page (https://tbas.hpc.ncsu.edu/start) and click on the **T-BAS Trees** button (see arrow).
 ![](images/tbas-tutorial1/Tutorial1.1.png)
 
 2. Click on the blue bullet to select the *Ramularia* reference tree.  Note only trees with a solid blue bullet in the guide tree contain data.
