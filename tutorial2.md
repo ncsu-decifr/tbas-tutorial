@@ -94,7 +94,7 @@ You will also receive an email with the results from the run.
 25.  The network shows that OTU0 comprises three haplotypes with one that was sampled on all five collection dates and on all three hosts. The dashboard window on the left in the viewer displays the selected attribute legend (i.e. date collected or host ID). You can switch attributes using the pull-down (see arrow) and the colors in the network will automatically update.
 ![](images/tbas-tutorial2/Tutorial2.25.1.png)
 Select **names** under the **Click on node to show** and then click on the intermediate sized node on the left (see arrow). This will display the specimen **names** in that node in a pop-up window and a summary of the **Attribute Count** for the selected node on the left panel at the bottom.
-![](images/tbas-tutorial2/Tutorial2.25.2.png)
+![](images/tbas-tutorial2/Tutorial2.25.2a.png)
 Select **alignments** and select **Host ID** as shown for the image on the right. Click on the intermediate sized node (see arrow) on the right to display the alignments.
 ![](images/tbas-tutorial2/Tutorial2.25.3.png)
 
