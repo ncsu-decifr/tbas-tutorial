@@ -71,5 +71,5 @@ Tree in **NEWICK/PHYLIP** format
 
 14. Clicking on the **Show taxa for data** pull-down menu will display options for selecting taxa that contain a specified number of loci.  
 
-In this example, all of the five highlighted taxa have data for all six loci.  In other trees, the selected taxa may be missing information for one or more loci. This feature will create alignment files with varying numbers of loci which are useful for assessing topological incongruence using a cumulative supermatrix approach and the [Mesquite Hypha](http://mesquiteproject.org/packages/hypha/manual/index.html) package.
+    In this example, all of the five highlighted taxa have data for all six loci.  In other trees, the selected taxa may be     missing information for one or more loci. This feature will create alignment files with varying numbers of loci which       are useful for assessing topological incongruence using a cumulative supermatrix approach and the [Mesquite Hypha] .     (http://mesquiteproject.org/packages/hypha/manual/index.html) package.
 ![](images/tbas-tutorial1/Tutorial1.14.png)
