@@ -30,66 +30,68 @@ If you already registered but forgot your PIN you can go to the Registration pag
 ![](images/tbas-tutorial3/Tutorial3.9.png)
 
 10. Scroll to the next section where you will be able to view the reference files or perform a phylogeny-based placement using those files.  Whenever uploading a new dataset in T-BAS first view the files to make sure they are imported correctly.  Leave the default as shown below (see arrow) and hit submit.
-![](images/tbas-tutorial3/)
+![](images/tbas-tutorial3/Tutorial3.10.png)
 
 11. After the run is done the results will be summarized in the browser and you will receive an email. You will be able to download a cifr phyloXML file with all the reference files to use in future placements. If you would like to make the reference set available to others there is an option to Add to T-BAS portal. We will return to these options but first view the tree to make sure all looks correct.
-![](images/tbas-tutorial3/)
+![](images/tbas-tutorial3/Tutorial3.11.png)
 
 12. Below is the tree resized and formatted with the following options selected. Magnification reduced by clicking multiple times on  or panning with mouse until Zoom=0.5220 (or enter the value in the box and press enter), Font size +6, Colorize leaves by Species, and set branch Width to 2. The branch lengths are drawn to scale. The legend is displayed in the dashboard window on the right. The displayed colors may be different than what is shown in other runs.
-![](images/tbas-tutorial3/)
+![](images/tbas-tutorial3/Tutorial3.12.png)
 
 13. Download the cifr phyloXML file.
-![](images/tbas-tutorial3/)
+![](images/tbas-tutorial3/Tutorial3.13.png)
 
 14. Select the cifr phyloXML option (see arrow), upload the cifr phyloXML file downloaded from the previous step, and click submit.
-![](images/tbas-tutorial3/)
+![](images/tbas-tutorial3/Tutorial3.14.png)
 
 15. After the run is complete, click on View tree. As you can see below the cifr phyloXML file contains the tree, alignments (six labeled loci) and specimen metadata. If you want to use this reference set in the future, you will just need to upload this cifr phyloXML file. This tree is resized and formatted with the following options selected. Magnification reduced by clicking multiple times on  or panning with mouse until Zoom=0.5220 (or enter the value in the box and press enter), Font size +6, Colorize leaves by Species, and set branch Width to 2. The branch lengths are drawn to scale. The legend is displayed in the dashboard window on the right.
-![](images/tbas-tutorial3/)
+![](images/tbas-tutorial3/Tutorial3.15.png)
 
 16. To add this reference set to the T-BAS portal select the Add to T-BAS portal link.
-![](images/tbas-tutorial3/)
+![](images/tbas-tutorial3/Tutorial3.16.png)
 
 17. The following form will appear.
-![](images/tbas-tutorial3/)
+![](images/tbas-tutorial3/Tutorial3.17.png)
 
 18. Here is an example of the form filled out. Note this tree is private and shared with only two other people (email list); if you want to make it public change the selection in the Access level (see arrow). Click submit at the bottom of the form.
-![](images/tbas-tutorial3/)
+![](images/tbas-tutorial3/Tutorial3.18.png)
 
 19. Once your tree has been reviewed by T-BAS admin it will be made available for viewing and placement by clicking on User Trees on the T-BAS start page. You will receive an email notification of the status of your submitted tree and when it is available for use in T-BAS.
-![](images/tbas-tutorial3/)
+![](images/tbas-tutorial3/Tutorial3.19.1.png)
 List of available trees. For example, click on the Ramularia species complex tree (see arrow).
-![](images/tbas-tutorial3/)
+![](images/tbas-tutorial3/Tutorial3.19.2.png)
 
 20. After clicking on the bullet for Ramularia species complex, the buttons to View Metadata or Place Unknowns will be visible.
-![](images/tbas-tutorial3/)
+![](images/tbas-tutorial3/Tutorial3.20.png)
 
 21. Return to the upload tree form (from the TBAS page) and select cifr phyloXML and upload file.  Then click on yes (see arrow) to perform placement.
-![](images/tbas-tutorial3/)
+![](images/tbas-tutorial3/Tutorial3.21.png)
 
-22. Selecting yes will provide options for uploading unknown query sequences and Upload unknowns metadata (optional). Click on the links (see arrows) to select the example files. The examples will appear in the windows as shown below.
-![](images/tbas-tutorial3/)
+22. Selecting yes will provide options for uploading unknown query sequences and Upload unknowns metadata (optional). Click on the links (see arrows) to select the example files.
+![](images/tbas-tutorial3/Tutorial3.22.1.png)
+The examples will appear in the windows as shown below.
+![](images/tbas-tutorial3/Tutorial3.22.2.png)
 
 23. Scrolling down on the page will show BLAST unknowns options, Cluster and filter unknowns options and RAxML options.  These features function exactly as described in tutorial 2.  In this example we will run the placement with the default values and enter the stain Ramularia_nyssicola_CBS_127665 as the outgroup.  Hit the Submit button.
-![](images/tbas-tutorial3/)
+![](images/tbas-tutorial3/Tutorial3.23.png)
 
 24. A new tab will open showing the selected options for the placement (ensure pop-ups are enabled. If not, enable them and then try again). From the pull-down window select ITS and then hit submit.
-![](images/tbas-tutorial3/)
+![](images/tbas-tutorial3/Tutorial3.24.png)
 
 25. The run will terminate quickly with the following error “Newick tree submitted is not bifurcating. Must select constraint tree with multifurcating”.  This sometimes happens with trees that you download from TreeBase because they are 70% majority-rule bootstrap consensus trees and have multifurcations.  EPA with likelihood weights can only use bifurcating trees so if you have a multifurcating tree with polytomies use the backbone constraint placement method described in next step.
-![](images/tbas-tutorial3/)
+![](images/tbas-tutorial3/Tutorial3.25.png)
 
 26. Return to the RAxML options and select Backbone constraint tree with bootstraps and Multifurcating reference tree with polytomies (see arrows).  Then hit Submit.
-![](images/tbas-tutorial3/)
+![](images/tbas-tutorial3/Tutorial3.26.png)
 
 27. Select the ITS partition from the pull-down and click submit.
-![](images/tbas-tutorial3/)
+![](images/tbas-tutorial3/Tutorial3.27.png)
 
 28. The run takes about 10 min to complete.
-![](images/tbas-tutorial3/)
+![](images/tbas-tutorial3/Tutorial3.28.png)
 
 29. Here is the summary of the output files after the run is done. If you download the cifr phyloXML file (see arrow) it is possible to continue placing more unknowns by using this phyloXML as a starting tree in step 21. Click on View tree.
-![](images/tbas-tutorial3/)
+![](images/tbas-tutorial3/Tutorial3.29.png)
 
 30. Here is the tree with the following options selected. Magnification is set at Zoom=0.6260, Font size +6, Font size adjust bootstrap +6, Colorize leaves by Species, and set branch Width to 2. The branch lengths are drawn to scale, and Bootstrap values box is checked. The legend is displayed in the dashboard window on the right. Note all of the sequences belong to a single OTU and a single representative sequence (411) from that OTU is displayed in the tree.
-![](images/tbas-tutorial3/)
+![](images/tbas-tutorial3/Tutorial3.30.png)
