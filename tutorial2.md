@@ -34,7 +34,7 @@ If you already registered but forgot your PIN you can go to the Registration pag
 
 10.  Clicking on the **submit** button will open a new tab summarizing the files and parameters that the user selected for the run. Note the run number at the top – in this example it is SY7214VF. When running this tutorial, you will have a different run number.  All placement results including sequence and specimen metadata for a run will be saved in a PhyloXML file that is tagged with the unique run number.  Select the reference locus corresponding to the locus that was uploaded by clicking on the pull-down (see arrow) and selecting the ITS. After the ITS is selected click on **submit**.
 ![](images/tbas-tutorial2/Tutorial2.10.1.png)
-As a side note: when uploading multiple files, you will need to match each uploaded file with the reference locus as shown below.  We advise uploading files with the locus in the filename.
+*As a side note: When uploading multiple files, you will need to match each uploaded file with the reference locus as shown below.  It is advised uploading files with the locus in the filename.*
 ![](images/tbas-tutorial2/Tutorial2.10.2.png)
 
 11. The run will start, and a progress bar shows the current step in the analysis pipeline.  A **Kill run** button is provided if you decide to terminate the run. Below are some screenshots showing the run progression.
@@ -51,7 +51,7 @@ As a side note: when uploading multiple files, you will need to match each uploa
 
 14.  Click on the **Assignments** file to download and open in Excel. This file shows that four unknown sequences were excluded using the UNITE filter and that all the unknowns belong to a single OTU0 and are most closely related to *Ramularia collo-cygni*. This placement is strongly supported with an accumulated likelihood weight of 0.999991 out of a total of 1.0. When using EPA placement, likelihood scores that are less than 0.95 indicate weaker placements that may be unreliable.
 ![](images/tbas-tutorial2/Tutorial2.14.1.png)
-A side note: If the UNITE filter is skipped and you run this placement again, the **genetic distance cutoff** will also exclude the same four sequences. This shows the utility of the **genetic distance cutoff** when placing sequences from other loci since the UNITE database is only for ITS.
+*As a side note: If the UNITE filter is skipped and you run this placement again, the **genetic distance cutoff** will also exclude the same four sequences. This shows the utility of the **genetic distance cutoff** when placing sequences from other loci since the UNITE database is only for ITS.*
 ![](images/tbas-tutorial2/Tutorial2.14.2.png)
 
 15.  Click on the **BLAST (complete)** file to download and open in Excel. This file shows that the four excluded taxa (2073, 2072, 2070, 2076) belong to different families and orders.
