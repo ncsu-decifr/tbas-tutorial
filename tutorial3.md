@@ -51,7 +51,14 @@ If you already registered but forgot your PIN you can go to the Registration pag
 14. Select the **cifr phyloXML** option (see arrow), upload the **cifr phyloXML** file downloaded from the previous step, and click submit.
 ![](images/tbas-tutorial3/Tutorial3.14.png)
 
-15. After the run is complete, click on **View tree**. As you can see below the cifr phyloXML file contains the tree, alignments (six labeled loci) and specimen metadata. If you want to use this reference set in the future, you will just need to upload this cifr phyloXML file. This tree is resized and formatted with the following options selected. Magnification reduced by clicking multiple times on ![](images/tbas-tutorial1/magnifier_minus.jpg) or panning with mouse until **Zoom**=0.5220 (or enter the value in the box and press enter), **Font size** +6, **Colorize leaves** by Species, and set branch **Width** to 2. The **branch lengths** are drawn to scale. The legend is displayed in the dashboard window on the right.
+15. After the run is complete, click on **View tree**. As you can see below the cifr phyloXML file contains the tree, alignments (six labeled loci) and specimen metadata. If you want to use this reference set in the future, you will just need to upload this cifr phyloXML file. This tree is resized and formatted with the following options selected:   
+    **Zoom**=0.5220  
+    **Font size** +6  
+    **Colorize leaves** by Species  
+    Branch **Width** 2  
+    **Branch lengths** are drawn to scale  
+    
+    The legend is displayed in the dashboard window on the right.
 ![](images/tbas-tutorial3/Tutorial3.15.png)
 
 16. To add this reference set to the T-BAS portal select the **Add to T-BAS portal** link.
