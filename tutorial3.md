@@ -58,7 +58,7 @@ If you already registered but forgot your PIN you can go to the Registration pag
 
 19. Once your tree has been reviewed by T-BAS admin it will be made available for viewing and placement by clicking on **User Trees** on the T-BAS start page. You will receive an email notification of the status of your submitted tree and when it is available for use in T-BAS.
 ![](images/tbas-tutorial3/Tutorial3.19.1.png)
-List of available trees. For example, click on the **__Ramularia__ species complex** tree (see arrow).
+List of available trees. For example, click on the **_Ramularia_ species complex** tree (see arrow).
 ![](images/tbas-tutorial3/Tutorial3.19.2.png)
 
 20. After clicking on the bullet for Ramularia species complex, the buttons to View Metadata or Place Unknowns will be visible.
