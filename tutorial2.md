@@ -3,21 +3,21 @@
 1. In this tutorial we will be using the *Ramularia* reference tree as an example to illustrate the placement features available in T-BAS. To begin, go to the T-BAS start page (https://tbas.hpc.ncsu.edu/start) and click on the **T-BAS Trees** button (see arrow).
 ![](images/tbas-tutorial2/Tutorial2.1.png)
 
-2. Click on the blue bullet to select the *Ramularia* reference tree. Note only trees with a solid blue bullet in the guide tree contain data. References for each tree are provided under the **Citations** menu. We advise users to refer to the original papers for details on the specific primers that were used for amplification and sequencing of the Loci included in T-BAS.
+2. Click on the blue bullet to select the *Ramularia* reference tree. Note only trees with a solid blue bullet in the guide tree contain data. References for each tree are provided under the **Citations** menu. We advise users to refer to the original papers for details on the specific primers that were used for amplification and sequencing of the **Loci included** in T-BAS.
 ![](images/tbas-tutorial2/Tutorial2.2.png)
 
-3.  The Ramularia tree is now highlighted in red.  Below the guide tree are options (blue buttons) for View Tree Data (i.e., viewing/downloading of tree, alignments and specimen metadata), and Place Unknowns (i.e., phylogenetic placement of unknown sequences).
+3.  The *Ramularia* tree is now highlighted in red.  Below the guide tree are options (blue buttons) for **View Tree Data** (i.e., viewing/downloading of tree, alignments and specimen metadata), and **Place Unknowns** (i.e., phylogenetic placement of unknown sequences).
 ![](images/tbas-tutorial2/Tutorial2.3.png)
 
-4. Click on the Place Unknowns button and login. If you are first time user, you will need to register by clicking on the Registration page link (see arrow).
+4. Click on the **Place Unknowns** button and login. If you are first time user, you will need to register by clicking on the **Registration page** link (see arrow).
 ![](images/tbas-tutorial2/Tutorial2.4.1.png)
-If you already registered but forgot your PIN you can go to the Registration page and Check to resend lost PIN (see arrow).
+If you already registered but forgot your PIN you can go to the Registration page and **Check to resend lost PIN** (see arrow).
 ![](images/tbas-tutorial2/Tutorial2.4.2.png)
 
-5. After registering you will be returned to the login page. Enter your email address, PIN and check the box acknowledging your acceptance of our disclaimer and privacy policy. Then click submit
+5. After registering you will be returned to the login page. Enter your email address, PIN and check the box acknowledging your acceptance of our disclaimer and privacy policy. Then click **submit.**
 ![](images/tbas-tutorial2/Tutorial2.5.png)
 
-6. A new tab will open with the options for placing unknown sequences on the Ramularia tree. At the top is the name of the reference set for placement and the loci included in the tree. The section with the header Upload unknown query sequences is used for uploading unaligned unknown sequences in FASTA format. The Add fasta button allows user to select up to a maximum of six loci for placement. Specimen metadata for the unknown samples in CSV format can be uploaded in the section labeled Upload unknowns metadata (optional). If a column with the class header is included in the CSV metadata file, T-BAS will calculate class placement F-scores where higher F-scores indicate better class placement accuracy. The Retain all metadata for OTU members only applies if you are clustering sequences into OTUs (next section in form). Typically, when clustering is done only one representative sequence is kept for each OTU but if this option is selected other members within the OTU that have different attributes will be displayed in the tree.
+6. A new tab will open with the options for placing unknown sequences on the *Ramularia* tree. At the top is the name of the **reference set** for placement and the **loci included** in the tree. The section with the header **Upload unknown query sequences** is used for uploading unaligned unknown sequences in **FASTA** format. The **Add fasta** button allows user to select up to a maximum of six loci for placement. Specimen metadata for the unknown samples in CSV format can be uploaded in the section labeled **Upload unknowns metadata (optional)**. If a column with the class header is included in the CSV metadata file, T-BAS will calculate class placement F-scores where higher F-scores indicate better class placement accuracy. The **Retain all metadata for OTU members** only applies if you are clustering sequences into OTUs (next section in form). Typically, when clustering is done only one representative sequence is kept for each OTU but if this option is selected other members within the OTU that have different attributes will be displayed in the tree.
 ![](images/tbas-tutorial2/Tutorial2.6.png)
 
 7. In this tutorial we will use the example files that are provided.  Note when you are examining your own data you will need to upload your FASTA files. This is important so that the locus name is included in the filename for associating with reference loci (step 10). Under Upload unknown query sequences click on the Unknowns ITS file1 (see arrow) to have it displayed as shown below.  Similarly, under the Upload unknowns metadata (optional) click on the Unknowns metadata (see arrow) to use that file.
