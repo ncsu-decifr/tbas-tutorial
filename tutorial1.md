@@ -33,16 +33,16 @@ Text options include **italicize names** and **adjusting font size**. The **Colo
 ![](images/tbas-tutorial1/Tutorial1.6.png)
 
 7. Below is the tree shown in **rectangular layout** shown with the following options selected: 
-**Zoom** 0.8316
-**Font size** +6
-**Font size bootstrap** +4
-Names are **Italicized**
-No colorizing of leaves or bands
-**Colorize Branches** by Species
-Set **Branch Width** to 4
-**Show bootstrap values with numbers**. 
-**Branch lengths** are drawn to scale.  
-Both the **Horizontal** and **Vertical Scaling** were adjusted as shown below.
+   * **Zoom** 0.8316
+   * **Font size** +6
+   * **Font size bootstrap** +4
+   * Names are **Italicized**
+   * No colorizing of leaves or bands
+   * **Colorize Branches** by Species
+   * Set **Branch Width** to 4
+   * **Show bootstrap values with numbers**. 
+   * **Branch lengths** are drawn to scale.  
+   * Both the **Horizontal** and **Vertical Scaling** were adjusted as shown below.
 ![](images/tbas-tutorial1/Tutorial1.7.png)
 
 8. Hover over and left click on node (see arrow) to show pop-up menu and under **Taxa** click on **Select**.  All the taxa in the selected clade will show in red. The pop-up menu also shows available options for **Metadata, Labels**, and **Tree**. The dashboard window at the top right highlights the selected species and the window below shows the number of taxa selected (5), the number of taxa with missing data for RPB2 (0), number of taxa with data (5).
@@ -63,7 +63,7 @@ Tree in **NEWICK/PHYLIP** format
 
 12. Click to select all six loci (RPB2, ITS, GAPDH, HIS3, ACT and TEF-1a), with the **concatenated** option under **Sequence**, and **NEXUS** as the file **Format**. Then click on **view** to display the concatenated multi-locus alignment in NEXUS format with character partition block showing the start and end position of each locus in the alignment. 
 
-This information is useful when using other tools, for example [PartitionFinder](http://www.robertlanfear.com/partitionfinder/) to identify the optimal data partitions evolving under the same evolutionary model. The dashboard window on the right provides a summary of the variation for each locus.
+This information is useful when using other tools, for example [PartitionFinder]       (http://www.robertlanfear.com/partitionfinder/) to identify the optimal data partitions evolving under the same evolutionary  model. The dashboard window on the right provides a summary of the variation for each locus.
 ![](images/tbas-tutorial1/Tutorial1.12.png)
 
 13. Switching the **Format** to **PHYLIP**, selecting **concatenated** under **Sequence**, and then clicking on **view** shows the multi-locus concatenated alignment in PHYLIP format.
