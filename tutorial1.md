@@ -61,9 +61,9 @@ Tree in **NEWICK/NEXUS** format
 Tree in **NEWICK/PHYLIP** format
 ![](images/tbas-tutorial1/Tutorial1.11.3.png)
 
-12. Click to select all six loci (RPB2, ITS, GAPDH, HIS3, ACT and TEF-1a), with the **concatenated** option under **Sequence**, and **NEXUS** as the file **Format**. Then click on **view** to display the concatenated multi-locus alignment in NEXUS format with character partition block showing the start and end position of each locus in the alignment. 
+12. Click to select all six loci (RPB2, ITS, GAPDH, HIS3, ACT and TEF-1a), with the **concatenated** option under **Sequence**, and **NEXUS** as the file **Format**. Then click on **view** to display the concatenated multi-locus alignment in NEXUS format with character partition block showing the start and end position of each locus in the alignment.  
 
-  This information is useful when using other tools, for example [PartitionFinder]       (http://www.robertlanfear.com/partitionfinder/) to identify the optimal data partitions evolving under the same evolutionary  model. The dashboard window on the right provides a summary of the variation for each locus.
+This information is useful when using other tools, for example [PartitionFinder]       (http://www.robertlanfear.com/partitionfinder/) to identify the optimal data partitions evolving under the same evolutionary  model. The dashboard window on the right provides a summary of the variation for each locus.
 ![](images/tbas-tutorial1/Tutorial1.12.png)
 
 13. Switching the **Format** to **PHYLIP**, selecting **concatenated** under **Sequence**, and then clicking on **view** shows the multi-locus concatenated alignment in PHYLIP format.
