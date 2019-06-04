@@ -61,21 +61,21 @@ If you already registered but forgot your PIN you can go to the Registration pag
 List of available trees. For example, click on the **_Ramularia_ species complex** tree (see arrow).
 ![](images/tbas-tutorial3/Tutorial3.19.2.png)
 
-20. After clicking on the bullet for Ramularia species complex, the buttons to View Metadata or Place Unknowns will be visible.
+20. After clicking on the bullet for **_Ramularia_ species complex**, the buttons to **View Metadata** or **Place Unknowns** will be visible.
 ![](images/tbas-tutorial3/Tutorial3.20.png)
 
-21. Return to the upload tree form (from the TBAS page) and select cifr phyloXML and upload file.  Then click on yes (see arrow) to perform placement.
+21. Return to the upload tree form (from the TBAS page) and select **cifr phyloXML** and upload file.  Then click on **yes** (see arrow) to perform placement.
 ![](images/tbas-tutorial3/Tutorial3.21.png)
 
-22. Selecting yes will provide options for uploading unknown query sequences and Upload unknowns metadata (optional). Click on the links (see arrows) to select the example files.
+22. Selecting **yes** will provide options for **uploading unknown query sequences** and **Upload unknowns metadata (optional)**. Click on the links (see arrows) to select the example files.
 ![](images/tbas-tutorial3/Tutorial3.22.1.png)
 The examples will appear in the windows as shown below.
 ![](images/tbas-tutorial3/Tutorial3.22.2.png)
 
-23. Scrolling down on the page will show BLAST unknowns options, Cluster and filter unknowns options and RAxML options.  These features function exactly as described in tutorial 2.  In this example we will run the placement with the default values and enter the stain Ramularia_nyssicola_CBS_127665 as the outgroup.  Hit the Submit button.
+23. Scrolling down on the page will show **BLAST unknowns options, Cluster and filter unknowns options** and **RAxML options**.  These features function exactly as described in tutorial 2.  In this example we will run the placement with the default values and enter the strain **Ramularia_nyssicola_CBS_127665** as the outgroup.  Hit the **Submit** button.
 ![](images/tbas-tutorial3/Tutorial3.23.png)
 
-24. A new tab will open showing the selected options for the placement (ensure pop-ups are enabled. If not, enable them and then try again). From the pull-down window select ITS and then hit submit.
+24. A new tab will open showing the selected options for the placement (ensure pop-ups are enabled. If not, enable them and then try again). From the pull-down window select **ITS** and then hit **submit**.
 ![](images/tbas-tutorial3/Tutorial3.24.png)
 
 25. The run will terminate quickly with the following error “Newick tree submitted is not bifurcating. Must select constraint tree with multifurcating”.  This sometimes happens with trees that you download from TreeBase because they are 70% majority-rule bootstrap consensus trees and have multifurcations.  EPA with likelihood weights can only use bifurcating trees so if you have a multifurcating tree with polytomies use the backbone constraint placement method described in next step.
