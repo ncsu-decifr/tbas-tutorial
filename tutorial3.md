@@ -17,7 +17,7 @@ If you already registered but forgot your PIN you can go to the Registration pag
 5. This will expand the display to show three upload sections: **Upload reference tree, Upload reference sequence alignment** and **Upload reference metadata**.  Click on the example file links (see arrows) for each section to load the files.
 ![](images/tbas-tutorial3/Tutorial3.5.png)
 
-6. The example files will now be visible and can be edited.  We will be making some minor edits to the Nexus sequence alignment file. To see more of the alignment file click and drag down the corner box (see arrow).
+6. The example files will now be visible and can be edited.  We will be making some minor edits to the Nexus sequence alignment file. To see more of the alignment file, click and drag down the corner box (see arrow).
 ![](images/tbas-tutorial3/Tutorial3.6.png)
 
 7. The expanded window will look as shown below.  Search for “locus” in your browser.
