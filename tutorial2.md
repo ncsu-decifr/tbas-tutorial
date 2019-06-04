@@ -1,7 +1,9 @@
 # Tutorial 2: Phylogeny-based placement of unknown sequences, de novo phylogenetic reconstruction of subtrees and haplotype network inference 
 
-Things to note before getting started:
-* PReferences for each tree are provided under the Citations menu. We advise users to refer to the original papers for details on the specific primers that were used for amplification and sequencing of the Loci included in T-BAS.
+Things to note before starting:  
+* Pop-up windows will need to be enabled when using TBAS.  
+
+* References for each tree are provided under the Citations menu. It is advised that users refer to the original papers for details on the specific primers that were used for amplification and sequencing of the loci included in T-BAS.
 
 In this tutorial we will be using the *Ramularia* reference tree as an example to illustrate the placement features available in T-BAS.
 
