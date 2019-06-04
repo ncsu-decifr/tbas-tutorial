@@ -42,7 +42,7 @@ Text options include **italicize names** and **adjusting font size**. The **Colo
    Set **Branch Width** to 4  
    **Show bootstrap values with numbers**.  
    **Branch lengths** are drawn to scale.  
-   
+
    Both the **Horizontal** and **Vertical Scaling** were adjusted as shown below.
 ![](images/tbas-tutorial1/Tutorial1.7.png)
 
@@ -62,9 +62,9 @@ Tree in **NEWICK/NEXUS** format
 Tree in **NEWICK/PHYLIP** format
 ![](images/tbas-tutorial1/Tutorial1.11.3.png)
 
-12. Click to select all six loci (RPB2, ITS, GAPDH, HIS3, ACT and TEF-1a), with the **concatenated** option under **Sequence**, and **NEXUS** as the file **Format**. Then click on **view** to display the concatenated multi-locus alignment in NEXUS format with character partition block showing the start and end position of each locus in the alignment. 
+12. Click to select all six loci (RPB2, ITS, GAPDH, HIS3, ACT and TEF-1a), with the **concatenated** option under **Sequence**, and **NEXUS** as the file **Format**. Then click on **view** to display the concatenated multi-locus alignment in NEXUS format with character partition block showing the start and end position of each locus in the alignment.  
 
-This information is useful when using other tools, for example [PartitionFinder](http://www.robertlanfear.com/partitionfinder/) to identify the optimal data partitions evolving under the same evolutionary model. The dashboard window on the right provides a summary of the variation for each locus.
+    This information is useful when using other tools, for example [PartitionFinder](http://www.robertlanfear.com/partitionfinder/) to identify the optimal data partitions evolving under the same evolutionary     model. The dashboard window on the right provides a summary of the variation for each locus.
 ![](images/tbas-tutorial1/Tutorial1.12.png)
 
 13. Switching the **Format** to **PHYLIP**, selecting **concatenated** under **Sequence**, and then clicking on **view** shows the multi-locus concatenated alignment in PHYLIP format.
@@ -72,5 +72,5 @@ This information is useful when using other tools, for example [PartitionFinder]
 
 14. Clicking on the **Show taxa for data** pull-down menu will display options for selecting taxa that contain a specified number of loci.  
 
-In this example, all of the five highlighted taxa have data for all six loci.  In other trees, the selected taxa may be missing information for one or more loci. This feature will create alignment files with varying numbers of loci which are useful for assessing topological incongruence using a cumulative supermatrix approach and the [Mesquite Hypha](http://mesquiteproject.org/packages/hypha/manual/index.html) package.
+    In this example, all of the five highlighted taxa have data for all six loci.  In other trees, the selected taxa may be     missing information for one or more loci. This feature will create alignment files with varying numbers of loci which       are useful for assessing topological incongruence using a cumulative supermatrix approach and the [Mesquite Hypha](http://mesquiteproject.org/packages/hypha/manual/index.html) package.
 ![](images/tbas-tutorial1/Tutorial1.14.png)
