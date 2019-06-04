@@ -70,7 +70,7 @@ If you already registered but forgot your PIN you can go to the Registration pag
     **Zoom** 0.5220  
     **Font size** +8  
     **Colorize leaves** by Species  
-    Set branch **Width** to 2  
+    Branch **Width** 2  
     **Branch lengths** are drawn to scale     
 
     The legend is displayed in the dashboard window on the right. Note only a single representative of OTU0 (411) is   displayed in the tree. Click on the leaf (see arrow) to display the pop-up menu and select **Likelihood weight** under **Labels**.
