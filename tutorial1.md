@@ -18,32 +18,32 @@ In this tutorial we will be using the *Ramularia* reference tree as an example t
 Text options include **italicize names** and **adjusting font size**. The **Colorize Leaves** option will colorize the outer leaves of the tree according to specimen metadata by selecting from the pull down.  Additional outer rings (i.e. bands) can be added – up to a maximum of 12 by clicking on the **more+** option. Colors can be applied to the **background** or **text**. Additional options will **Colorize Branches** and the **Width** of branch lines can be adjusted. **Bootstrap values** can be displayed on branches or by thickening the lines in the tree for a specified bootstrap threshold value. **Edge numbers** are used when placing unknowns in T-BAS (see Tutorial 2). **Branch lengths** are by default drawn to scale. Trees and legend can be **Exported** separately and combined as PNG, SVG, PDF, and multipage PDF. The **Zoom** shows the tree magnification, which can be adjusted by clicking the ![](images/tbas-tutorial1/magnifier.jpg) icons or typing a value into the box. The default is 1.0.
 
 6. Below is the tree resized and formatted with the following options selected: 
-  * **Zoom** 0.5220 
-  * **Font size** +6
-  * **Font size bootstrap** +5 
-**Colorize leaves** by Species
-**Colorize band 2** by Country
-**Colorize Branches** by Species
-Set branch **Width** to 2
-Show **bootstrap values with thick lines**
-**Show bootstrap values (numbers)**. 
-**Branch lengths** are drawn to scale.
+   **Zoom** 0.5220  
+   **Font size** +6  
+   **Font size bootstrap** +5  
+   **Colorize leaves** by Species  
+   **Colorize band 2** by Country  
+   **Colorize Branches** by Species  
+   Set branch **Width** to 2  
+   Show **bootstrap values with thick lines**  
+   **Show bootstrap values (numbers)**.  
+   **Branch lengths** are drawn to scale.  
 
-
-  The legends are displayed in the dashboard window on the right.
+   The legends are displayed in the dashboard window on the right.
 ![](images/tbas-tutorial1/Tutorial1.6.png)
 
 7. Below is the tree shown in **rectangular layout** shown with the following options selected: 
-**Zoom** 0.8316
-**Font size** +6
-**Font size bootstrap** +4
-Names are **Italicized**
-No colorizing of leaves or bands
-**Colorize Branches** by Species
-Set **Branch Width** to 4
-**Show bootstrap values with numbers**. 
-**Branch lengths** are drawn to scale.  
-Both the **Horizontal** and **Vertical Scaling** were adjusted as shown below.
+   **Zoom** 0.8316  
+   **Font size** +6  
+   **Font size bootstrap** +4  
+   Names are **Italicized**  
+   No colorizing of leaves or bands  
+   **Colorize Branches** by Species  
+   Set **Branch Width** to 4  
+   **Show bootstrap values with numbers**.  
+   **Branch lengths** are drawn to scale.  
+   
+   Both the **Horizontal** and **Vertical Scaling** were adjusted as shown below.
 ![](images/tbas-tutorial1/Tutorial1.7.png)
 
 8. Hover over and left click on node (see arrow) to show pop-up menu and under **Taxa** click on **Select**.  All the taxa in the selected clade will show in red. The pop-up menu also shows available options for **Metadata, Labels**, and **Tree**. The dashboard window at the top right highlights the selected species and the window below shows the number of taxa selected (5), the number of taxa with missing data for RPB2 (0), number of taxa with data (5).
