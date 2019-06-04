@@ -1,8 +1,8 @@
 # Tutorial 1: Viewing T-BAS trees, alignments, and specimen metadata
 In this tutorial we will be using the *Ramularia* reference tree as an example to illustrate the features available when viewing trees in T-BAS. 
 
-A few things to note:
-Pop-up windows will need to be enabled when using TBAS.
+A few things to note:  
+Pop-up windows will need to be enabled when using TBAS.  
 
 References for each tree are provided under the Citations menu. We advise users to refer to the original papers for details on the specific primers that were used for amplification and sequencing of the Loci included in T-BAS.
 
