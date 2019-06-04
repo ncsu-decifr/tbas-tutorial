@@ -30,7 +30,7 @@ Show **bootstrap values with thick lines**
 **Show bootstrap values (numbers)**. 
 **Branch lengths** are drawn to scale.
 
-*The legends are displayed in the dashboard window on the right.
+ The legends are displayed in the dashboard window on the right.
  
 ![](images/tbas-tutorial1/Tutorial1.6.png)
 
