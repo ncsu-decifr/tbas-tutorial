@@ -66,11 +66,11 @@ If you already registered but forgot your PIN you can go to the Registration pag
 ![](images/tbas-tutorial2/Tutorial2.16.1.png)
 ![](images/tbas-tutorial2/Tutorial2.16.2.png)
 
-17. Below is the tree resized and formatted with the following options selected. Magnification is reduced by clicking multiple times on ![](images/tbas-tutorial1/magnifier_minus.jpg) or entering the value in the box and pressing enter             * **Zoom** 0.5220
-    * **Font size** +8
-    * **Colorize leaves** by Species
-    * Set branch **Width** to 2
-    * **Branch lengths** are drawn to scale     
+17. Below is the tree resized and formatted with the following options selected. Magnification is reduced by clicking multiple times on ![](images/tbas-tutorial1/magnifier_minus.jpg) or entering the value in the box and pressing enter             **Zoom** 0.5220  
+    **Font size** +8  
+    **Colorize leaves** by Species  
+    Set branch **Width** to 2  
+    **Branch lengths** are drawn to scale     
 
     The legend is displayed in the dashboard window on the right. Note only a single representative of OTU0 (411) is   displayed in the tree. Click on the leaf (see arrow) to display the pop-up menu and select **Likelihood weight** under **Labels**.
 ![](images/tbas-tutorial2/Tutorial2.17.png)
