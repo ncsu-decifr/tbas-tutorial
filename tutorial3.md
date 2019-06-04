@@ -35,7 +35,14 @@ If you already registered but forgot your PIN you can go to the Registration pag
 11. After the run is done the results will be summarized in the browser and you will receive an email. You will be able to download a **cifr phyloXML** file with all the reference files to use in future placements. If you would like to make the reference set available to others there is an option to **Add to T-BAS portal**. We will return to these options but first view the tree to make sure all looks correct.
 ![](images/tbas-tutorial3/Tutorial3.11.png)
 
-12. Below is the tree resized and formatted with the following options selected. Magnification reduced by clicking multiple times on ![](images/tbas-tutorial1/magnifier_minus.jpg) or panning with mouse until **Zoom**=0.5220 (or enter the value in the box and press enter), **Font size** +6, **Colorize leaves** by Species, and set branch **Width** to 2. The **branch lengths** are drawn to scale. The legend is displayed in the dashboard window on the right. The displayed colors may be different than what is shown in other runs.
+12. Below is the tree resized and formatted with the following options selected:     
+    **Zoom** 0.5220   
+    **Font size** +6  
+    **Colorize leaves** by Species  
+    Branch **Width** 2  
+    **Branch lengths** are drawn to scale  
+    
+    The legend is displayed in the dashboard window on the right. The displayed colors may be different than what is shown in other runs.
 ![](images/tbas-tutorial3/Tutorial3.12.png)
 
 13. Download the cifr phyloXML file.
