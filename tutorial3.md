@@ -113,7 +113,7 @@ The examples will appear in the windows as shown below.
     **Font size adjust bootstrap** +6  
     **Colorize leaves** by Species  
     Branch **Width** 2  
-    The **branch lengths** are drawn to scale  
+    **Branch lengths** are drawn to scale  
     **Bootstrap values** box is checked  
     
     The legend is displayed in the dashboard window on the right.  
