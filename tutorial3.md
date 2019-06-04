@@ -35,30 +35,30 @@ If you already registered but forgot your PIN you can go to the Registration pag
 11. After the run is done the results will be summarized in the browser and you will receive an email. You will be able to download a **cifr phyloXML** file with all the reference files to use in future placements. If you would like to make the reference set available to others there is an option to **Add to T-BAS portal**. We will return to these options but first view the tree to make sure all looks correct.
 ![](images/tbas-tutorial3/Tutorial3.11.png)
 
-12. Below is the tree resized and formatted with the following options selected. Magnification reduced by clicking multiple times on ![](images/tbas-tutorial1/magnifier_minus.jpg) or panning with mouse until **Zoom**=0.5220 (or enter the value in the box and press enter), Font size +6, Colorize leaves by Species, and set branch Width to 2. The branch lengths are drawn to scale. The legend is displayed in the dashboard window on the right. The displayed colors may be different than what is shown in other runs.
+12. Below is the tree resized and formatted with the following options selected. Magnification reduced by clicking multiple times on ![](images/tbas-tutorial1/magnifier_minus.jpg) or panning with mouse until **Zoom**=0.5220 (or enter the value in the box and press enter), **Font size** +6, **Colorize leaves** by Species, and set branch **Width** to 2. The **branch lengths** are drawn to scale. The legend is displayed in the dashboard window on the right. The displayed colors may be different than what is shown in other runs.
 ![](images/tbas-tutorial3/Tutorial3.12.png)
 
 13. Download the cifr phyloXML file.
 ![](images/tbas-tutorial3/Tutorial3.13.png)
 
-14. Select the cifr phyloXML option (see arrow), upload the cifr phyloXML file downloaded from the previous step, and click submit.
+14. Select the **cifr phyloXML** option (see arrow), upload the **cifr phyloXML** file downloaded from the previous step, and click submit.
 ![](images/tbas-tutorial3/Tutorial3.14.png)
 
-15. After the run is complete, click on View tree. As you can see below the cifr phyloXML file contains the tree, alignments (six labeled loci) and specimen metadata. If you want to use this reference set in the future, you will just need to upload this cifr phyloXML file. This tree is resized and formatted with the following options selected. Magnification reduced by clicking multiple times on  or panning with mouse until Zoom=0.5220 (or enter the value in the box and press enter), Font size +6, Colorize leaves by Species, and set branch Width to 2. The branch lengths are drawn to scale. The legend is displayed in the dashboard window on the right.
+15. After the run is complete, click on **View tree**. As you can see below the cifr phyloXML file contains the tree, alignments (six labeled loci) and specimen metadata. If you want to use this reference set in the future, you will just need to upload this cifr phyloXML file. This tree is resized and formatted with the following options selected. Magnification reduced by clicking multiple times on ![](images/tbas-tutorial1/magnifier_minus.jpg) or panning with mouse until **Zoom**=0.5220 (or enter the value in the box and press enter), **Font size** +6, **Colorize leaves** by Species, and set branch **Width** to 2. The **branch lengths** are drawn to scale. The legend is displayed in the dashboard window on the right.
 ![](images/tbas-tutorial3/Tutorial3.15.png)
 
-16. To add this reference set to the T-BAS portal select the Add to T-BAS portal link.
+16. To add this reference set to the T-BAS portal select the **Add to T-BAS portal** link.
 ![](images/tbas-tutorial3/Tutorial3.16.png)
 
 17. The following form will appear.
 ![](images/tbas-tutorial3/Tutorial3.17.png)
 
-18. Here is an example of the form filled out. Note this tree is private and shared with only two other people (email list); if you want to make it public change the selection in the Access level (see arrow). Click submit at the bottom of the form.
+18. Here is an example of the form filled out. Note this tree is **private** and shared with only two other people (email list); if you want to make it **public** change the selection in the **Access level** (see arrow). Click submit at the bottom of the form.
 ![](images/tbas-tutorial3/Tutorial3.18.png)
 
-19. Once your tree has been reviewed by T-BAS admin it will be made available for viewing and placement by clicking on User Trees on the T-BAS start page. You will receive an email notification of the status of your submitted tree and when it is available for use in T-BAS.
+19. Once your tree has been reviewed by T-BAS admin it will be made available for viewing and placement by clicking on **User Trees** on the T-BAS start page. You will receive an email notification of the status of your submitted tree and when it is available for use in T-BAS.
 ![](images/tbas-tutorial3/Tutorial3.19.1.png)
-List of available trees. For example, click on the Ramularia species complex tree (see arrow).
+List of available trees. For example, click on the **__Ramularia__ species complex** tree (see arrow).
 ![](images/tbas-tutorial3/Tutorial3.19.2.png)
 
 20. After clicking on the bullet for Ramularia species complex, the buttons to View Metadata or Place Unknowns will be visible.
