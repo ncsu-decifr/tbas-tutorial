@@ -18,19 +18,19 @@ In this tutorial we will be using the *Ramularia* reference tree as an example t
 Text options include **italicize names** and **adjusting font size**. The **Colorize Leaves** option will colorize the outer leaves of the tree according to specimen metadata by selecting from the pull down.  Additional outer rings (i.e. bands) can be added – up to a maximum of 12 by clicking on the **more+** option. Colors can be applied to the **background** or **text**. Additional options will **Colorize Branches** and the **Width** of branch lines can be adjusted. **Bootstrap values** can be displayed on branches or by thickening the lines in the tree for a specified bootstrap threshold value. **Edge numbers** are used when placing unknowns in T-BAS (see Tutorial 2). **Branch lengths** are by default drawn to scale. Trees and legend can be **Exported** separately and combined as PNG, SVG, PDF, and multipage PDF. The **Zoom** shows the tree magnification, which can be adjusted by clicking the ![](images/tbas-tutorial1/magnifier.jpg) icons or typing a value into the box. The default is 1.0.
 
 6. Below is the tree resized and formatted with the following options selected: 
- * **Zoom** 0.5220 
- * **Font size** +6
- * **Font size bootstrap** +5 
- * **Colorize leaves** by Species
-**Colorize band 2** by Country
-**Colorize Branches** by Species
-Set branch **Width** to 2
-Show **bootstrap values with thick lines**
-**Show bootstrap values (numbers)**. 
-**Branch lengths** are drawn to scale.
+     **Zoom** 0.5220 
+   * **Font size** +6
+   * **Font size bootstrap** +5 
+   * **Colorize leaves** by Species
+   * **Colorize band 2** by Country
+   * **Colorize Branches** by Species
+   * Set branch **Width** to 2
+   * Show **bootstrap values with thick lines**
+   * **Show bootstrap values (numbers)**. 
+   * **Branch lengths** are drawn to scale.
 
-  The legends are displayed in the dashboard window on the right.
-![](images/tbas-tutorial1/Tutorial1.6.png)
+   The legends are displayed in the dashboard window on the right.
+   ![](images/tbas-tutorial1/Tutorial1.6.png)
 
 7. Below is the tree shown in **rectangular layout** shown with the following options selected: 
 **Zoom** 0.8316
