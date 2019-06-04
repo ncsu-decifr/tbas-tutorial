@@ -107,5 +107,16 @@ The examples will appear in the windows as shown below.
 29. Here is the summary of the output files after the run is done. If you download the **cifr phyloXML** file (see arrow) it is possible to continue placing more unknowns by using this phyloXML as a starting tree in step 21. Click on **View tree**.
 ![](images/tbas-tutorial3/Tutorial3.29.png)
 
-30. Here is the tree with the following options selected. Magnification is set at **Zoom**=0.6260, **Font size** +6, **Font size adjust bootstrap** +6, **Colorize leaves** by Species, and set branch **Width** to 2. The **branch lengths** are drawn to scale, and **Bootstrap values** box is checked. The legend is displayed in the dashboard window on the right. Note all of the sequences belong to a single OTU and a single representative sequence (411) from that OTU is displayed in the tree.
+30. Here is the tree with the following options selected:  
+    **Zoom** 0.6260  
+    **Font size** +6  
+    **Font size adjust bootstrap** +6  
+    **Colorize leaves** by Species  
+    Branch **Width** 2  
+    The **branch lengths** are drawn to scale  
+    **Bootstrap values** box is checked  
+    
+    The legend is displayed in the dashboard window on the right.  
+    
+    All of the sequences belong to a single OTU and a single representative sequence (411) from that OTU is displayed in the tree.
 ![](images/tbas-tutorial3/Tutorial3.30.png)
