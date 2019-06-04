@@ -78,20 +78,20 @@ The examples will appear in the windows as shown below.
 24. A new tab will open showing the selected options for the placement (ensure pop-ups are enabled. If not, enable them and then try again). From the pull-down window select **ITS** and then hit **submit**.
 ![](images/tbas-tutorial3/Tutorial3.24.png)
 
-25. The run will terminate quickly with the following error “Newick tree submitted is not bifurcating. Must select constraint tree with multifurcating”.  This sometimes happens with trees that you download from TreeBase because they are 70% majority-rule bootstrap consensus trees and have multifurcations.  EPA with likelihood weights can only use bifurcating trees so if you have a multifurcating tree with polytomies use the backbone constraint placement method described in next step.
+25. The run will terminate quickly with the following error **"Newick tree submitted is not bifurcating. Must select constraint tree with multifurcating"**.  This sometimes happens with trees that you download from TreeBase because they are 70% majority-rule bootstrap consensus trees and have multifurcations. **EPA with likelihood weights** can only use bifurcating trees so if you have a **multifurcating tree with polytomies** use the backbone constraint placement method described in next step.
 ![](images/tbas-tutorial3/Tutorial3.25.png)
 
-26. Return to the RAxML options and select Backbone constraint tree with bootstraps and Multifurcating reference tree with polytomies (see arrows).  Then hit Submit.
+26. Return to the RAxML options and select **Backbone constraint tree with bootstraps** and **Multifurcating reference tree with polytomies** (see arrows).  Then hit **Submit**.
 ![](images/tbas-tutorial3/Tutorial3.26.png)
 
-27. Select the ITS partition from the pull-down and click submit.
+27. Select the ITS partition from the pull-down and click **submit**.
 ![](images/tbas-tutorial3/Tutorial3.27.png)
 
 28. The run takes about 10 min to complete.
 ![](images/tbas-tutorial3/Tutorial3.28.png)
 
-29. Here is the summary of the output files after the run is done. If you download the cifr phyloXML file (see arrow) it is possible to continue placing more unknowns by using this phyloXML as a starting tree in step 21. Click on View tree.
+29. Here is the summary of the output files after the run is done. If you download the **cifr phyloXML** file (see arrow) it is possible to continue placing more unknowns by using this phyloXML as a starting tree in step 21. Click on **View tree**.
 ![](images/tbas-tutorial3/Tutorial3.29.png)
 
-30. Here is the tree with the following options selected. Magnification is set at Zoom=0.6260, Font size +6, Font size adjust bootstrap +6, Colorize leaves by Species, and set branch Width to 2. The branch lengths are drawn to scale, and Bootstrap values box is checked. The legend is displayed in the dashboard window on the right. Note all of the sequences belong to a single OTU and a single representative sequence (411) from that OTU is displayed in the tree.
+30. Here is the tree with the following options selected. Magnification is set at **Zoom**=0.6260, **Font size** +6, **Font size adjust bootstrap** +6, **Colorize leaves** by Species, and set branch **Width** to 2. The **branch lengths** are drawn to scale, and **Bootstrap values** box is checked. The legend is displayed in the dashboard window on the right. Note all of the sequences belong to a single OTU and a single representative sequence (411) from that OTU is displayed in the tree.
 ![](images/tbas-tutorial3/Tutorial3.30.png)
