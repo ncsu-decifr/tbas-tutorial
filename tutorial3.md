@@ -3,18 +3,18 @@
 1. In this tutorial we will be uploading a custom reference tree and all of the files that are needed to perform a placement of unknown sequences on that tree. We will use the *Ramularia* reference tree and files that are available in [TreeBase](https://www.treebase.org/treebase-web/search/studySearch.html). For your convenience we made these files available as links in the tutorial. They can be downloaded by searching for the S16754 study ID in [TreeBase](https://www.treebase.org/treebase-web/search/studySearch.html) and retrieving the original [tree](http://purl.org/phylo/treebase/phylows/tree/TB2:Tr79968?format=nexus) and [alignment](https://www.treebase.org/treebase-web/search/downloadANexusFile.html?id=16754&treeid=79968) files. The specimen metadata was extracted from Table 1 in [Videira et al. 2015](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4510271/). To begin, go to the T-BAS start page (https://tbas.hpc.ncsu.edu/start) and click on the **Upload Tree** button (see arrow).
 ![](images/tbas-tutorial3/Tutorial3.1.png)
 
-2. You will be required to login. If you are first time user, you will need to register by clicking on the Registration page link (see arrow).
+2. You will be required to login. If you are first time user, you will need to register by clicking on the **Registration page** link (see arrow).
 ![](images/tbas-tutorial3/Tutorial3.2.1.png)
-If you already registered but forgot your PIN you can go to the Registration page and Check to resend lost PIN (see arrow).
+If you already registered but forgot your PIN you can go to the Registration page and **Check to resend lost PIN** (see arrow).
 ![](images/tbas-tutorial3/Tutorial3.2.2.png)
 
-3. After registering you will be returned to the login page. Enter your email address, PIN and check the box acknowledging your acceptance of our disclaimer and privacy policy. Then click Submit.
+3. After registering you will be returned to the login page. Enter your email address, PIN and check the box acknowledging your acceptance of our disclaimer and privacy policy. Then click **Submit**.
 ![](images/tbas-tutorial3/Tutorial3.3.png)
 
-4. After login you will see two options for uploading trees: Newick tree or cifr phyloXML.  The Newick format is for the tree only and selecting this option will expand the window to allow you to upload the sequence alignment and specimen metadata for the reference tree. The cifr phyloXML is a new data standard that extends phyloXML to include both sequence alignments and specimen metadata.  The cifr phyloXML makes it convenient to place on trees from previous T-BAS runs because only one file needs to be uploaded. To begin click on Newick tree (see arrow).
+4. After login you will see two options for uploading trees: **Newick tree** or **cifr phyloXML**.  The **Newick** format is for the tree only and selecting this option will expand the window to allow you to upload the sequence alignment and specimen metadata for the reference tree. The **cifr phyloXML** is a new data standard that extends phyloXML to include both sequence alignments and specimen metadata.  The cifr phyloXML makes it convenient to place on trees from previous T-BAS runs because only one file needs to be uploaded. To begin click on **Newick tree** (see arrow).
 ![](images/tbas-tutorial3/Tutorial3.4.png)
 
-5. This will expand the display to show three upload sections: Upload reference tree, Upload reference sequence alignment and Upload reference metadata.  Click on the example file links (see arrows) for each section to load the files.
+5. This will expand the display to show three upload sections: **Upload reference tree, Upload reference sequence alignment** and **Upload reference metadata**.  Click on the example file links (see arrows) for each section to load the files.
 ![](images/tbas-tutorial3/Tutorial3.5.png)
 
 6. The example files will now be visible and can be edited.  We will be making some minor edits to the Nexus sequence alignment file. To see more of the alignment file click and drag down the corner box (see arrow).
@@ -32,10 +32,10 @@ If you already registered but forgot your PIN you can go to the Registration pag
 10. Scroll to the next section where you will be able to view the reference files or perform a phylogeny-based placement using those files.  Whenever uploading a new dataset in T-BAS first view the files to make sure they are imported correctly.  Leave the default as shown below (see arrow) and hit submit.
 ![](images/tbas-tutorial3/Tutorial3.10.png)
 
-11. After the run is done the results will be summarized in the browser and you will receive an email. You will be able to download a cifr phyloXML file with all the reference files to use in future placements. If you would like to make the reference set available to others there is an option to Add to T-BAS portal. We will return to these options but first view the tree to make sure all looks correct.
+11. After the run is done the results will be summarized in the browser and you will receive an email. You will be able to download a **cifr phyloXML** file with all the reference files to use in future placements. If you would like to make the reference set available to others there is an option to **Add to T-BAS portal**. We will return to these options but first view the tree to make sure all looks correct.
 ![](images/tbas-tutorial3/Tutorial3.11.png)
 
-12. Below is the tree resized and formatted with the following options selected. Magnification reduced by clicking multiple times on  or panning with mouse until Zoom=0.5220 (or enter the value in the box and press enter), Font size +6, Colorize leaves by Species, and set branch Width to 2. The branch lengths are drawn to scale. The legend is displayed in the dashboard window on the right. The displayed colors may be different than what is shown in other runs.
+12. Below is the tree resized and formatted with the following options selected. Magnification reduced by clicking multiple times on ![](images/tbas-tutorial1/magnifier_minus.jpg) or panning with mouse until **Zoom**=0.5220 (or enter the value in the box and press enter), Font size +6, Colorize leaves by Species, and set branch Width to 2. The branch lengths are drawn to scale. The legend is displayed in the dashboard window on the right. The displayed colors may be different than what is shown in other runs.
 ![](images/tbas-tutorial3/Tutorial3.12.png)
 
 13. Download the cifr phyloXML file.
