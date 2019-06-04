@@ -59,6 +59,7 @@ A side note: If the UNITE filter is skipped and you run this placement again, th
 
 16. The tree with the placements can be viewed by clicking on the **view tree** link in the email or the **View tree** button in the browser results page
 ![](images/tbas-tutorial2/Tutorial2.16.1.png)
+![](images/tbas-tutorial2/Tutorial2.16.2.png)
 
 17.  Below is the tree resized and formatted with the following options selected. Magnification reduced by clicking multiple times on ![](images/tbas-tutorial1/magnifier_minus.jpg) or panning with mouse until **Zoom**=0.5220 (or enter the value in the box and press enter), **Font size** +8, **Colorize leaves** by Species, and set branch **Width** to 2. The **branch lengths** are drawn to scale. The legend is displayed in the dashboard window on the right. Note only a single representative of OTU0 (411) is displayed in the tree. Click on the leaf (see arrow) to display the pop-up menu and select **Likelihood weight** under **Labels**.
 ![](images/tbas-tutorial2/Tutorial2.17.png)
