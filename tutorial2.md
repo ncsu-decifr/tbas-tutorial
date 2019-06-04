@@ -54,25 +54,25 @@ If you already registered but forgot your PIN you can go to the Registration pag
 13. T-BAS will also send you an email with links to the output files and the runtime options that were selected for the run. Note this run will be deleted after 30 days so if you would like to keep the results you can download the files separately or **download archive** of all the files (see arrow). The **XML** is a phyloXML file that includes the tree, alignments and metadata for the entire run. The **BLAST** report and the **Assignments** file (see arrows) summarize results from BLAST searches of UNITE and EPA phylogeny-based placement on Ramularia reference tree, respectively. The **Qiime** file reports that clustering was done at the 1.0 level (i.e. duplicates removed).
 ![](images/tbas-tutorial2/Tutorial2.13.png)
 
-14.  Click on the **Assignments** file to download and open in Excel. This file shows that four unknown sequences were excluded using the UNITE filter and that all the unknowns belong to a single OTU0 and are most closely related to *Ramularia collo-cygni*. This placement is strongly supported with an accumulated likelihood weight of 0.999991 out of a total of 1.0. When using EPA placement, likelihood scores that are less than 0.95 indicate weaker placements that may be unreliable.
+14. Click on the **Assignments** file to download and open in Excel. This file shows that four unknown sequences were excluded using the UNITE filter and that all the unknowns belong to a single OTU0 and are most closely related to *Ramularia collo-cygni*. This placement is strongly supported with an accumulated likelihood weight of 0.999991 out of a total of 1.0. When using EPA placement, likelihood scores that are less than 0.95 indicate weaker placements that may be unreliable.
 ![](images/tbas-tutorial2/Tutorial2.14.1.png)
 *As a side note: If the UNITE filter is skipped and you run this placement again, the **genetic distance cutoff** will also exclude the same four sequences. This shows the utility of the **genetic distance cutoff** when placing sequences from other loci since the UNITE database is only for ITS.*
 ![](images/tbas-tutorial2/Tutorial2.14.2.png)
 
-15.  Click on the **BLAST (complete)** file to download and open in Excel. This file shows that the four excluded taxa (2073, 2072, 2070, 2076) belong to different families and orders.
+15. Click on the **BLAST (complete)** file to download and open in Excel. This file shows that the four excluded taxa (2073, 2072, 2070, 2076) belong to different families and orders.
 ![](images/tbas-tutorial2/Tutorial2.15.png)
 
 16. The tree with the placements can be viewed by clicking on the **view tree** link in the email or the **View tree** button in the browser results page (see arrows).
 ![](images/tbas-tutorial2/Tutorial2.16.1.png)
 ![](images/tbas-tutorial2/Tutorial2.16.2.png)
 
-17.  Below is the tree resized and formatted with the following options selected. Magnification is reduced by clicking multiple times on ![](images/tbas-tutorial1/magnifier_minus.jpg) or entering the value in the box and pressing enter              **Zoom** 0.5220
-     **Font size** +8
-     **Colorize leaves** by Species
-     Set branch **Width** to 2
-     **Branch lengths** are drawn to scale   
+17. Below is the tree resized and formatted with the following options selected. Magnification is reduced by clicking multiple times on ![](images/tbas-tutorial1/magnifier_minus.jpg) or entering the value in the box and pressing enter             * **Zoom** 0.5220
+    * **Font size** +8
+    * **Colorize leaves** by Species
+    * Set branch **Width** to 2
+    * **Branch lengths** are drawn to scale     
 
-The legend is displayed in the dashboard window on the right. Note only a single representative of OTU0 (411) is displayed in the tree. Click on the leaf (see arrow) to display the pop-up menu and select **Likelihood weight** under **Labels**.
+    The legend is displayed in the dashboard window on the right. Note only a single representative of OTU0 (411) is   displayed in the tree. Click on the leaf (see arrow) to display the pop-up menu and select **Likelihood weight** under **Labels**.
 ![](images/tbas-tutorial2/Tutorial2.17.png)
 
 18. This will highlight 411 and its nearest sibling *Ramularia collo-cygni* where the accumulated likelihood weight has reached a value of at least 0.95 out of a total of 1.0. This is a graphical method of visualizing the reliability of placements – the **Assignments** file shows the calculated likelihood weights. In the dashboard window on the left, click on **PHYLIP** under **Format** and **ITS** under **Sequence** (unclick the RBP2) and then click on view (see arrow). The alignment of the two selected taxa will appear in a new pop-up window. Then click on the **Phylogeny (RAxML)** button (see arrow).
