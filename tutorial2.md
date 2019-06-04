@@ -59,43 +59,43 @@ Aside note: If the UNITE filter is skipped and you run this placement again, the
 16. The tree with the placements can be viewed by clicking on the **view tree** link in the email or the **View tree** button in the browser results page
 ![](images/tbas-tutorial2/Tutorial2.16.1.png)
 
-17.  Below is the tree resized and formatted with the following options selected. Magnification reduced by clicking multiple times on  or panning with mouse until Zoom=0.5220 (or enter the value in the box and press enter), Font size +8, Colorize leaves by Species, and set branch Width to 2. The branch lengths are drawn to scale. The legend is displayed in the dashboard window on the right. Note only a single representative of OTU0 (411) is displayed in the tree. Click on the leaf (see arrow) to display the pop-up menu and select Likelihood weight under Labels.
+17.  Below is the tree resized and formatted with the following options selected. Magnification reduced by clicking multiple times on ![](images/tbas-tutorial1/magnifier_minus.jpg) or panning with mouse until **Zoom**=0.5220 (or enter the value in the box and press enter), **Font size** +8, **Colorize leaves** by Species, and set branch **Width** to 2. The **branch lengths** are drawn to scale. The legend is displayed in the dashboard window on the right. Note only a single representative of OTU0 (411) is displayed in the tree. Click on the leaf (see arrow) to display the pop-up menu and select **Likelihood weight** under **Labels**.
 ![](images/tbas-tutorial2/Tutorial2.17.png)
 
-18. This will highlight 411 and its nearest sibling Ramularia collo-cygni where the accumulated likelihood weight has reached a value of at least 0.95 out of a total of 1.0. This is a graphical method of visualizing the reliability of placements – the Assignments file shows the calculated likelihood weights. In the dashboard window on the left, click on PHYLIP under Format and ITS under Sequence (unclick the RBP2) and then click on view (see arrow). The alignment of the two selected taxa will appear in a new pop-up window. Then click on the Phylogeny (RAxML) button (see arrow).
+18. This will highlight 411 and its nearest sibling *Ramularia collo-cygni* where the accumulated likelihood weight has reached a value of at least 0.95 out of a total of 1.0. This is a graphical method of visualizing the reliability of placements – the **Assignments** file shows the calculated likelihood weights. In the dashboard window on the left, click on **PHYLIP** under **Format** and **ITS** under **Sequence** (unclick the RBP2) and then click on view (see arrow). The alignment of the two selected taxa will appear in a new pop-up window. Then click on the **Phylogeny (RAxML)** button (see arrow).
 ![](images/tbas-tutorial2/Tutorial2.18.png)
 
-19. A new tab will open with options for performing de novo phylogenetic reconstruction for the selected taxa. Check the boxes for Realign sequences in clade with MAFFT, Include unknowns duplicates in alignment and ITS.  Copy and paste the reference taxa Ramularia_collo-cygni_CBS_101181 from the alignment file in the previous step into the Outgroup names box and hit submit.
+19. A new tab will open with options for performing de novo phylogenetic reconstruction for the selected taxa. Check the boxes for **Realign sequences in clade with MAFFT, Include unknowns duplicates in alignment** and **ITS**.  Copy and paste the reference taxa Ramularia_collo-cygni_CBS_101181 from the alignment file in the previous step into the **Outgroup names** box and hit **submit**.
 ![](images/tbas-tutorial2/Tutorial2.19.png)
 
 20. A progress bar will appear to allow the user to monitor the run which should finish in under 5 min. T-BAS will also send you an email when the run is complete.
 ![](images/tbas-tutorial2/Tutorial2.20.1.png)
-Then click on view tree (see arrow).
+Then click on **view tree** (see arrow).
 ![](images/tbas-tutorial2/Tutorial2.20.2.png)
 
-21.  Here is the tree displayed using Rectangular under Layout. Reset the Defaults under Help (see arrow). The order of isolates may be different from what is shown in this view.
+21.  Here is the tree displayed using **Rectangular** under **Layout**. Reset the Defaults under Help (see arrow). The order of isolates may be different from what is shown in this view.
 ![](images/tbas-tutorial2/Tutorial2.21.1.png)
-Select all the leaves in tree by clicking on select all (see arrow). View the alignments by selecting PHYLIP under Format and then clicking on view (see arrow). The alignment shows additional variation (see arrows) within OTU0 that was ignored in the original placement of the clustered sequences.
+Select all the leaves in tree by clicking on **select all** (see arrow). View the alignments by selecting **PHYLIP** under **Format** and then clicking on **view** (see arrow). The alignment shows additional variation (see arrows) within OTU0 that was ignored in the original placement of the clustered sequences.
 ![](images/tbas-tutorial2/Tutorial2.21.2.png)
 
 22. Return to the original placement phylogeny (in one of the tabs) and click on the Network (TCS) button (see arrow).
 ![](images/tbas-tutorial2/Tutorial2.22.png)
 
-23.  A new tab will open showing the available options for network inference using statistical parsimony. Gaps can be treated as a fifth character state or as missing data and parsimony connection limits of 90-99%. Check the options to Realign sequences in clade with MAFFT and ITS. If placements were performed for multiple loci the user will be able to examine networks for different locus combinations.  Hit submit to start the run.
+23.  A new tab will open showing the available options for network inference using statistical parsimony. Gaps can be treated as a fifth character state or as missing data and parsimony connection limits of 90-99%. Check the options to **Realign sequences in clade with MAFFT** and **ITS**. If placements were performed for multiple loci the user will be able to examine networks for different locus combinations.  Hit **submit** to start the run.
 ![](images/tbas-tutorial2/Tutorial2.23.1.png)
 The progress bar shows that MAFFT is running.
 ![](images/tbas-tutorial2/Tutorial2.23.2.png)
 
-24. At the end of the run a results page is generated. Click on the viewer link (see arrow) to view the network.
+24. At the end of the run a results page is generated. Click on the **viewer** link (see arrow) to view the network.
 ![](images/tbas-tutorial2/Tutorial2.24.1.png)
 You will also receive an email with the results from the run.
 ![](images/tbas-tutorial2/Tutorial2.24.2.png)
 
 25.  The network shows that OTU0 comprises three haplotypes with one that was sampled on all five collection dates and on all three hosts. The dashboard window on the left in the viewer displays the selected attribute legend (i.e. date collected or host ID). You can switch attributes using the pull-down (see arrow) and the colors in the network will automatically update.
 ![](images/tbas-tutorial2/Tutorial2.25.1.png)
-Select names under the Click on node to show and then click on the intermediate sized node on the left (see arrow). This will display the specimen names in that node in a pop-up window and a summary of the Attribute Count for the selected node on the left panel at the bottom.
+Select **names** under the **Click on node to show** and then click on the intermediate sized node on the left (see arrow). This will display the specimen **names** in that node in a pop-up window and a summary of the **Attribute Count** for the selected node on the left panel at the bottom.
 ![](images/tbas-tutorial2/Tutorial2.25.2.png)
-Select alignments and select Host ID as shown for the image on the right. Click on the intermediate sized node (see arrow) on the right to display the alignments.
+Select **alignments** and select **Host ID** as shown for the image on the right. Click on the intermediate sized node (see arrow) on the right to display the alignments.
 ![](images/tbas-tutorial2/Tutorial2.25.3.png)
 
 
