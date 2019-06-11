@@ -72,3 +72,42 @@ If you already registered but forgot your PIN you can go to the Registration pag
 
 19. Go back to the Update Attributes page where the current specimen metadata was downloaded from and upload the edited specimen metadata. The edited file could also be copied and pasted into the field, if desired. Click Submit.
 ![](images/tbas-tutorial4/Tutorial4.19.png)
+
+20. Once the run is complete, click View tree.
+![](images/tbas-tutorial4/Tutorial4.20.png)
+
+21. A new tree is created with the edited values. All of the unknowns are now labeled as Ramularia_collo-cygni and the leaves are colored accordingly.
+![](images/tbas-tutorial4/Tutorial4.21.png) 
+
+22. Go back to the results page on step 20 and download the cifr phyloXML file. This new download will contain the updated specimen metadata information. Notice the filename of the tar file contains “placement_round1”, the new name used to rename the specimen metadata with the assignments determined from the first placement.
+![](images/tbas-tutorial4/Tutorial4.22.png)
+
+23. Return to the T-BAS start page (from step 1) and select Upload Tree. Click on cifr phyloXML and upload the downloaded XML file from step 22. Select yes in the placement section and select the Unknowns ITS file2 example file.
+![](images/tbas-tutorial4/Tutorial4.23.png)
+
+24. Click on the Unknowns metadata example file. Next, we will illustrate how T-BAS can filter spurious ITS sequences using BLAST of the UNITE database. In the BLAST unknowns options section select ITS locus is included – filter unknowns to selected taxon and generate UNITE report. Then select the next highest taxonomic level for filtering – in this example, select the family Mycosphaerellaceae as shown below. In the Cluster and filter unknowns options section, select skip-include all, qiime not run.
+![](images/tbas-tutorial4/Tutorial4.24.png)
+
+25. 25) In the RAxML options section, change selection to Backbone constraint tree with bootstraps and select Multifurcating reference tree with polytomies. Note that when placements are performed using EPA there will be multifurcations in the resulting tree and in subsequent placements only the backbone constraint method can be used.  Use Ramularia_nyssicola_CBS_127665 as the outgroup. Click Submit.
+![](images/tbas-tutorial4/Tutorial4.25.png)
+
+26. Select the ITS locus file then select submit.
+![](images/tbas-tutorial4/Tutorial4.26.png)
+
+27. The placement will take about 5-10 minutes to run.
+![](images/tbas-tutorial4/Tutorial4.27.png)
+
+28. Once the run is complete, the results page will display. Select View tree to see the tree.
+![](images/tbas-tutorial4/Tutorial4.28.png)
+
+29. The tree created by the second run is displayed using the following selections:  
+    Zoom: 0.8282  
+    Font size: +6  
+    Font size adjust bootstrap: +6  
+    Colorize leaves by Species  
+    Branch Width: 2  
+    The branch lengths are drawn to scale
+![](images/tbas-tutorial4/Tutorial4.29.png)
+
+30. Clicking on update metadata on the tree (as shown in step 15) and clicking download (as shown in step 16) will pull up the new specimen metadata file. Sort the file by specimen. Now the edits made in step 18 are shown here along with the new unknown placements. Note: This view was edited to show the strain name and species column together for illustration purposes. The file has many other attributes in between these two columns.
+![](images/tbas-tutorial4/Tutorial4.30.png)
