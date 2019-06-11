@@ -88,7 +88,7 @@ If you already registered but forgot your PIN you can go to the Registration pag
 24. Click on the **Unknowns metadata** example file. Next, we will illustrate how T-BAS can filter spurious ITS sequences using BLAST of the UNITE database. In the BLAST unknowns options section select **ITS locus is included – filter unknowns to selected taxon and generate UNITE report**. Then select the next highest taxonomic level for filtering – in this example, select the family Mycosphaerellaceae as shown below. In the Cluster and filter unknowns options section, select **skip-include all, qiime not run**.
 ![](images/tbas-tutorial4/Tutorial4.24.png)
 
-25. 25) In the RAxML options section, change selection to **Backbone constraint tree with bootstraps** and select **Multifurcating reference tree with polytomies**. Note that when placements are performed using EPA there will be multifurcations in the resulting tree and in subsequent placements only the backbone constraint method can be used.  Use Ramularia_nyssicola_CBS_127665 as the outgroup. Click **Submit**.
+25. In the RAxML options section, change selection to **Backbone constraint tree with bootstraps** and select **Multifurcating reference tree with polytomies**. Note that when placements are performed using EPA there will be multifurcations in the resulting tree and in subsequent placements only the backbone constraint method can be used.  Use Ramularia_nyssicola_CBS_127665 as the outgroup. Click **Submit**.
 ![](images/tbas-tutorial4/Tutorial4.25.png)
 
 26. Select the **ITS** locus file then select **submit**.
