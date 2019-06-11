@@ -42,3 +42,33 @@ If you already registered but forgot your PIN you can go to the Registration pag
     Multifurcating reference tree with polytomies  
     Outgroup: Ramularia_nyssicola_CBS_127665  
     Click Submit
+![](images/tbas-tutorial4/Tutorial4.12.1.png)
+![](images/tbas-tutorial4/Tutorial4.12.2.png)
+
+13. On the next page select the ITS partition for alignment of unknowns and submit.
+![](images/tbas-tutorial4/Tutorial4.13.png)
+
+14. The run takes about 10 minutes to complete. Once the run is complete, click View tree to see the placements.
+![](images/tbas-tutorial4/Tutorial4.14.png)
+
+15. Here is the tree with the following options selected:  
+    Zoom 0.6103  
+    Font size +6  
+    Font size adjust bootstrap +6  
+    Colorize leaves by Species  
+    Branch Width 2   
+    The branch lengths are drawn to scale  
+    Next click the update metadata button to edit the attributes table.
+![](images/tbas-tutorial4/Tutorial4.15.png)
+
+16. Clicking the download button will download the current specimen metadata. Download and open the spreadsheet. Take note of the filename.
+![](images/tbas-tutorial4/Tutorial4.16.png)
+
+17. Sort the spreadsheet by Species so that all of the unknowns are grouped together (unknown_query). 
+![](images/tbas-tutorial4/Tutorial4.17.png)
+
+18.  Edit these unknown_query entries in the species column to match what was shown in the placement tree, which was Ramularia_collo-cygni.  If the unknown sequences were not placed with high confidence (i.e. cumulative likelihood weights > 0.96), then you might want to assign them to a higher taxonomic scale (e.g. genus) where there is more placement confidence. Save this new file with a different name. In this example, the file was saved as “placement_round1”.
+![](images/tbas-tutorial4/Tutorial4.18.png)
+
+19. Go back to the Update Attributes page where the current specimen metadata was downloaded from and upload the edited specimen metadata. The edited file could also be copied and pasted into the field, if desired. Click Submit.
+![](images/tbas-tutorial4/Tutorial4.19.png)
