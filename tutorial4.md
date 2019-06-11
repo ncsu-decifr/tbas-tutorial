@@ -29,4 +29,16 @@ If you already registered but forgot your PIN you can go to the Registration pag
 9. Here are the relabeled loci. T-BAS can now correctly track the loci and the user will know which target locus to select when performing a placement.
 ![](images/tbas-tutorial4/Tutorial4.9.png)
 
-10. 10) Scroll to the next section where you will be able to view the reference files or perform a phylogeny-based placement using those files. Select yes.
+10.  Scroll to the next section where you will be able to view the reference files or perform a phylogeny-based placement using those files. Select yes.
+![](images/tbas-tutorial4/Tutorial4.10.png)
+
+11. Select Unknowns ITS file 1 and Unknowns metadata example files.
+![](images/tbas-tutorial4/Tutorial4.11.png)
+
+12. Ensure selections are selected as shown:  
+    Skip BLAST UNITE  
+    Skip-include all, qiime not run  
+    Backbone constraint tree with bootstraps  
+    Multifurcating reference tree with polytomies  
+    Outgroup: Ramularia_nyssicola_CBS_127665  
+    Click Submit
