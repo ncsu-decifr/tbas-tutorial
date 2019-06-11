@@ -1,4 +1,4 @@
-# T-BAS v2.1 Tutorial 4: Using cifr phyloXML to cumulatively update trees
+# Tutorial 4: Using cifr phyloXML to cumulatively update trees
 
 1. 1) In this tutorial we will show how you can perform consecutive placements on the same tree. This is useful to build on a previous placement run with additional sequence data. To start, go to the T-BAS start page (https://tbas.hpc.ncsu.edu/start) and click on the Upload Tree button (see arrow).
 ![](images/tbas-tutorial4/Tutorial4.1.png)
@@ -109,5 +109,5 @@ If you already registered but forgot your PIN you can go to the Registration pag
     The **branch lengths** are drawn to scale
 ![](images/tbas-tutorial4/Tutorial4.29.png)
 
-30. Clicking on update metadata on the tree (as shown in step 15) and clicking download (as shown in step 16) will pull up the new specimen metadata file. Sort the file by specimen. Now the edits made in step 18 are shown here along with the new unknown placements. Note: This view was edited to show the strain name and species column together for illustration purposes. The file has many other attributes in between these two columns.
+30. Clicking on update metadata on the tree (as shown in step 15) and clicking download (as shown in step 16) will pull up the new specimen metadata file. Sort the file by species. Now the edits made in step 18 are shown here along with the new unknown placements. Note: This view was edited to show the strain name and species column together for illustration purposes. The file has many other attributes in between these two columns.
 ![](images/tbas-tutorial4/Tutorial4.30.png)
