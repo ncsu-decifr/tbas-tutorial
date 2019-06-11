@@ -91,22 +91,22 @@ If you already registered but forgot your PIN you can go to the Registration pag
 25. 25) In the RAxML options section, change selection to **Backbone constraint tree with bootstraps** and select **Multifurcating reference tree with polytomies**. Note that when placements are performed using EPA there will be multifurcations in the resulting tree and in subsequent placements only the backbone constraint method can be used.  Use Ramularia_nyssicola_CBS_127665 as the outgroup. Click **Submit**.
 ![](images/tbas-tutorial4/Tutorial4.25.png)
 
-26. Select the ITS locus file then select submit.
+26. Select the **ITS** locus file then select **submit**.
 ![](images/tbas-tutorial4/Tutorial4.26.png)
 
 27. The placement will take about 5-10 minutes to run.
 ![](images/tbas-tutorial4/Tutorial4.27.png)
 
-28. Once the run is complete, the results page will display. Select View tree to see the tree.
+28. Once the run is complete, the results page will display. Select **View tree** to see the tree.
 ![](images/tbas-tutorial4/Tutorial4.28.png)
 
 29. The tree created by the second run is displayed using the following selections:  
-    Zoom: 0.8282  
-    Font size: +6  
-    Font size adjust bootstrap: +6  
-    Colorize leaves by Species  
-    Branch Width: 2  
-    The branch lengths are drawn to scale
+    **Zoom**: 0.8282  
+    **Font size**: +6  
+    **Font size adjust bootstrap**: +6  
+    **Colorize leaves** by Species  
+    Branch **Width**: 2  
+    The **branch lengths** are drawn to scale
 ![](images/tbas-tutorial4/Tutorial4.29.png)
 
 30. Clicking on update metadata on the tree (as shown in step 15) and clicking download (as shown in step 16) will pull up the new specimen metadata file. Sort the file by specimen. Now the edits made in step 18 are shown here along with the new unknown placements. Note: This view was edited to show the strain name and species column together for illustration purposes. The file has many other attributes in between these two columns.
