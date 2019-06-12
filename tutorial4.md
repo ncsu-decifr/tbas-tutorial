@@ -48,7 +48,8 @@ If you already registered but forgot your PIN you can go to the Registration pag
 ![](images/tbas-tutorial4/Tutorial4.12.1.png)
 ![](images/tbas-tutorial4/Tutorial4.12.2.png)
 
-13. On the next page select the **ITS** partition for alignment of unknowns and **submit**.
+13. On the next page select the **ITS** partition for alignment of unknowns and **submit**.  
+
 Every run has a unique run number. This number will be used for associating results files with this specific run. The run number for this example is 4FJRGNWC.
 ![](images/tbas-tutorial4/Tutorial4.13.png)
 
