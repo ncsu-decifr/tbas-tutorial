@@ -70,7 +70,7 @@ If you already registered but forgot your PIN you can go to the Registration pag
 16. Clicking the download button will download the current specimen metadata. Download and open the spreadsheet.
 ![](images/tbas-tutorial4/Tutorial4.16.png)
 
-17. 1)	When the specimen metadata is downloaded, it will be a CSV file named as the run number (in this example, 4FJRGNWC.csv). Sort the spreadsheet by Species so that all of the unknowns are grouped together (unknown_query).  
+17. When the specimen metadata is downloaded, it will be a CSV file named as the run number (in this example, 4FJRGNWC.csv). Sort the spreadsheet by Species so that all of the unknowns are grouped together (unknown_query).  
 ![](images/tbas-tutorial4/Tutorial4.17.png)
 
 18.  Edit these unknown_query entries in the species column to match what was shown in the placement tree, which was *Ramularia_collo-cygni*.  If the unknown sequences were not placed with high confidence (i.e. cumulative likelihood weights > 0.96), then the user might want to assign them to a higher taxonomic scale (e.g. genus) where there is more placement confidence. This file can be saved using the same name or it can be renamed, if desired. The changes will only be saved on the user’s local computer.
