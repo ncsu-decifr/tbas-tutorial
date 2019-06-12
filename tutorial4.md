@@ -102,7 +102,8 @@ The new file is named phyloxml_cifr_edit_metadata_4FJRGNWC.tar.gz. This file con
 26. Select the **ITS** locus file then select **submit**.
 ![](images/tbas-tutorial4/Tutorial4.26.png)
 
-27. The placement will take about 5-10 minutes to run. Notice the new run number: ASI6UZA3. All of the files downloaded will contain this run number.
+27. The placement will take about 5-10 minutes to run.   
+Notice the new run number: ASI6UZA3. All of the files downloaded will contain this run number.
 ![](images/tbas-tutorial4/Tutorial4.27.png)
 
 28. Once the run is complete, the results page will display. Select **View tree** to see the tree.
