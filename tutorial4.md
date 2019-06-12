@@ -85,7 +85,7 @@ If you already registered but forgot your PIN you can go to the Registration pag
 21. A new tree is created with the edited values. All of the unknowns are now labeled as *Ramularia_collo-cygni* and the leaves are colored accordingly.
 ![](images/tbas-tutorial4/Tutorial4.21.png) 
 
-22. 1)	Go back to the results page on step 20 and download the cifr phyloXML file. 
+22. Go back to the results page on step 20 and download the cifr phyloXML file. 
 The new file is named phyloxml_cifr_edit_metadata_4FJRGNWC.tar.gz. This file contains the updated phylogenetic tree and specimen metadata that will be used to upload and place new unknown sequences.
 ![](images/tbas-tutorial4/Tutorial4.22.1.png)
 ![](images/tbas-tutorial4/Tutorial4.22.2.png)
