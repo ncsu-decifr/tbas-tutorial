@@ -41,7 +41,8 @@ If you already registered but forgot your PIN you can go to the Registration pag
     Backbone constraint tree with bootstraps  
     Multifurcating reference tree with polytomies  
     Outgroup: Ramularia_nyssicola_CBS_127665  
-    Click **Submit**
+    Click **Submit**  
+    
     **IMPORTANT NOTE. If you cluster sequences, only the single representative sequence of the OTU will be in the tree for future             placements on the tree.**
 
 ![](images/tbas-tutorial4/Tutorial4.12.1.png)
