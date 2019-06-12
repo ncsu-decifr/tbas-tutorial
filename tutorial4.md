@@ -63,6 +63,7 @@ If you already registered but forgot your PIN you can go to the Registration pag
     **Colorize leaves** by Species  
     Branch **Width** 2   
     The **branch lengths** are drawn to scale  
+    
     Next click the **update metadata** button to edit the attributes table.
 ![](images/tbas-tutorial4/Tutorial4.15.png)
 
