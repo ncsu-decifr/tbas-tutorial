@@ -1,6 +1,6 @@
 # Tutorial 4: Using cifr phyloXML to cumulatively update trees
 
-1. 1) In this tutorial we will show how you can perform consecutive placements on the same tree. This is useful to build on a previous placement run with additional sequence data. To start, go to the T-BAS start page (https://tbas.hpc.ncsu.edu/start) and click on the Upload Tree button (see arrow).
+1. In this tutorial we will show how you can perform consecutive placements on the same tree. This is useful to build on a previous placement run with additional sequence data. To start, go to the T-BAS start page (https://tbas.hpc.ncsu.edu/start) and click on the Upload Tree button (see arrow).
 ![](images/tbas-tutorial4/Tutorial4.1.png)
 
 2. You will be required to login. If you are first time user, you will need to register by clicking on the **Registration page** link (see arrow).
@@ -41,11 +41,14 @@ If you already registered but forgot your PIN you can go to the Registration pag
     Backbone constraint tree with bootstraps  
     Multifurcating reference tree with polytomies  
     Outgroup: Ramularia_nyssicola_CBS_127665  
-    Click Submit
+    Click **Submit**
+    **IMPORTANT NOTE. If you cluster sequences, only the single representative sequence of the OTU will be in the tree for future             placements on the tree.**
+
 ![](images/tbas-tutorial4/Tutorial4.12.1.png)
 ![](images/tbas-tutorial4/Tutorial4.12.2.png)
 
 13. On the next page select the **ITS** partition for alignment of unknowns and **submit**.
+Every run has a unique run number. This number will be used for associating results files with this specific run. The run number for this example is 4FJRGNWC.
 ![](images/tbas-tutorial4/Tutorial4.13.png)
 
 14. The run takes about 10 minutes to complete. Once the run is complete, click **View tree** to see the placements.
@@ -61,13 +64,13 @@ If you already registered but forgot your PIN you can go to the Registration pag
     Next click the **update metadata** button to edit the attributes table.
 ![](images/tbas-tutorial4/Tutorial4.15.png)
 
-16. Clicking the download button will download the current specimen metadata. Download and open the spreadsheet. Take note of the filename.
+16. Clicking the download button will download the current specimen metadata. Download and open the spreadsheet.
 ![](images/tbas-tutorial4/Tutorial4.16.png)
 
-17. Sort the spreadsheet by Species so that all of the unknowns are grouped together (unknown_query). 
+17. 1)	When the specimen metadata is downloaded, it will be a CSV file named as the run number (in this example, 4FJRGNWC.csv). Sort the spreadsheet by Species so that all of the unknowns are grouped together (unknown_query).  
 ![](images/tbas-tutorial4/Tutorial4.17.png)
 
-18.  Edit these unknown_query entries in the species column to match what was shown in the placement tree, which was Ramularia_collo-cygni.  If the unknown sequences were not placed with high confidence (i.e. cumulative likelihood weights > 0.96), then you might want to assign them to a higher taxonomic scale (e.g. genus) where there is more placement confidence. Save this new file with a different name. In this example, the file was saved as “placement_round1”.
+18.  Edit these unknown_query entries in the species column to match what was shown in the placement tree, which was *Ramularia_collo-cygni*.  If the unknown sequences were not placed with high confidence (i.e. cumulative likelihood weights > 0.96), then the user might want to assign them to a higher taxonomic scale (e.g. genus) where there is more placement confidence. This file can be saved using the same name or it can be renamed, if desired. The changes will only be saved on the user’s local computer.
 ![](images/tbas-tutorial4/Tutorial4.18.png)
 
 19. Go back to the Update Attributes page where the current specimen metadata was downloaded from and **upload** the _edited_ specimen metadata. The edited file could also be copied and pasted into the field, if desired. Click **Submit**.
@@ -76,11 +79,13 @@ If you already registered but forgot your PIN you can go to the Registration pag
 20. Once the run is complete, click **View tree**.
 ![](images/tbas-tutorial4/Tutorial4.20.png)
 
-21. A new tree is created with the edited values. All of the unknowns are now labeled as _Ramularia_collo-cygni_ and the leaves are colored accordingly.
+21. A new tree is created with the edited values. All of the unknowns are now labeled as *Ramularia_collo-cygni* and the leaves are colored accordingly.
 ![](images/tbas-tutorial4/Tutorial4.21.png) 
 
-22. Go back to the results page on step 20 and download the cifr phyloXML file. This new download will contain the updated specimen metadata information. Notice the filename of the tar file contains “placement_round1”, the new name used to rename the specimen metadata with the assignments determined from the first placement.
-![](images/tbas-tutorial4/Tutorial4.22.png)
+22. 1)	Go back to the results page on step 20 and download the cifr phyloXML file. 
+The new file is named phyloxml_cifr_edit_metadata_4FJRGNWC.tar.gz. This file contains the updated phylogenetic tree and specimen metadata that will be used to upload and place new unknown sequences.
+![](images/tbas-tutorial4/Tutorial4.22.1.png)
+![](images/tbas-tutorial4/Tutorial4.22.2.png)
 
 23. Return to the T-BAS start page (from step 1) and select **Upload Tree**. Click on **cifr phyloXML** and upload the downloaded XML file from step 22. Select **yes** in the placement section and select the **Unknowns ITS file2** example file.
 ![](images/tbas-tutorial4/Tutorial4.23.png)
@@ -94,11 +99,11 @@ If you already registered but forgot your PIN you can go to the Registration pag
 26. Select the **ITS** locus file then select **submit**.
 ![](images/tbas-tutorial4/Tutorial4.26.png)
 
-27. The placement will take about 5-10 minutes to run.
+27. The placement will take about 5-10 minutes to run. Notice the new run number: ASI6UZA3. All of the files downloaded will contain this run number.
 ![](images/tbas-tutorial4/Tutorial4.27.png)
 
 28. Once the run is complete, the results page will display. Select **View tree** to see the tree.
-![](images/tbas-tutorial4/Tutorial4.28.png)
+![](images/tbas-tutorial4/Tutorial4.28combined.png)
 
 29. The tree created by the second run is displayed using the following selections:  
     **Zoom**: 0.8282  
@@ -109,5 +114,7 @@ If you already registered but forgot your PIN you can go to the Registration pag
     The **branch lengths** are drawn to scale
 ![](images/tbas-tutorial4/Tutorial4.29.png)
 
-30. Clicking on update metadata on the tree (as shown in step 15) and clicking download (as shown in step 16) will pull up the new specimen metadata file. Sort the file by species. Now the edits made in step 18 are shown here along with the new unknown placements. Note: This view was edited to show the strain name and species column together for illustration purposes. The file has many other attributes in between these two columns.
-![](images/tbas-tutorial4/Tutorial4.30.png)
+30. Clicking on update metadata on the tree (as shown in step 15) and downloading (as shown in step 16) will pull up the new specimen metadata file. Sort the file by species. Now the edits made in step 18 are shown here. 
+![](images/tbas-tutorial4/Tutorial4.30.1.png)
+Scroll to the bottom and the new unknown placements are listed. You can rename these and continue performing more placements on the same tree, as described above.
+![](images/tbas-tutorial4/Tutorial4.30.2.png)
