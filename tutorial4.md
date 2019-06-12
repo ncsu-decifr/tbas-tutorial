@@ -50,7 +50,7 @@ If you already registered but forgot your PIN you can go to the Registration pag
 
 13. On the next page select the **ITS** partition for alignment of unknowns and **submit**.  
 
-Every run has a unique run number. This number will be used for associating results files with this specific run. The run number for this example is 4FJRGNWC.
+    Every run has a unique run number. This number will be used for associating results files with this specific run. The run number for    this example is 4FJRGNWC.
 ![](images/tbas-tutorial4/Tutorial4.13.png)
 
 14. The run takes about 10 minutes to complete. Once the run is complete, click **View tree** to see the placements.
