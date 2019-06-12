@@ -1,4 +1,4 @@
-# Tutorial 3: Uploading and creating a custom T-BAS reference tree with alignments and specimen metadata, and option to place unknown sequences and metadata
+# Tutorial 3: Uploading and creating a custom T-BAS reference tree with alignments and specimen metadata, and option to place unknown sequences and specimen metadata
 
 Note the following before starting:  
 * Pop-up windows will need to be enabled when using TBAS.  
