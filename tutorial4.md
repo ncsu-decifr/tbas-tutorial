@@ -1,13 +1,11 @@
 # Tutorial 4: Using cifr phyloXML to cumulatively update trees
 
-Things to note before starting:  
+Note the following before starting:  
 * Pop-up windows will need to be enabled when using TBAS.  
 
-* References for each tree are provided under the Citations menu. It is advised that users refer to the original papers for details on the specific primers that were used for amplification and sequencing of the loci included in T-BAS.
+In this tutorial we will be using the *Ramularia* reference tree as an example of how you can perform consecutive placements on the same tree. This is useful to build on a previous placement run with additional sequence data.
 
-In this tutorial we will be using the *Ramularia* reference tree as an example to illustrate the features available when viewing trees in T-BAS. 
-
-1. In this tutorial we will show how you can perform consecutive placements on the same tree. This is useful to build on a previous placement run with additional sequence data. To start, go to the T-BAS start page (https://tbas.hpc.ncsu.edu/start) and click on the Upload Tree button (see arrow).
+1. To start, go to the T-BAS start page (https://tbas.hpc.ncsu.edu/start) and click on the Upload Tree button (see arrow). 
 ![](images/tbas-tutorial4/Tutorial4.1.png)
 
 2. You will be required to login. If you are first time user, you will need to register by clicking on the **Registration page** link (see arrow).
