@@ -39,7 +39,7 @@ If you already registered but forgot your PIN you can go to the Registration pag
 10. Scroll to the next section where you will be able to view the reference files or perform a phylogeny-based placement using those files.  Whenever uploading a new dataset in T-BAS first view the files to make sure they are imported correctly.  Leave the default as shown below (see arrow) and hit submit.
 ![](images/tbas-tutorial3/Tutorial3.10.png)
 
-11. After the run is done the results will be summarized in the browser and you will receive an email. You will be able to download a **cifr phyloXML** file with all the reference files to use in future placements. If you would like to make the reference set available to others there is an option to **Add to T-BAS portal**. We will return to these options but first view the tree to make sure all looks correct.
+11. After the run is done the results will be summarized in the browser and you will receive an email. *For docker users, instead of an email, there is a “Results” link under the Utilities menu with a history of T-BAS runs.* You will be able to download a **cifr phyloXML** file with all the reference files to use in future placements. If you would like to make the reference set available to others there is an option to **Add to T-BAS portal**. We will return to these options but first view the tree to make sure all looks correct.
 ![](images/tbas-tutorial3/Tutorial3.11.png)
 
 12. Below is the tree resized and formatted with the following options selected:     
