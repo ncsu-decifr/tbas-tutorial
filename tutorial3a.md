@@ -7,3 +7,10 @@
 
 2. Fill out the fields shown and click Submit.
 ![](images/tbas-tutorial3a/Tutorial3A.2.png)
+
+3. On the homepage, click Login at the top right.
+![](images/tbas-tutorial3a/Tutorial3A.3.1.png)
+Fill out the fields and click Submit.
+![](images/tbas-tutorial3a/Tutorial3A.3.2.png)
+If you already registered but forgot your PIN you can go to the Registration page and Check to resend lost PIN (see arrow).
+![](images/tbas-tutorial3a/Tutorial3A.3.3.png)
