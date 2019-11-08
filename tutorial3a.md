@@ -87,6 +87,7 @@ Go back to Upload Tree from the homepage and select the cifr phyloXML option (se
 18. The following form will appear.
 ![](images/tbas-tutorial3a/Tutorial3A.18A.png)
 ![](images/tbas-tutorial3a/Tutorial3A.18B.png)
+![](images/tbas-tutorial3a/Tutorial3A.18C.png)
 
 19. Here is an example of the form filled out. Note this tree is private and shared with only two other people (email list); if you want to make it public change the selection in the Access level. Click submit at the bottom of the form.
 ![](images/tbas-tutorial3a/Tutorial3A.19A.png)
