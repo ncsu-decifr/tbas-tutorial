@@ -56,3 +56,8 @@ The tree can also be viewed in rectangular mode with the branch lengths drawn to
 
     ![](images/tbas-tutorial3a/Tutorial3A.13.3a.png)
     ![](images/tbas-tutorial3a/Tutorial3A.13.4.png)
+    The tree can also be viewed with the taxa names and attributes aligned by selecting the “align names” and “align attributes” checkboxes, as shown below.
+    ![](images/tbas-tutorial3a/Tutorial3A.13.5a.png)
+    ![](images/tbas-tutorial3a/Tutorial3A.13.6.png)
+    Additional attributes can be displayed as bands in the tree by clicking on the box for “Colorize band 2” and selecting the desired attribute (on the left side panel). A legend for the new attribute appears in the dashboard window on the right.
+    ![](images/tbas-tutorial3a/Tutorial3A.13.7.png)
