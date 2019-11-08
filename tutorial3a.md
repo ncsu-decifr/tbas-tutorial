@@ -12,13 +12,13 @@
 ![](images/tbas-tutorial3a/Tutorial3A.3.1.png)
 Fill out the fields and click Submit.
 ![](images/tbas-tutorial3a/Tutorial3A.3.2.png)
-If you already registered but forgot your PIN you can go to the Registration page and Check to resend lost PIN (see arrow).
+If you already registered but forgot your PIN you can go to the Registration page and **Check to resend lost PIN** (see arrow).
 ![](images/tbas-tutorial3a/Tutorial3A.3.3.png)
 
-4. Click on the Upload Tree button.
+4. Click on the **Upload Tree** button.
 ![](images/tbas-tutorial3a/Tutorial3A.4.png)
 
-5. There are two options for uploading trees: Newick tree or cifr phyloXML.  The Newick format is for the tree only and selecting this option will expand the window to allow you to upload the sequence alignment and specimen metadata for the reference tree. The cifr phyloXML is a new data standard that extends phyloXML to include both sequence alignments and specimen metadata.  The cifr phyloXML makes it convenient to place on trees from previous T-BAS runs because only one file needs to be uploaded. To begin click on Newick tree (see arrow).
+5. There are two options for uploading trees: **Newick tree** or **cifr phyloXML**.  The **Newick** format is for the tree only and selecting this option will expand the window to allow you to upload the sequence alignment and specimen metadata for the reference tree. The **cifr phyloXML** is a new data standard that extends phyloXML to include both sequence alignments and specimen metadata.  The cifr phyloXML makes it convenient to place on trees from previous T-BAS runs because only one file needs to be uploaded. To begin click on **Newick tree** (see arrow).
 ![](images/tbas-tutorial3a/Tutorial3A.5.png)
 
 6. This will expand the display to show three upload sections: Upload reference tree, Upload reference sequence alignment and Upload reference metadata.  Click on the example file links (see arrows) for each section to load the files.
