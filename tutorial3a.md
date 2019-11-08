@@ -41,3 +41,12 @@ If you already registered but forgot your PIN you can go to the Registration pag
 
 12. After the run is done the results will be summarized in the browser and you will receive an email. For docker users, instead of an email, there is a “Results” link under the Utilities menu with a history of T-BAS runs. You will be able to download a cifr phyloXML file with all the reference files to use in future placements. If you would like to make the reference set available to others there is an option to Add to T-BAS portal. We will return to these options but first view the tree to make sure all looks correct.
 ![](images/tbas-tutorial3a/Tutorial3A.12.png)
+
+13. Below is the tree resized and formatted with the following options selected:  
+   Zoom 0.5220  
+   Font size +6  
+   Colorize leaves by Species  
+   Branch Width 2  
+   The branch lengths are drawn to scale.  
+
+    The legend is displayed in the dashboard window on the right. The displayed colors may be different than what is shown in other runs.
