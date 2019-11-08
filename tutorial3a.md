@@ -52,7 +52,7 @@ If you already registered but forgot your PIN you can go to the Registration pag
     The legend is displayed in the dashboard window on the right. The displayed colors may be different than what is shown in other runs.
 ![](images/tbas-tutorial3a/Tutorial3A.13.1.png)
 The tree can also be viewed in rectangular mode with the branch lengths drawn to scale as shown below.  Note the taxa names and attributes are shown at the tips of the branches.
-![](images/tbas-tutorial3a/Tutorial3A.13.2.png)
+![](images/tbas-tutorial3a/Tutorial3A.13.2a.png)
 
     ![](images/tbas-tutorial3a/Tutorial3A.13.3.png)
     ![](images/tbas-tutorial3a/Tutorial3A.13.4.png)
