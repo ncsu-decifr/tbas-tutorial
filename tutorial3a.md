@@ -55,3 +55,4 @@ The tree can also be viewed in rectangular mode with the branch lengths drawn to
 ![](images/tbas-tutorial3a/Tutorial3A.13.2.png)
 
     ![](images/tbas-tutorial3a/Tutorial3A.13.3.png)
+    ![](images/tbas-tutorial3a/Tutorial3A.13.4.png)
