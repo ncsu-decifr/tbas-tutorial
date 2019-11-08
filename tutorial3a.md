@@ -85,10 +85,13 @@ Go back to Upload Tree from the homepage and select the cifr phyloXML option (se
 ![](images/tbas-tutorial3a/Tutorial3A.16.png)
 
 18. The following form will appear.
-![](images/tbas-tutorial3a/Tutorial3A.17.png)
+![](images/tbas-tutorial3a/Tutorial3A.18A.png)
+![](images/tbas-tutorial3a/Tutorial3A.18B.png)
 
 19. Here is an example of the form filled out. Note this tree is private and shared with only two other people (email list); if you want to make it public change the selection in the Access level. Click submit at the bottom of the form.
-![](images/tbas-tutorial3a/Tutorial3A.19.png)
+![](images/tbas-tutorial3a/Tutorial3A.19A.png)
+![](images/tbas-tutorial3a/Tutorial3A.19B.png)
+![](images/tbas-tutorial3a/Tutorial3A.19C.png)
 
 20. Once your tree has been reviewed by T-BAS admin it will be made available for viewing and placement by clicking on User Trees on the T-BAS start page. You will receive an email notification of the status of your submitted tree and when it is available for use in T-BAS.
 ![](images/tbas-tutorial3a/Tutorial3A.20.1.png)
