@@ -21,7 +21,7 @@ If you already registered but forgot your PIN you can go to the Registration pag
 5. There are two options for uploading trees: **Newick tree** or **cifr phyloXML**.  The **Newick** format is for the tree only and selecting this option will expand the window to allow you to upload the sequence alignment and specimen metadata for the reference tree. The **cifr phyloXML** is a new data standard that extends phyloXML to include both sequence alignments and specimen metadata.  The cifr phyloXML makes it convenient to place on trees from previous T-BAS runs because only one file needs to be uploaded. To begin click on **Newick tree** (see arrow).
 ![](images/tbas-tutorial3a/Tutorial3A.5.png)
 
-6. This will expand the display to show three upload sections: Upload reference tree, Upload reference sequence alignment and Upload reference metadata.  Click on the example file links (see arrows) for each section to load the files.
+6. This will expand the display to show three upload sections: **Upload reference tree, Upload reference sequence alignment** and **Upload reference metadata**.  Click on the example file links (see arrows) for each section to load the files.
 ![](images/tbas-tutorial3a/Tutorial3A.6.png)
 
 7. The example files will now be visible and can be edited.  If you have no edits you can skip to step 11. We will be making some minor edits to the Nexus sequence alignment file. To see more of the alignment file, click and drag down the corner box (see arrow).
@@ -65,7 +65,7 @@ The tree can also be viewed in rectangular mode with the branch lengths drawn to
 14. Once the tree has been verified for correctness, download the cifr phyloXML file.
 ![](images/tbas-tutorial3a/Tutorial3A.14.png)
 
-15.     15) This step shows how to use a cifr phyloXML file to upload a tree. 
+15. This step shows how to use a cifr phyloXML file to upload a tree. 
 Go back to Upload Tree from the homepage and select the cifr phyloXML option (see arrow), upload the cifr phyloXML file downloaded from the previous step, and click submit.
 ![](images/tbas-tutorial3a/Tutorial3A.15.png)
 
