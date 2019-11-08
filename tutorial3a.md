@@ -54,5 +54,5 @@ If you already registered but forgot your PIN you can go to the Registration pag
 The tree can also be viewed in rectangular mode with the branch lengths drawn to scale as shown below.  Note the taxa names and attributes are shown at the tips of the branches.
 ![](images/tbas-tutorial3a/Tutorial3A.13.2a.png)
 
-    ![](images/tbas-tutorial3a/Tutorial3A.13.3.png)
+    ![](images/tbas-tutorial3a/Tutorial3A.13.3a.png)
     ![](images/tbas-tutorial3a/Tutorial3A.13.4.png)
