@@ -20,4 +20,4 @@ An email will be sent with a PIN that will be used to login. Check the SPAM fold
 ![](images/tbas-tutorial1a/Tutorial1.5.png)
 
 6. Complete all of the fields as shown in Step 2. Click the box to have the PIN resent as an email. Click Submit.
-![](images/tbas-tutorial1a/Tutorial1.5.png)
+![](images/tbas-tutorial1a/Tutorial1.6.png)
