@@ -46,6 +46,10 @@ gulp.task('move_images1a', function() {
         .pipe(gulp.dest('/var/www/html/tbas2_1/pages/images/tbas-tutorial1a'));
 });
 
+gulp.task('move_images2a', function() {
+    return gulp.src("images/tbas-tutorial2a/*.*")
+        .pipe(gulp.dest('/var/www/html/tbas2_1/pages/images/tbas-tutorial2a'));
+});
 gulp.task('move_data', function() {
     return gulp.src("data/tbas-tutorial/*.*")
         .pipe(gulp.dest('/var/www/html/tbas2_1/pages/data/tbas-tutorial'));
@@ -59,5 +63,6 @@ gulp.task('default', [
     'move_images3',
     'move_images4',
     'move_images1a',
+    'move_images2a',
     'move_data'
 ]);
