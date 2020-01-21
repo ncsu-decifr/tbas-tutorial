@@ -57,7 +57,7 @@ Text options include **italicize names** and **adjusting font size**. The **Colo
 ![](images/tbas-tutorial2a/Tutorial2.10.png)
 
 11. Clicking on **Newick tree** under **Highlighted taxa** will display the tree for the highlighted taxa in a new tab.  Depending on which option is selected under **Format** the Newick tree is displayed in **NEXUS** or **PHYLIP** format.
-![](images/tbas-tutorial2a/Tutorial2.11.1.png)
+![](images/tbas-tutorial2a/Tutorial2.11.png)
 Tree in **NEWICK/NEXUS** format
 ![](images/tbas-tutorial2a/Tutorial2.11.2.png)
 Tree in **NEWICK/PHYLIP** format
