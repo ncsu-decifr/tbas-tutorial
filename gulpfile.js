@@ -41,6 +41,10 @@ gulp.task('move_images4', function() {
     return gulp.src("images/tbas-tutorial4/*.*")
         .pipe(gulp.dest('/var/www/html/tbas2_1/pages/images/tbas-tutorial4'));
 });
+gulp.task('move_images1a', function() {
+    return gulp.src("images/tbas-tutorial1a/*.*")
+        .pipe(gulp.dest('/var/www/html/tbas2_1/pages/images/tbas-tutorial1a'));
+});
 
 gulp.task('move_data', function() {
     return gulp.src("data/tbas-tutorial/*.*")
