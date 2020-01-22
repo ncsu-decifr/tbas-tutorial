@@ -74,6 +74,7 @@ gulp.task('default', [
     'move_images4',
     'move_images1a',
     'move_images2a',
+    'move_images5',
     'move_images6',
     'move_data'
 ]);
