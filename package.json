@@ -1,0 +1,24 @@
+{
+  "name": "tbas-tutorial",
+  "version": "1.0.0",
+  "description": "A step-by-step illustrated guide of major features in T-BAS",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ncsu-decifr/tbas-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ncsu-decifr/tbas-tutorial/issues"
+  },
+  "homepage": "https://github.com/ncsu-decifr/tbas-tutorial#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-markdown": "^4.0.0",
+    "gulp-rename": "^1.4.0"
+  }
+}
