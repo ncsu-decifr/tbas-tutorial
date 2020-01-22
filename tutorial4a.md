@@ -29,12 +29,22 @@ In this tutorial, the user will be uploading a custom reference tree, alignment 
 9. After the run is done, the results will be summarized in the browser and an email will be sent. The user will be able to download a MEP file with all the reference files to use in future placements. The option to Add to T-BAS portal is available to make the reference set available to others. These options will be described below but first view the tree to make sure all looks correct.
 ![](images/tbas-tutorial4a/Tutorial4.9.png)
 
-10.     10) Below is the tree resized and formatted with the following options selected:  
+10. Below is the tree resized and formatted with the following options selected:  
     Zoom 0.5220   
     Font size +6  
     Colorize leaves by Species  
     Branch Width 2  
     The branch lengths are drawn to scale.   
 
-    The legend is displayed in the dashboard window on the right. The displayed colors may be different than what is shown in other runs.
-![](images/tbas-tutorial4a/Tutorial4.10.png)
+    The legend is displayed in the dashboard window on the right. The displayed colors may be different than what is shown in other runs.  
+![](images/tbas-tutorial4a/Tutorial4.10.1.png)
+    The tree can also be viewed in rectangular mode with the branch lengths drawn to scale as shown below.  Note the taxa names and attributes are shown at the tips of the branches.  
+![](images/tbas-tutorial4a/Tutorial4.10.2.png)
+![](images/tbas-tutorial4a/Tutorial4.10.4.png)
+![](images/tbas-tutorial4a/Tutorial4.10.3.png)
+    The tree can also be viewed with the taxa names and attributes aligned by selecting the “align names” and “align attributes” checkboxes, as shown below. 
+![](images/tbas-tutorial4a/Tutorial4.10.5.png)
+![](images/tbas-tutorial4a/Tutorial4.10.6.png)
+    Additional attributes can be displayed as bands in the tree by clicking on the box for “Colorize band 2” and selecting the desired attribute (on the left side panel). A legend for the new attribute appears in the dashboard window on the right.
+![](images/tbas-tutorial4a/Tutorial4.10.7.png)
+
