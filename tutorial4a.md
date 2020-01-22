@@ -53,28 +53,28 @@ In this tutorial, the user will be uploading a custom reference tree, alignment 
 12. This step shows how to use a **MEP** file to upload a tree. Go back to Upload Tree from the homepage and select the **MEP** option (see arrow), upload the **MEP** file downloaded from the previous step, and click submit.
 ![](images/tbas-tutorial4a/Tutorial4.12.png)
 
-13.  After the run is complete, click on View tree. As you can see below the MEP file contains the tree, alignments (six labeled loci) and specimen metadata. If you want to use this reference set in the future, you will just upload this MEP file.  
+13.  After the run is complete, click on **View tree**. As you can see below the **MEP** file contains the tree, alignments (six labeled loci) and specimen metadata. If you want to use this reference set in the future, you will just upload this **MEP** file.  
 
     This tree is resized and formatted with the following options selected:   
-    Zoom 0.5220   
-    Font size +6  
-    Colorize leaves by Species  
-    Branch Width 2   
-    The branch lengths are drawn to scale.   
+    **Zoom** 0.5220   
+    **Font size** +6  
+    **Colorize leaves** by Species  
+    Branch **Width** 2   
+    The **branch lengths** are drawn to scale.   
 
     The legend is displayed in the dashboard window on the right.
 ![](images/tbas-tutorial4a/Tutorial4.13.png)
 
-14. To add this reference set to the T-BAS portal select the Add to T-BAS portal link.
+14. To add this reference set to the T-BAS portal select the **Add to T-BAS portal** link.
 ![](images/tbas-tutorial4a/Tutorial4.14.png)
 
 15. The following form will appear.
 ![](images/tbas-tutorial4a/Tutorial4.15.png)
 
-16. Here is an example of the form filled out. Note this tree is private and shared with only two other people (email list); if you want to make it public change the selection in the Access level. Click submit at the bottom of the form.
+16. Here is an example of the form filled out. Note this tree is **private** and shared with only two other people (email list); if you want to make it **public** change the selection in the **Access level**. Click submit at the bottom of the form.
 ![](images/tbas-tutorial4a/Tutorial4.16.png)
 
-17. Once your tree has been reviewed by T-BAS admin it will be made available for viewing and placement by clicking on User Trees on the T-BAS start page. You will receive an email notification of the status of your submitted tree and when it is available for use in T-BAS.  
+17. Once your tree has been reviewed by T-BAS admin it will be made available for viewing and placement by clicking on **User Trees** on the T-BAS start page. You will receive an email notification of the status of your submitted tree and when it is available for use in T-BAS.  
 ![](images/tbas-tutorial4a/Tutorial4.17.1.png)
 The Ramularia species complex tree will be listed under User Trees and available for viewing reference data files or placing unknowns by clicking on the bullet. 
 ![](images/tbas-tutorial4a/Tutorial4.17.2.png)
