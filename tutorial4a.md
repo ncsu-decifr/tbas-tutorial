@@ -23,18 +23,18 @@ In this tutorial, the user will be uploading a custom reference tree, alignment 
 7. Here are the relabeled loci. T-BAS can now correctly track the loci and the user will know which target locus to select when performing a placement (see Tutorial 5).
 ![](images/tbas-tutorial4a/Tutorial4.7.png)
 
-8. Scroll to the next section where you will be able to view the reference files or perform a phylogeny-based placement using those files. Whenever uploading a new dataset in T-BAS first view the files to make sure they are imported correctly.  Specify the outgroup as Ramularia_nyssicola_CBS_127665 as shown below. Leave the default of no for phylogenetic analysis (see arrow) and then click submit.
+8. Scroll to the next section where you will be able to view the reference files or perform a phylogeny-based placement using those files. Whenever uploading a new dataset in T-BAS first view the files to make sure they are imported correctly.  Specify the outgroup as **Ramularia_nyssicola_CBS_127665** as shown below. Leave the default of **no** for phylogenetic analysis (see arrow) and then click submit.
 ![](images/tbas-tutorial4a/Tutorial4.8.png)
 
-9. After the run is done, the results will be summarized in the browser and an email will be sent. The user will be able to download a MEP file with all the reference files to use in future placements. The option to Add to T-BAS portal is available to make the reference set available to others. These options will be described below but first view the tree to make sure all looks correct.
+9. After the run is done, the results will be summarized in the browser and an email will be sent. The user will be able to download a **MEP** file with all the reference files to use in future placements. The option to **Add to T-BAS portal** is available to make the reference set available to others. These options will be described below but first view the tree to make sure all looks correct.
 ![](images/tbas-tutorial4a/Tutorial4.9.png)
 
 10. Below is the tree resized and formatted with the following options selected:  
-    Zoom 0.5220   
-    Font size +6  
-    Colorize leaves by Species  
-    Branch Width 2  
-    The branch lengths are drawn to scale.   
+    **Zoom** 0.5220   
+    **Font size** +6  
+    **Colorize leaves** by Species  
+    Branch **Width** 2  
+    The **branch lengths** are drawn to scale.   
 
     The legend is displayed in the dashboard window on the right. The displayed colors may be different than what is shown in other runs.  
 ![](images/tbas-tutorial4a/Tutorial4.10.1.png)
@@ -47,10 +47,10 @@ In this tutorial, the user will be uploading a custom reference tree, alignment 
     Additional attributes can be displayed as bands in the tree by clicking on the box for “Colorize band 2” and selecting the desired attribute (on the left side panel). A legend for the new attribute appears in the dashboard window on the right.
 ![](images/tbas-tutorial4a/Tutorial4.10.6.png)
 
-11. Once the tree has been verified for correctness, download the MEP file.
+11. Once the tree has been verified for correctness, download the **MEP** file.
 ![](images/tbas-tutorial4a/Tutorial4.11.png)
 
-12. This step shows how to use a MEP file to upload a tree. Go back to Upload Tree from the homepage and select the MEP option (see arrow), upload the MEP file downloaded from the previous step, and click submit.
+12. This step shows how to use a **MEP** file to upload a tree. Go back to Upload Tree from the homepage and select the **MEP** option (see arrow), upload the **MEP** file downloaded from the previous step, and click submit.
 ![](images/tbas-tutorial4a/Tutorial4.12.png)
 
 13.  After the run is complete, click on View tree. As you can see below the MEP file contains the tree, alignments (six labeled loci) and specimen metadata. If you want to use this reference set in the future, you will just upload this MEP file.  
