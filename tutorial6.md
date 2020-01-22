@@ -17,3 +17,62 @@
 
 6. The search will highlight the loci that are defined in the character partition block and preceded by “charset” (see arrow). If no changes are made, the loci will be labeled as locus1, locus2, locus3, locus4, locus5 and locus6 in T-BAS. These names make it difficult to track these loci when performing placements and retrieving data. In this example, the actual name of the locus is provided at the end of the charset line. For example, for locus1 the name is RPB2. Note all locus designations in the alignment file (highlighted in yellow and orange) will need to be relabeled – see next step.
 ![](images/tbas-tutorial6/Tutorial6.6.png)
+
+7. Here are the relabeled loci. T-BAS can now correctly track the loci and the user will know which target locus to select when performing a placement.
+![](images/tbas-tutorial6/Tutorial6.7.png)
+
+8. Scroll to the next section where you will be able to view the reference files or perform a phylogeny-based placement using those files. Whenever uploading a new dataset in T-BAS first view the files to make sure they are imported correctly. Specify the outgroup as Ramularia_nyssicola_CBS_127665 as shown below. Select yes for phylogenetic analysis (see arrow) and then click submit.
+![](images/tbas-tutorial6/Tutorial6.8.png)
+
+9. Select Unknowns ITS file 1 and Unknowns metadata example files.
+![](images/tbas-tutorial6/Tutorial6.9.png)
+
+10. Ensure selections are selected as shown:
+
+    Skip BLAST UNITE  
+    Skip-include all, no clustering  
+    Backbone constraint tree with bootstraps  
+    Multifurcating reference tree with polytomies  
+    Click Submit  
+
+    IMPORTANT NOTE. If you cluster sequences, only the single representative sequence of the OTU will be in the tree for future placements on the tree.
+![](images/tbas-tutorial6/Tutorial6.10.png)
+
+11. On the next page select the ITS partition for alignment of unknowns and click Submit  
+
+    Every run has a unique run number. This number will be used for associating results files with this specific run. The run number for this example is FIXSVRFY.
+![](images/tbas-tutorial6/Tutorial6.11.png)
+
+12. The run takes about 10 minutes to complete. Click View tree to see the placements.
+![](images/tbas-tutorial6/Tutorial6.12.png)
+
+13. Here is the tree with the following options selected:
+
+    Zoom 0.6103  
+    Font size +6
+    Font size adjust bootstrap +6  
+    Colorize leaves by Species  
+    Branch Width 2  
+    The branch lengths are drawn to scale  
+
+    Next click the update metadata button to edit the attributes table.
+![](images/tbas-tutorial6/Tutorial6.13.png)
+
+14. Clicking the download button will download the current specimen metadata. Download and open the spreadsheet.
+![](images/tbas-tutorial6/Tutorial6.14.png)
+
+15. When the specimen metadata is downloaded, it will be a CSV file named as the run number (in this example, FIXSVRFY.csv). Sort the spreadsheet by Species so that all of the unknowns are grouped together (unknown_query). 
+![](images/tbas-tutorial6/Tutorial6.15.png)
+
+16. Edit these unknown_query entries in the species column to match what was shown in the placement tree, which was Ramularia_collo-cygni.  If the unknown sequences were not placed with high confidence (i.e. cumulative likelihood weights > 0.96), then the user might want to assign them to a higher taxonomic scale (e.g. genus) where there is more placement confidence. This file can be saved using the same name or it can be renamed, if desired. The changes will only be saved on the user’s local computer.
+![](images/tbas-tutorial6/Tutorial6.16.png)
+
+17. Go back to the Update Attributes page where the current specimen metadata was downloaded from and upload the edited specimen metadata. The edited file could also be copied and pasted into the field, if desired. Click Submit.
+![](images/tbas-tutorial6/Tutorial6.17.png)
+
+18. Once the run is complete, click View tree.
+![](images/tbas-tutorial6/Tutorial6.18.png)
+
+19. A new tree is created with the edited values. All of the unknowns are now labeled as Ramularia_collo-cygni and the leaves are colored accordingly. 
+![](images/tbas-tutorial6/Tutorial6.19.png)
+    
