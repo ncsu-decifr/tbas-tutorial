@@ -75,4 +75,41 @@
 
 19. A new tree is created with the edited values. All of the unknowns are now labeled as Ramularia_collo-cygni and the leaves are colored accordingly. 
 ![](images/tbas-tutorial6/Tutorial6.19.png)
-    
+
+20. Go back to the results page on step 20 and download the MEP file. 
+The new file is named FIXSVRFY_edit.mep.gz. This file contains the updated phylogenetic tree and specimen metadata that will be used to upload and place new unknown sequences.
+![](images/tbas-tutorial6/Tutorial6.20.png)
+
+21. Return to the T-BAS start page (from step 1) and select Upload Tree. Click on MEP and upload the downloaded XML file from step 23. Use Ramularia_nyssicola_CBS_127665 as the outgroup. Select yes in the placement section and select the Unknowns ITS file2 example file.
+![](images/tbas-tutorial6/Tutorial6.21.png)
+
+22. Click on the Unknowns metadata example file. T-BAS can filter spurious ITS sequences using BLAST of the UNITE database. In the BLAST unknowns options section select ITS locus is included – filter unknowns to selected taxon and generate UNITE report. Then select the next highest taxonomic level for filtering – in this example, select the family Mycosphaerellaceae as shown below. In the Cluster and filter unknowns options section, select skip-include all, no clustering. 
+![](images/tbas-tutorial6/Tutorial6.22.png)
+
+23. In the RAxML options section, change the selection to Backbone constraint tree with bootstraps and Multifurcating reference tree with polytomies. Note that when placements are performed using EPA there will be multifurcations in the resulting tree and in subsequent placements only the backbone constraint method can be used. Click Submit.
+![](images/tbas-tutorial6/Tutorial6.23.png)
+
+24. Select the ITS locus file then click submit.
+![](images/tbas-tutorial6/Tutorial6.24.png)
+
+25. The placement will take about 5-10 minutes to run.
+Notice the new run number: RSJZ7QDJ. All of the files downloaded will contain this run number.
+![](images/tbas-tutorial6/Tutorial6.25.png)
+
+26. Once the run is complete, the results page will display. Select View tree to see the tree.
+![](images/tbas-tutorial6/Tutorial6.26.png)
+
+27. The tree created by the second run is displayed using the following selections:  
+
+    Zoom: 0.8282  
+    Font size: +6  
+    Font size adjust bootstrap: +6  
+    Colorize leaves by Species  
+    Branch Width: 2  
+    The branch lengths are drawn to scale  
+![](images/tbas-tutorial6/Tutorial6.27.png)
+
+28. Clicking on update metadata on the tree (as shown in step 15) and downloading (as shown in step 16) will pull up the new specimen metadata file. Sort the file by species. Now the edits made in step 18 are shown here. 
+![](images/tbas-tutorial6/Tutorial6.28.1.png)
+    Scroll to the bottom and the new unknown placements are listed. You can rename these and continue performing more placements on the same tree, as described above.
+![](images/tbas-tutorial6/Tutorial6.28.2.png)
