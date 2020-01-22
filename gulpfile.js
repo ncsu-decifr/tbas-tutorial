@@ -50,6 +50,10 @@ gulp.task('move_images2a', function() {
     return gulp.src("images/tbas-tutorial2a/*.*")
         .pipe(gulp.dest('/var/www/html/tbas2_1/pages/images/tbas-tutorial2a'));
 });
+gulp.task('move_images5', function() {
+    return gulp.src("images/tbas-tutorial5/*.*")
+        .pipe(gulp.dest('/var/www/html/tbas2_1/pages/images/tbas-tutorial5'));
+});
 gulp.task('move_images6', function() {
     return gulp.src("images/tbas-tutorial6/*.*")
         .pipe(gulp.dest('/var/www/html/tbas2_1/pages/images/tbas-tutorial6'));
