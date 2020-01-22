@@ -1,5 +1,5 @@
 # T-BAS Tutorials
-Step-by-step illustrated guides of major features in T-BAS v2.1.
+Step-by-step illustrated guides of major features in T-BAS v2.1.1.
 
 * [Tutorial 1](tbas-tutorial_1.php): Registration, Login, and Lost PIN
 * [Tutorial 2](tbas-tutorial_2.php): Viewing trees, alignments, and specimen metadata
