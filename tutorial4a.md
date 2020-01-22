@@ -2,13 +2,13 @@
 
 In this tutorial, the user will be uploading a custom reference tree, alignment and specimen metadata that are needed to perform a placement of unknown sequences on that tree. The user will use the *Ramularia* reference tree and files that are available in [TreeBase](https://www.treebase.org/treebase-web/search/studySearch.html). For your convenience we made these files available as links in the tutorial. They can also be downloaded by searching for the S16754 study ID in [TreeBase](https://www.treebase.org/treebase-web/search/studySearch.html) and retrieving the original [tree](//purl.org/phylo/treebase/phylows/tree/TB2:Tr79968?format=nexus) and [alignment](https://www.treebase.org/treebase-web/search/downloadANexusFile.html?id=16754&treeid=79968) files. The specimen metadata was extracted from Table 1 in [Videira et al. 2015](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4510271/). 
 
-1. To begin, go to the T-BAS start page and click on the Upload Tree button.
+1. To begin, go to the [T-BAS start page](https://vclv99-239.hpc.ncsu.edu/tbas2_1/pages/tbas.php) and click on the **Upload Tree** button.
 ![](images/tbas-tutorial4a/Tutorial4.1.png)
 
 2. There are two options for uploading trees: Newick tree or Metadata Enhanced PhyloXML (MEP) file. The Newick format is for the tree only and selecting this option will expand the window to allow you to upload the sequence alignment and specimen metadata for the reference tree. MEP is a new data standard that extends phyloXML to include both sequence alignments and specimen metadata. MEP makes it convenient to place on trees from previous T-BAS runs because only one file needs to be uploaded. To begin, click on Newick tree (see arrow).
 ![](images/tbas-tutorial4a/Tutorial4.2.png)
 
-3. This will expand the display to show three upload sections: Upload reference tree, Upload reference sequence alignment and Upload reference metadata.  Click on the example file links (see arrows) for each section to load the files.
+3. This will expand the display to show three upload sections: **Upload reference tree, Upload reference sequence alignment** and **Upload reference metadata**.  Click on the example file links (see arrows) for each section to load the files.
 ![](images/tbas-tutorial4a/Tutorial4.3.png)
 
 4. The example files will now be visible and can be edited.  If you have no edits you can skip to step 11. Some minor edits will be made to the Nexus sequence alignment file. To see more of the alignment file, click and drag down the corner box (see arrow).
