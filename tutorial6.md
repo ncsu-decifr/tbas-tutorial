@@ -96,17 +96,17 @@ The new file is named FIXSVRFY_edit.mep.gz. This file contains the updated phylo
 Notice the new run number: RSJZ7QDJ. All of the files downloaded will contain this run number.
 ![](images/tbas-tutorial6/Tutorial6.25.png)
 
-26. Once the run is complete, the results page will display. Select View tree to see the tree.
+26. Once the run is complete, the results page will display. Select **View tree** to see the tree.
 ![](images/tbas-tutorial6/Tutorial6.26.png)
 
 27. The tree created by the second run is displayed using the following selections:  
 
-    Zoom: 0.8282  
-    Font size: +6  
-    Font size adjust bootstrap: +6  
+    **Zoom**: 0.8282  
+    **Font size**: +6  
+    **Font size adjust bootstrap**: +6  
     Colorize leaves by Species  
-    Branch Width: 2  
-    The branch lengths are drawn to scale  
+    Branch **Width**: 2  
+    The **branch lengths** are drawn to scale  
 ![](images/tbas-tutorial6/Tutorial6.27.png)
 
 28. Clicking on update metadata on the tree (as shown in step 15) and downloading (as shown in step 16) will pull up the new specimen metadata file. Sort the file by species. Now the edits made in step 18 are shown here. 
