@@ -44,7 +44,24 @@ In this tutorial, the user will be uploading a custom reference tree, alignment 
 ![](images/tbas-tutorial4a/Tutorial4.10.3.png)
     The tree can also be viewed with the taxa names and attributes aligned by selecting the “align names” and “align attributes” checkboxes, as shown below. 
 ![](images/tbas-tutorial4a/Tutorial4.10.5.png)
-![](images/tbas-tutorial4a/Tutorial4.10.6.png)
+<!-- ![](images/tbas-tutorial4a/Tutorial4.10.6.png) -->
     Additional attributes can be displayed as bands in the tree by clicking on the box for “Colorize band 2” and selecting the desired attribute (on the left side panel). A legend for the new attribute appears in the dashboard window on the right.
-![](images/tbas-tutorial4a/Tutorial4.10.7.png)
+![](images/tbas-tutorial4a/Tutorial4.10.6.png)
 
+11. Once the tree has been verified for correctness, download the MEP file.
+![](images/tbas-tutorial4a/Tutorial4.11.png)
+
+12. This step shows how to use a MEP file to upload a tree. Go back to Upload Tree from the homepage and select the MEP option (see arrow), upload the MEP file downloaded from the previous step, and click submit.
+![](images/tbas-tutorial4a/Tutorial4.12.png)
+
+13.     13) After the run is complete, click on View tree. As you can see below the MEP file contains the tree, alignments (six labeled loci) and specimen metadata. If you want to use this reference set in the future, you will just upload this MEP file.  
+
+    This tree is resized and formatted with the following options selected:   
+    Zoom 0.5220   
+    Font size +6  
+    Colorize leaves by Species  
+    Branch Width 2   
+    The branch lengths are drawn to scale.   
+
+    The legend is displayed in the dashboard window on the right.
+![](images/tbas-tutorial4a/Tutorial4.12.png)
