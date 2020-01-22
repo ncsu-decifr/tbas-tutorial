@@ -1,6 +1,6 @@
 # Tutorial 4: Uploading and creating a custom T-BAS reference tree with alignments and specimen metadata
 
-In this tutorial, the user will be uploading a custom reference tree, alignment and specimen metadata that are needed to perform a placement of unknown sequences on that tree. The user will use the Ramularia reference tree and files that are available in TreeBase. For your convenience we made these files available as links in the tutorial. They can also be downloaded by searching for the S16754 study ID in TreeBase and retrieving the original tree and alignment files. The specimen metadata was extracted from Table 1 in Videira et al. 2015. 
+In this tutorial, the user will be uploading a custom reference tree, alignment and specimen metadata that are needed to perform a placement of unknown sequences on that tree. The user will use the *Ramularia* reference tree and files that are available in [TreeBase](https://www.treebase.org/treebase-web/search/studySearch.html). For your convenience we made these files available as links in the tutorial. They can also be downloaded by searching for the S16754 study ID in [TreeBase](https://www.treebase.org/treebase-web/search/studySearch.html) and retrieving the original [tree](//purl.org/phylo/treebase/phylows/tree/TB2:Tr79968?format=nexus) and [alignment](https://www.treebase.org/treebase-web/search/downloadANexusFile.html?id=16754&treeid=79968) files. The specimen metadata was extracted from Table 1 in [Videira et al. 2015](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4510271/). 
 
 1. To begin, go to the T-BAS start page and click on the Upload Tree button.
 ![](images/tbas-tutorial4a/Tutorial4.1.png)
@@ -53,7 +53,7 @@ In this tutorial, the user will be uploading a custom reference tree, alignment 
 12. This step shows how to use a MEP file to upload a tree. Go back to Upload Tree from the homepage and select the MEP option (see arrow), upload the MEP file downloaded from the previous step, and click submit.
 ![](images/tbas-tutorial4a/Tutorial4.12.png)
 
-13.     13) After the run is complete, click on View tree. As you can see below the MEP file contains the tree, alignments (six labeled loci) and specimen metadata. If you want to use this reference set in the future, you will just upload this MEP file.  
+13.  After the run is complete, click on View tree. As you can see below the MEP file contains the tree, alignments (six labeled loci) and specimen metadata. If you want to use this reference set in the future, you will just upload this MEP file.  
 
     This tree is resized and formatted with the following options selected:   
     Zoom 0.5220   
