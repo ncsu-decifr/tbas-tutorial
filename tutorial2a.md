@@ -34,8 +34,8 @@ Text options include **Italicize names** and **adjusting font size**. The **Colo
    **Colorize band 2** by Country  
    **Colorize Branches** by Species  
    Branch **Width** 2  
-   **Bootstrap Values with thick lines**  
-   **Show bootstrap Values (numbers)**.  
+   **Bootstrap Values (thick lines)**  
+   **Bootstrap Values (numbers)**.  
    **Branch lengths** are drawn to scale.  
 
    The legends are displayed in the dashboard window on the right.
@@ -50,7 +50,7 @@ Text options include **Italicize names** and **adjusting font size**. The **Colo
    No colorizing of leaves or bands  
    **Colorize Branches** by Species  
    Branch **Width** to 4  
-   **Show bootstrap Values (numbers)**.  
+   **Bootstrap Values (numbers)**.  
    **Branch lengths** are drawn to scale.  
    **Horizontal** and **Vertical Scaling** were adjusted as shown below.  
    
