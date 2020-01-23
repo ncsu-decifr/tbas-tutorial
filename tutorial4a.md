@@ -49,7 +49,7 @@ In this tutorial, the user will be uploading a custom reference tree, alignment 
     
 ![](images/tbas-tutorial4a/Tutorial4.10.1.png)
 
-    The tree can also be viewed in Rectangular mode with the branch lengths drawn to scale as shown below.  Note the taxa names and attributes are shown at the tips of the branches.  
+   The tree can also be viewed in Rectangular mode with the branch lengths drawn to scale as shown below.  Note the taxa names and attributes are shown at the tips of the branches.  
     
 ![](images/tbas-tutorial4a/Tutorial4.10.2.png)
 
@@ -57,11 +57,11 @@ In this tutorial, the user will be uploading a custom reference tree, alignment 
 
 ![](images/tbas-tutorial4a/Tutorial4.10.3.png)
 
-    The tree can also be viewed with the taxa names and attributes aligned by selecting the “align names” and “align attributes” checkboxes, as shown below. 
+   The tree can also be viewed with the taxa names and attributes aligned by selecting the **align name** and **align attributes** checkboxes, as shown below. 
     
 ![](images/tbas-tutorial4a/Tutorial4.10.5.png)
 
-    Additional attributes can be displayed as bands in the tree by clicking on the box for “Colorize band 2” and selecting the desired attribute (on the left side panel). A legend for the new attribute appears in the dashboard window on the right.
+   Additional attributes can be displayed as bands in the tree by clicking on the box for **Colorize band 2** and selecting the desired attribute (on the left side panel). A legend for the new attribute appears in the dashboard window on the right.
     
 ![](images/tbas-tutorial4a/Tutorial4.10.6.png)
 
@@ -69,20 +69,20 @@ In this tutorial, the user will be uploading a custom reference tree, alignment 
 
 ![](images/tbas-tutorial4a/Tutorial4.11.png)
 
-12. This step shows how to use a **MEP** file to upload a tree. Go back to Upload Tree from the homepage and select the **MEP** option (see arrow), upload the **MEP** file downloaded from the previous step, and click submit.
+12. This step shows how to use a **MEP** file to upload a tree. Go back to Upload Tree from the homepage and select the **MEP** option (see arrow), upload the **MEP** file downloaded from the previous step, and click **Submit**.
 
 ![](images/tbas-tutorial4a/Tutorial4.12.png)
 
-13.  After the run is complete, click on **View tree**. As you can see below the **MEP** file contains the tree, alignments (six labeled loci) and specimen metadata. If you want to use this reference set in the future, you will just upload this **MEP** file.  
+13.  After the run is complete, click on **View Tree**. As you can see below the **MEP** file contains the tree, alignments (six labeled loci) and specimen metadata. If you want to use this reference set in the future, you will just upload this **MEP** file.  
 
-    This tree is resized and formatted with the following options selected:   
+   This tree is resized and formatted with the following options selected:   
     **Zoom** 0.5220   
     **Font size** +6  
-    **Colorize leaves** by Species  
+    **Colorize Leaves** by Species  
     Branch **Width** 2   
     The **branch lengths** are drawn to scale.   
 
-    The legend is displayed in the dashboard window on the right.
+   The legend is displayed in the dashboard window on the right.
     
 ![](images/tbas-tutorial4a/Tutorial4.13.png)
 
@@ -94,7 +94,7 @@ In this tutorial, the user will be uploading a custom reference tree, alignment 
 
 ![](images/tbas-tutorial4a/Tutorial4.15.png)
 
-16. Here is an example of the form filled out. Note this tree is **private** and shared with only two other people (email list); if you want to make it **public** change the selection in the **Access level**. Click submit at the bottom of the form.
+16. Here is an example of the form filled out. Note this tree is **private** and shared with only two other people (email list); if you want to make it **public** change the selection in the **Access level**. Click **Submit** at the bottom of the form.
 
 ![](images/tbas-tutorial4a/Tutorial4.16.png)
 
@@ -102,6 +102,6 @@ In this tutorial, the user will be uploading a custom reference tree, alignment 
 
 ![](images/tbas-tutorial4a/Tutorial4.17.1.png)
 
-The Ramularia species complex tree will be listed under User Trees and available for viewing reference data files or placing unknowns by clicking on the bullet. 
+The * *Ramularia* * species complex tree will be listed under **User Trees** and available for viewing reference data files or placing unknowns by clicking on the bullet. 
 
 ![](images/tbas-tutorial4a/Tutorial4.17.2.png)
