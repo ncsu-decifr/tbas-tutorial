@@ -42,7 +42,7 @@ Text options include **Italicize names** and **adjusting font size**. The **Colo
    
 ![](images/tbas-tutorial2a/Tutorial2.6.png)
 
-7. Below is the tree shown in **Rectangular layout** shown with the following options selected:  
+7. Below is the tree shown in **Rectangular** layout shown with the following options selected:  
    **Zoom** 1.0  
    **Font size** +3  
    **Font size bootstrap** +4  
