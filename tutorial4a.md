@@ -102,6 +102,6 @@ In this tutorial, the user will be uploading a custom reference tree, alignment 
 
 ![](images/tbas-tutorial4a/Tutorial4.17.1.png)
 
-The * *Ramularia* * species complex tree will be listed under **User Trees** and available for viewing reference data files or placing unknowns by clicking on the bullet. 
+The *Ramularia* species complex tree will be listed under **User Trees** and available for viewing reference data files or placing unknowns by clicking on the bullet. 
 
 ![](images/tbas-tutorial4a/Tutorial4.17.2.png)
