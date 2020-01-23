@@ -30,7 +30,7 @@ In this tutorial, the custom reference tree that was created in Tutorial 3 will 
     **Colorize Leaves** by Species  
     Branch **Width** 2  
     The **branch lengths** are drawn to scale  
-    **Bootstrap values** box is checked.  
+    **Bootstrap Values** box is checked.  
 
     The legend is displayed in the dashboard window on the right.   
 
