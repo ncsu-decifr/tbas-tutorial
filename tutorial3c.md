@@ -72,4 +72,19 @@
 20. Return to the original placement phylogeny (in one of the tabs) and click on the Network (TCS) button (see arrow).
 ![](images/tbas-tutorial3c/Tutorial3.20.png)
 
-21. A new tab will open showing the available options for network inference using statistical parsimony. Gaps can be treated as a fifth character state or as missing data and parsimony connection limits of 90-99%. Check the options to Realign sequences in clade with MAFFT and ITS. If placements were performed for multiple loci the user will be able to examine networks for different locus combinations.  Hit submit to start the run.
+21. A new tab will open showing the available options for network inference using statistical parsimony. Gaps can be treated as a fifth character state or as missing data and parsimony connection limits of 90-99%. Check the options to Realign sequences in clade with MAFFT and ITS. If placements were performed for multiple loci the user will be able to examine networks for different locus combinations.  Hit submit to start the run.  
+![](images/tbas-tutorial3c/Tutorial3.21.1.png)
+    The progress bar shows that MAFFT is running
+![](images/tbas-tutorial3c/Tutorial3.21.2.png)
+
+22. At the end of the run a results page is generated. Click on the viewer link (see arrow) to view the network.  
+![](images/tbas-tutorial3c/Tutorial3.22.1.png)
+    You will also receive an email with the results from the run.
+![](images/tbas-tutorial3c/Tutorial3.22.2.png)
+
+23. The network shows that OTU0 comprises three haplotypes with one that was sampled on all five collection dates and on all three hosts. The dashboard window on the left in the viewer displays the selected attribute legend (i.e. date collected or host ID). You can switch attributes using the pull-down (see arrow) and the colors in the network will automatically update.  
+![](images/tbas-tutorial3c/Tutorial3.23.1.png)
+    Select names under the Click on node to show and then click on the intermediate sized node on the left (see arrow). This will display the specimen names in that node in a pop-up window and a summary of the Attribute Count for the selected node on the left panel at the bottom.  
+![](images/tbas-tutorial3c/Tutorial3.23.2.png)
+    Select alignments and select Host ID as shown for the image on the right. Click on the intermediate sized node (see arrow) on the right to display the alignments.
+![](images/tbas-tutorial3c/Tutorial3.23.3.png)
