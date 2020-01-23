@@ -68,3 +68,8 @@
 ![](images/tbas-tutorial3c/Tutorial3.19.1.png)
     Select all the leaves in tree by clicking on select all (see arrow). View the alignments by selecting PHYLIP under Format and then clicking on view (see arrow). The alignment shows additional variation (see arrows) within OTU0 that was ignored in the original placement of the clustered sequences.
 ![](images/tbas-tutorial3c/Tutorial3.19.2.png)
+
+20. Return to the original placement phylogeny (in one of the tabs) and click on the Network (TCS) button (see arrow).
+![](images/tbas-tutorial3c/Tutorial3.20.png)
+
+21. A new tab will open showing the available options for network inference using statistical parsimony. Gaps can be treated as a fifth character state or as missing data and parsimony connection limits of 90-99%. Check the options to Realign sequences in clade with MAFFT and ITS. If placements were performed for multiple loci the user will be able to examine networks for different locus combinations.  Hit submit to start the run.
