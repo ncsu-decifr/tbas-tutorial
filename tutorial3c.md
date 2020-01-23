@@ -30,24 +30,24 @@
     As a side note: when uploading multiple files, you will need to match each uploaded file with the reference locus as shown below.  We advise uploading files with the locus in the filename. 
 ![](images/tbas-tutorial3c/Tutorial3.8.2.png)
 
-9. The run will start, and a progress bar shows the current step in the analysis pipeline.  A Kill run button is provided if you decide to terminate the run. Below are some screenshots showing the run progression.
+9. The run will start, and a progress bar shows the current step in the analysis pipeline.  A **Kill run** button is provided if you decide to terminate the run. Below are some screenshots showing the run progression.
 ![](images/tbas-tutorial3c/Tutorial3.9.png)
 
 10. The run should complete in under 10 min and the results will be displayed in the browser window.
 ![](images/tbas-tutorial3c/Tutorial3.10.png)
 
-11. T-BAS will also send you an email with links to the output files and the runtime options that were selected for the run. Note this run will be deleted after 30 days so if you would like to keep the results you can download the files separately or download the Metadata Enhanced PhyloXML (MEP) file (see arrow). The MEP is a phyloXML file that includes the tree, alignments and metadata for the entire run. The BLAST report and the Assignments file (see arrows) summarize results from BLAST searches of UNITE and EPA phylogeny-based placement on Ramularia reference tree, respectively. The VSEARCH summary file reports that clustering was done at the 1.0 level (i.e. duplicates removed).
+11. T-BAS will also send you an email with links to the output files and the runtime options that were selected for the run. Note this run will be deleted after 30 days so if you would like to keep the results you can download the files separately or download the **Metadata Enhanced PhyloXML (MEP)** file (see arrow). The **MEP** is a phyloXML file that includes the tree, alignments and metadata for the entire run. The **BLAST** report and the **Assignments** file (see arrows) summarize results from BLAST searches of UNITE and EPA phylogeny-based placement on Ramularia reference tree, respectively. The **VSEARCH summary** file reports that clustering was done at the 1.0 level (i.e. duplicates removed).
 ![](images/tbas-tutorial3c/Tutorial3.11.png)
 
-12. Click on the Assignments file to download and open in Excel. This file shows that four unknown sequences were excluded using the UNITE filter and that all the unknowns belong to a single OTU0 and are most closely related to Ramularia collo-cygni. This placement is strongly supported with an accumulated likelihood weight of 0.999991 out of a total of 1.0. When using EPA placement, likelihood scores that are less than 0.95 indicate weaker placements that may be unreliable.  
+12. Click on the **Assignments** file to download and open in Excel. This file shows that four unknown sequences were excluded using the UNITE filter and that all the unknowns belong to a single OTU0 and are most closely related to *Ramularia collo-cygni*. This placement is strongly supported with an accumulated likelihood weight of 0.999991 out of a total of 1.0. When using EPA placement, likelihood scores that are less than 0.95 indicate weaker placements that may be unreliable.  
 ![](images/tbas-tutorial3c/Tutorial3.12.1.png)
-    Aside note: If the UNITE filter is skipped and you run this placement again, the genetic distance cutoff will also exclude the same four sequences. This shows the utility of the genetic distance cutoff when placing sequences from other loci since the UNITE database is only for ITS.
+    Aside note: If the UNITE filter is skipped and you run this placement again, the **genetic distance cutoff** will also exclude the same four sequences. This shows the utility of the **genetic distance cutoff** when placing sequences from other loci since the UNITE database is only for ITS.
 ![](images/tbas-tutorial3c/Tutorial3.12.2.png)
 
-13. Click on the BLAST (complete) file to download and open in Excel. This file shows that the four excluded taxa (2073, 2072, 2070, 2076) belong to different families and orders.
+13. Click on the **BLAST (complete)** file to download and open in Excel. This file shows that the four excluded taxa (2073, 2072, 2070, 2076) belong to different families and orders.
 ![](images/tbas-tutorial3c/Tutorial3.13.png)
 
-14. The tree with the placements can be viewed by clicking on the view tree link in the email or the View tree button in the browser results page (see arrows).
+14. The tree with the placements can be viewed by clicking on the **view tree** link in the email or the **View tree** button in the browser results page (see arrows).
 ![](images/tbas-tutorial3c/Tutorial3.14.png)
 
 15. Below is the tree resized and formatted with the following options selected. Magnification reduced by clicking multiple times on  or panning with mouse until Zoom=0.5220 (or enter the value in the box and press enter), Font size +8, Colorize leaves by Species, and set branch Width to 2. The branch lengths are drawn to scale. The legend is displayed in the dashboard window on the right. Note only a single representative of OTU0 (411) is displayed in the tree. Click on the leaf (see arrow) to display the pop-up menu and select Likelihood weight under Labels.
