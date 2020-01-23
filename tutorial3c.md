@@ -1,12 +1,12 @@
 # Tutorial 3: Phylogeny-based placement of unknown sequences, de novo phylogenetic reconstruction of subtrees and haplotype network inference
 
-1. In this tutorial we will be using the Ramularia reference tree as an example to illustrate the placement features available in T-BAS. To begin, go to the T-BAS start page and click on the T-BAS Trees button (see arrow).
+1. In this tutorial we will be using the *Ramularia* reference tree as an example to illustrate the placement features available in T-BAS. To begin, go to the T-BAS start page and click on the **T-BAS Trees** button (see arrow).
 ![](images/tbas-tutorial3c/Tutorial3.1.png)
 
-2. Click on the blue bullet to select the Ramularia reference tree. Note only trees with a solid blue bullet in the guide tree contain data. 
+2. Click on the blue bullet to select the *Ramularia* reference tree. Note only trees with a solid blue bullet in the guide tree contain data. 
 ![](images/tbas-tutorial3c/Tutorial3.2.png)
 
-3. The Ramularia tree is now highlighted in red.  Below the guide tree are options (blue buttons) for View Tree Data (i.e., viewing/downloading of tree, alignments and specimen metadata), and Place Unknowns (i.e., phylogenetic placement of unknown sequences).
+3. The *Ramularia* tree is now highlighted in red.  Below the guide tree are options (blue buttons) for **View Tree Data** (i.e., viewing/downloading of tree, alignments and specimen metadata), and **Place Unknowns** (i.e., phylogenetic placement of unknown sequences).
 ![](images/tbas-tutorial3c/Tutorial3.3.png)
 
 4. A new tab will open with the options for placing unknown sequences on the Ramularia tree. At the top is the name of the reference set for placement and the loci included in the tree. The section with the header Upload unknown query sequences is used for uploading unaligned unknown sequences in FASTA format. The Add fasta button allows user to select up to a maximum of six loci for placement. Specimen metadata for the unknown samples in CSV format can be uploaded in the section labeled Upload unknowns metadata (optional). If a column with the class header is included in the CSV metadata file, T-BAS will calculate class placement F-scores where higher F-scores indicate better class placement accuracy. The Retain all metadata for OTU members only applies if you are clustering sequences into OTUs (next section in form). Typically, when clustering is done only one representative sequence is kept for each OTU but if this option is selected other members within the OTU that have different attributes will be displayed in the tree.
