@@ -4,7 +4,7 @@
 ![](images/tbas-tutorial6/Tutorial6.1.png)
 
 2. Select **Newick tree**
-![](images/tbas-tutorial6/Tutorial6.1.png)
+![](images/tbas-tutorial6/Tutorial6.2.png)
 
 3. This will expand the display to show three upload sections: **Upload reference tree, Upload reference sequence alignment and Upload reference metadata**.  Click on the example file links (see arrows) for each section to load the files.
 ![](images/tbas-tutorial6/Tutorial6.3.png)
