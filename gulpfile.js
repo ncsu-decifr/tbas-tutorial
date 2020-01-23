@@ -33,6 +33,10 @@ gulp.task('move_images2', function() {
     return gulp.src("images/tbas-tutorial2/*.*")
         .pipe(gulp.dest('/var/www/html/tbas2_1/pages/images/tbas-tutorial2'));
 });
+gulp.task('move_images3c', function() {
+    return gulp.src("images/tbas-tutorial3c/*.*")
+        .pipe(gulp.dest('/var/www/html/tbas2_1/pages/images/tbas-tutorial3c'));
+});
 gulp.task('move_images3', function() {
     return gulp.src("images/tbas-tutorial3/*.*")
         .pipe(gulp.dest('/var/www/html/tbas2_1/pages/images/tbas-tutorial3'));
@@ -75,6 +79,7 @@ gulp.task('default', [
     'move_images1',
     'move_images2',
     'move_images3',
+    'move_images3c',
     'move_images4',
     'move_images4a',
     'move_images1a',
