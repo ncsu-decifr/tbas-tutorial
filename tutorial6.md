@@ -1,5 +1,10 @@
 # Tutorial 6: Using MEP to cumulatively update trees
 
+Main Contents
+Step 1: Uploading a tree using Newick file
+Step 13: Updating specimen metadata
+Step 21: Upload unknown data on tree using MEP file
+
 1. T-BAS can be used to perform consecutive placements on the same tree. This is useful to build on a previous placement run with additional sequence data. To start, go to the [T-BAS start page](https://vclv99-239.hpc.ncsu.edu/tbas2_1/pages/tbas.php) and click on the **Upload Tree** button.
 
 ![](images/tbas-tutorial6/Tutorial6.1.png)
