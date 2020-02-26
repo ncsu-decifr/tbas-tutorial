@@ -1,4 +1,4 @@
-# Tutorial 6: Using MEP to cumulatively update trees
+# Tutorial 6: Using a MEP file to update trees
 
 **Main Contents**  
 [Step 1](#step1): Uploading a tree using Newick file  
