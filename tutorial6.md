@@ -1,11 +1,11 @@
 # Tutorial 6: Using MEP to cumulatively update trees
 
 **Main Contents**  
-Step 1: Uploading a tree using Newick file  
-Step 13: Updating specimen metadata  
-Step 21: Upload unknown data on tree using MEP file  
+[Step 1](#step1): Uploading a tree using Newick file  
+[Step 13](#step13): Updating specimen metadata  
+[Step 21](#step21): Upload unknown data on tree using MEP file  
 
-1. T-BAS can be used to perform consecutive placements on the same tree. This is useful to build on a previous placement run with additional sequence data. To start, go to the [T-BAS start page](https://vclv99-239.hpc.ncsu.edu/tbas2_1/pages/tbas.php) and click on the **Upload Tree** button.
+1. <span id='step1'>T-BAS</span> can be used to perform consecutive placements on the same tree. This is useful to build on a previous placement run with additional sequence data. To start, go to the [T-BAS start page](https://vclv99-239.hpc.ncsu.edu/tbas2_1/pages/tbas.php) and click on the **Upload Tree** button.
 
 ![](images/tbas-tutorial6/Tutorial6.1.png)
 
@@ -63,7 +63,7 @@ Step 21: Upload unknown data on tree using MEP file
 
 ![](images/tbas-tutorial6/Tutorial6.12.png)
 
-13. Here is the tree with the following options selected:
+13. <span id='step13'>Here</span> is the tree with the following options selected:
 
     **Zoom** 0.6103  
     **Font size** +6
@@ -105,7 +105,7 @@ The new file is named FIXSVRFY_edit.mep.gz. This file contains the updated phylo
 
 ![](images/tbas-tutorial6/Tutorial6.20.png)
 
-21. Return to the T-BAS start page (from step 1) and select **Upload Tree**. Click on **MEP** and upload the downloaded XML file from step 23. Use Ramularia_nyssicola_CBS_127665 as the outgroup. Select **yes** in the placement section and select the **Unknowns ITS file2** example file.
+21. <span id='step21'>Return</span> to the T-BAS start page (from step 1) and select **Upload Tree**. Click on **MEP** and upload the downloaded XML file from step 23. Use Ramularia_nyssicola_CBS_127665 as the outgroup. Select **yes** in the placement section and select the **Unknowns ITS file2** example file.
 
 ![](images/tbas-tutorial6/Tutorial6.21.png)
 
