@@ -1,6 +1,6 @@
 # Tutorial 6: Using MEP to cumulatively update trees
 
-**Main Contents**
+**Main Contents**  
 Step 1: Uploading a tree using Newick file  
 Step 13: Updating specimen metadata  
 Step 21: Upload unknown data on tree using MEP file  
