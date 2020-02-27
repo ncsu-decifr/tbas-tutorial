@@ -100,7 +100,7 @@
 
 ![](images/tbas-tutorial6/Tutorial6.19.png)
 
-20. Go back to the results page on step 20 and download the MEP file. 
+20. Go back to the results page on step 18 and download the MEP file. 
 The new file is named FIXSVRFY_edit.mep.gz. This file contains the updated phylogenetic tree and specimen metadata that will be used to upload and place new unknown sequences.
 
 ![](images/tbas-tutorial6/Tutorial6.20.png)
@@ -109,7 +109,7 @@ The new file is named FIXSVRFY_edit.mep.gz. This file contains the updated phylo
 
 ![](images/tbas-tutorial6/Tutorial6.21.png)
 
-22. Click on the **Unknowns metadata** example file. T-BAS can filter spurious ITS sequences using BLAST of the UNITE database. In the BLAST unknowns options section select **ITS locus is included – filter unknowns to selected taxon and generate UNITE report**. Then select the next highest taxonomic level for filtering – in this example, select the family Mycosphaerellaceae as shown below. In the Cluster and filter unknowns options section, select **skip-include all, no clustering**. 
+22. Click on the **Unknowns metadata** example file. T-BAS can filter spurious ITS sequences using BLAST of the UNITE database. In the BLAST unknowns options section select **ITS locus is included – filter unknowns to selected taxon and generate UNITE report**. Then select the next highest taxonomic level for filtering – in this example, select the family _Mycosphaerellaceae_ as shown below. In the Cluster and filter unknowns options section, select **skip-include all, no clustering**. 
 
 ![](images/tbas-tutorial6/Tutorial6.22.png)
 
@@ -141,7 +141,7 @@ Notice the new run number: RSJZ7QDJ. All of the files downloaded will contain th
     
 ![](images/tbas-tutorial6/Tutorial6.27.png)
 
-28. Clicking on update metadata on the tree (as shown in step 15) and downloading (as shown in step 16) will pull up the new specimen metadata file. Sort the file by species. Now the edits made in step 18 are shown here. 
+28. Clicking on update metadata on the tree (as shown in step 15) and downloading (as shown in step 16) will pull up the new specimen metadata file. Sort the file by species. Now the edits made in step 16 are shown here. 
 
 ![](images/tbas-tutorial6/Tutorial6.28.1.png)
 
