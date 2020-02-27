@@ -88,7 +88,7 @@
 
 ![](images/tbas-tutorial6/Tutorial6.16.png)
 
-17. Go back to the Update Attributes page where the current specimen metadata was downloaded from and **Upload** the <u>edited<u> specimen metadata. The edited file could also be copied and pasted into the field, if desired. Click **Submit**.
+17. Go back to the Update Attributes page where the current specimen metadata was downloaded from and **Upload** the __edited__ specimen metadata. The edited file could also be copied and pasted into the field, if desired. Click **Submit**.
 
 ![](images/tbas-tutorial6/Tutorial6.17.png)
 
