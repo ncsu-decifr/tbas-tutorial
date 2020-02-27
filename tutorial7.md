@@ -1,7 +1,8 @@
 # Tutorial 7: Submit a MEP file for inclusion in T-BAS portal
 
+This tutorial demonstrates how to add a custom tree to the T-BAS portal. This particular example is a continuation of Tutorial 6 but the steps apply to any completed tree run.
 
-14. To add this reference set to the T-BAS portal select the **Add to T-BAS portal** link.
+1. To add this reference set to the T-BAS portal select the **Add to T-BAS portal** link.
 
 ![](images/tbas-tutorial7/Tutorial4.14.png)
 
