@@ -26,6 +26,6 @@ This can also be checked by viewing the **diffs** file in the tree run. This fil
 
 ![](images/tbas-tutorial7/Tutorial4.17.1.png)
 
-The *Ramularia* species complex tree will be listed under **User Trees** and available for viewing reference data files or placing unknowns by clicking on the bullet. 
+In this example, the **__Ramularia species complex__** tree will be listed under **User Trees** and available for viewing reference data files or placing unknowns by clicking on the bullet.  
 
 ![](images/tbas-tutorial7/Tutorial4.17.2.png)
