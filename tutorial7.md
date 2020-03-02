@@ -10,7 +10,7 @@ This can also be checked by viewing the **diffs** file in the tree run. This fil
 
 ![](images/tbas-tutorial7/Tutorial7.1.2.png)
 
-2. 2)	Once it is confirmed that all names match, the new tree can then be added to the T-BAS portal. Select the **Add to T-BAS portal** link.
+2. Once it is confirmed that all names match, the new tree can then be added to the T-BAS portal. Select the **Add to T-BAS portal** link.
 
 ![](images/tbas-tutorial7/Tutorial4.14.png)
 
