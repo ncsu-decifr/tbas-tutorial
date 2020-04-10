@@ -1,9 +1,9 @@
-# Tutorial 6: Using a MEP file to update trees
+# Tutorial 6: Using a Metadata Enhanced PhyloXML (MEP) file to update trees
 
-**Main Contents**  
-[Step 1](#step1): Uploading a tree using Newick file  
-[Step 13](#step13): Updating specimen metadata  
-[Step 21](#step21): Upload unknown data on tree using MEP file  
+**Main Contents**
+[Step 1](#step1): Uploading a tree using Newick file
+[Step 13](#step13): Updating specimen metadata
+[Step 21](#step21): Upload unknown data on tree using MEP file
 
 1. <span id='step1'>T-BAS</span> can be used to perform consecutive placements on the same tree. This is useful to build on a previous placement run with additional sequence data. To start, go to the [T-BAS start page](https://vclv99-239.hpc.ncsu.edu/tbas2_1/pages/tbas.php) and click on the **Upload Tree** button.
 
@@ -43,20 +43,20 @@
 
 10. Ensure selections are selected as shown:
 
-    Skip BLAST UNITE  
-    Skip-include all, no clustering  
-    Backbone constraint tree with bootstraps  
-    Multifurcating reference tree with polytomies  
-    Click **Submit**  
+    Skip BLAST UNITE
+    Skip-include all, no clustering
+    Backbone constraint tree with bootstraps
+    Multifurcating reference tree with polytomies
+    Click **Submit**
 
     **IMPORTANT NOTE. If you cluster sequences, only the single representative sequence of the OTU will be in the tree for future placements on the tree.**
-    
+
 ![](images/tbas-tutorial6/Tutorial6.10.png)
 
-11. On the next page select the **ITS** partition for alignment of unknowns and click **Submit**  
+11. On the next page select the **ITS** partition for alignment of unknowns and click **Submit**
 
     Every run has a unique run number. This number will be used for associating results files with this specific run. The run number for this example is FIXSVRFY.
-    
+
 ![](images/tbas-tutorial6/Tutorial6.11.png)
 
 12. The run takes about 10 minutes to complete. Click **View Tree** to see the placements.
@@ -65,22 +65,22 @@
 
 13. <span id='step13'>Here</span> is the tree with the following options selected:
 
-    **Zoom** 0.6103  
+    **Zoom** 0.6103
     **Font size** +6
-    **Font size adjust bootstrap** +6  
-    **Colorize Leaves** by Species  
-    Branch **Width** 2  
-    The **branch lengths** are drawn to scale  
+    **Font size adjust bootstrap** +6
+    **Colorize Leaves** by Species
+    Branch **Width** 2
+    The **branch lengths** are drawn to scale
 
     Next click the **Update Metadata** button to edit the attributes table.
-    
+
 ![](images/tbas-tutorial6/Tutorial6.13.png)
 
 14. Clicking the download button will download the current specimen metadata. Download and open the spreadsheet.
 
 ![](images/tbas-tutorial6/Tutorial6.14.png)
 
-15. When the specimen metadata is downloaded, it will be a CSV file named as the run number (in this example, FIXSVRFY.csv). Sort the spreadsheet by Species so that all of the unknowns are grouped together (unknown_query). 
+15. When the specimen metadata is downloaded, it will be a CSV file named as the run number (in this example, FIXSVRFY.csv). Sort the spreadsheet by Species so that all of the unknowns are grouped together (unknown_query).
 
 ![](images/tbas-tutorial6/Tutorial6.15.png)
 
@@ -96,11 +96,11 @@
 
 ![](images/tbas-tutorial6/Tutorial6.18.png)
 
-19. A new tree is created with the edited values. All of the unknowns are now labeled as *Ramularia_collo-cygni* and the leaves are colored accordingly. 
+19. A new tree is created with the edited values. All of the unknowns are now labeled as *Ramularia_collo-cygni* and the leaves are colored accordingly.
 
 ![](images/tbas-tutorial6/Tutorial6.19.png)
 
-20. Go back to the results page on step 18 and download the MEP file. 
+20. Go back to the results page on step 18 and download the MEP file.
 The new file is named FIXSVRFY_edit.mep.gz. This file contains the updated phylogenetic tree and specimen metadata that will be used to upload and place new unknown sequences.
 
 ![](images/tbas-tutorial6/Tutorial6.20.png)
@@ -109,7 +109,7 @@ The new file is named FIXSVRFY_edit.mep.gz. This file contains the updated phylo
 
 ![](images/tbas-tutorial6/Tutorial6.21.png)
 
-22. Click on the **Unknowns metadata** example file. T-BAS can filter spurious ITS sequences using BLAST of the UNITE database. In the BLAST unknowns options section select **ITS locus is included – filter unknowns to selected taxon and generate UNITE report**. Then select the next highest taxonomic level for filtering – in this example, select the family _Mycosphaerellaceae_ as shown below. In the Cluster and filter unknowns options section, select **skip-include all, no clustering**. 
+22. Click on the **Unknowns metadata** example file. T-BAS can filter spurious ITS sequences using BLAST of the UNITE database. In the BLAST unknowns options section select **ITS locus is included – filter unknowns to selected taxon and generate UNITE report**. Then select the next highest taxonomic level for filtering – in this example, select the family _Mycosphaerellaceae_ as shown below. In the Cluster and filter unknowns options section, select **skip-include all, no clustering**.
 
 ![](images/tbas-tutorial6/Tutorial6.22.png)
 
@@ -130,21 +130,21 @@ Notice the new run number: RSJZ7QDJ. All of the files downloaded will contain th
 
 ![](images/tbas-tutorial6/Tutorial6.26.png)
 
-27. The tree created by the second run is displayed using the following selections:  
+27. The tree created by the second run is displayed using the following selections:
 
-    **Zoom**: 0.8282  
-    **Font size**: +6  
-    **Font size adjust bootstrap**: +6  
-    **Colorize Leaves** by Species  
-    Branch **Width**: 2  
-    The **branch lengths** are drawn to scale  
-    
+    **Zoom**: 0.8282
+    **Font size**: +6
+    **Font size adjust bootstrap**: +6
+    **Colorize Leaves** by Species
+    Branch **Width**: 2
+    The **branch lengths** are drawn to scale
+
 ![](images/tbas-tutorial6/Tutorial6.27.png)
 
-28. Clicking on update metadata on the tree (as shown in step 15) and downloading (as shown in step 16) will pull up the new specimen metadata file. Sort the file by species. Now the edits made in step 16 are shown here. 
+28. Clicking on update metadata on the tree (as shown in step 15) and downloading (as shown in step 16) will pull up the new specimen metadata file. Sort the file by species. Now the edits made in step 16 are shown here.
 
 ![](images/tbas-tutorial6/Tutorial6.28.1.png)
 
    Scroll to the bottom and the new unknown placements are listed. You can rename these and continue performing more placements on the same tree, as described above.
-   
+
 ![](images/tbas-tutorial6/Tutorial6.28.2.png)

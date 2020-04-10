@@ -1,4 +1,4 @@
-# Tutorial 7: Submit a MEP file for inclusion in T-BAS portal
+# Tutorial 7: Submit a Metadata Enhanced PhyloXML (MEP) file for inclusion in T-BAS portal
 
 This tutorial demonstrates how to add a custom tree to the T-BAS portal. This particular example is a continuation of Tutorial 6 but the steps apply to any completed tree run.
 
@@ -22,10 +22,10 @@ This can also be checked by viewing the **diffs** file in the tree run. This fil
 
 ![](images/tbas-tutorial7/Tutorial4.16.png)
 
-5. Once your tree has been reviewed by T-BAS admin it will be made available for viewing and placement by clicking on **User Trees** on the T-BAS start page. You will receive an email notification of the status of your submitted tree and when it is available for use in T-BAS.  
+5. Once your tree has been reviewed by T-BAS admin it will be made available for viewing and placement by clicking on **User Trees** on the T-BAS start page. You will receive an email notification of the status of your submitted tree and when it is available for use in T-BAS.
 
 ![](images/tbas-tutorial7/Tutorial4.17.1.png)
 
-In this example, the ***Ramularia*** **species complex** tree will be listed under **User Trees** and available for viewing reference data files or placing unknowns by clicking on the bullet.  
+In this example, the ***Ramularia*** **species complex** tree will be listed under **User Trees** and available for viewing reference data files or placing unknowns by clicking on the bullet.
 
 ![](images/tbas-tutorial7/Tutorial4.17.2.png)
