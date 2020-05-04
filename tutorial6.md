@@ -105,7 +105,7 @@ The new file is named FIXSVRFY_edit.mep.gz. This file contains the updated phylo
 
 ![](images/tbas-tutorial6/Tutorial6.20.png)
 
-21. <span id='step21'>Return</span> to the T-BAS start page (from step 1) and select **Upload Tree**. Click on **MEP** and upload the downloaded XML file from step 23. Use Ramularia_nyssicola_CBS_127665 as the outgroup. Select **yes** in the placement section and select the **Unknowns ITS file2** example file.
+21. <span id='step21'>Return</span> to the T-BAS start page (from step 1) and select **Upload Tree**. Click on **MEP** and upload the downloaded XML file from step 20. Use Ramularia_nyssicola_CBS_127665 as the outgroup. Select **yes** in the placement section and select the **Unknowns ITS file2** example file.
 
 ![](images/tbas-tutorial6/Tutorial6.21.png)
 
