@@ -1,4 +1,4 @@
-# Tutorial 6: Using a Metadata Enhanced PhyloXML (MEP) file to update trees
+# Tutorial 6: Perform phylogeny-based placement using a user-uploaded Newick tree or Metadata Enhanced PhyloXML (MEP) file
 
 **Main Contents**
 [Step 1](#step1): Uploading a tree using Newick file
