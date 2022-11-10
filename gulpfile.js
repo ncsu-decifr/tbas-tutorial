@@ -77,19 +77,36 @@ gulp.task('move_data', function() {
 });
 
 
-gulp.task('default', [
-    'markdown',
-    'tutorial1',
-    'move_images1',
-    'move_images2',
-    'move_images3',
-    'move_images3c',
-    'move_images4',
-    'move_images4a',
-    'move_images1a',
-    'move_images2a',
-    'move_images5',
-    'move_images6',
-    'move_images7',
-    'move_data'
-]);
+// gulp.task('default', [
+//     'markdown',
+//     'tutorial1',
+//     'move_images1',
+//     'move_images2',
+//     'move_images3',
+//     'move_images3c',
+//     'move_images4',
+//     'move_images4a',
+//     'move_images1a',
+//     'move_images2a',
+//     'move_images5',
+//     'move_images6',
+//     'move_images7',
+//     'move_data'
+// ]);
+
+exports.default = gulp.series(
+        'markdown',
+        'tutorial1',
+        'move_images1',
+        'move_images2',
+        'move_images3',
+        'move_images3c',
+        'move_images4',
+        'move_images4a',
+        'move_images1a',
+        'move_images2a',
+        'move_images5',
+        'move_images6',
+        'move_images7',
+        'move_data'
+    );
