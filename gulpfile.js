@@ -11,7 +11,7 @@ gulp.task('markdown', function() {
         }))
         .pipe(markdown())
 
-        .pipe(gulp.dest('/var/www/html/tbas2_1/pages'))
+        .pipe(gulp.dest('/var/www/html/tbas2_3/pages'))
 });
 
 gulp.task('tutorial1', function() {
@@ -22,58 +22,58 @@ gulp.task('tutorial1', function() {
         }))
         .pipe(markdown())
 
-        .pipe(gulp.dest('/var/www/html/tbas2_1/pages'))
+        .pipe(gulp.dest('/var/www/html/tbas2_3/pages'))
 });
 
 gulp.task('move_images1', function() {
     return gulp.src("images/tbas-tutorial1/*.*")
-        .pipe(gulp.dest('/var/www/html/tbas2_1/pages/images/tbas-tutorial1'));
+        .pipe(gulp.dest('/var/www/html/tbas2_3/pages/images/tbas-tutorial1'));
 });
 gulp.task('move_images2', function() {
     return gulp.src("images/tbas-tutorial2/*.*")
-        .pipe(gulp.dest('/var/www/html/tbas2_1/pages/images/tbas-tutorial2'));
+        .pipe(gulp.dest('/var/www/html/tbas2_3/pages/images/tbas-tutorial2'));
 });
 gulp.task('move_images3c', function() {
     return gulp.src("images/tbas-tutorial3c/*.*")
-        .pipe(gulp.dest('/var/www/html/tbas2_1/pages/images/tbas-tutorial3c'));
+        .pipe(gulp.dest('/var/www/html/tbas2_3/pages/images/tbas-tutorial3c'));
 });
 gulp.task('move_images3', function() {
     return gulp.src("images/tbas-tutorial3/*.*")
-        .pipe(gulp.dest('/var/www/html/tbas2_1/pages/images/tbas-tutorial3'));
+        .pipe(gulp.dest('/var/www/html/tbas2_3/pages/images/tbas-tutorial3'));
 });
 gulp.task('move_images4', function() {
     return gulp.src("images/tbas-tutorial4/*.*")
-        .pipe(gulp.dest('/var/www/html/tbas2_1/pages/images/tbas-tutorial4'));
+        .pipe(gulp.dest('/var/www/html/tbas2_3/pages/images/tbas-tutorial4'));
 });
 gulp.task('move_images4a', function() {
     return gulp.src("images/tbas-tutorial4a/*.*")
-        .pipe(gulp.dest('/var/www/html/tbas2_1/pages/images/tbas-tutorial4a'));
+        .pipe(gulp.dest('/var/www/html/tbas2_3/pages/images/tbas-tutorial4a'));
 });
 gulp.task('move_images1a', function() {
     return gulp.src("images/tbas-tutorial1a/*.*")
-        .pipe(gulp.dest('/var/www/html/tbas2_1/pages/images/tbas-tutorial1a'));
+        .pipe(gulp.dest('/var/www/html/tbas2_3/pages/images/tbas-tutorial1a'));
 });
 
 gulp.task('move_images2a', function() {
     return gulp.src("images/tbas-tutorial2a/*.*")
-        .pipe(gulp.dest('/var/www/html/tbas2_1/pages/images/tbas-tutorial2a'));
+        .pipe(gulp.dest('/var/www/html/tbas2_3/pages/images/tbas-tutorial2a'));
 });
 gulp.task('move_images5', function() {
     return gulp.src("images/tbas-tutorial5/*.*")
-        .pipe(gulp.dest('/var/www/html/tbas2_1/pages/images/tbas-tutorial5'));
+        .pipe(gulp.dest('/var/www/html/tbas2_3/pages/images/tbas-tutorial5'));
 });
 gulp.task('move_images6', function() {
     return gulp.src("images/tbas-tutorial6/*.*")
-        .pipe(gulp.dest('/var/www/html/tbas2_1/pages/images/tbas-tutorial6'));
+        .pipe(gulp.dest('/var/www/html/tbas2_3/pages/images/tbas-tutorial6'));
 });
 gulp.task('move_images7', function() {
     return gulp.src("images/tbas-tutorial7/*.*")
-        .pipe(gulp.dest('/var/www/html/tbas2_1/pages/images/tbas-tutorial7'));
+        .pipe(gulp.dest('/var/www/html/tbas2_3/pages/images/tbas-tutorial7'));
 });
 
 gulp.task('move_data', function() {
     return gulp.src("data/tbas-tutorial/*.*")
-        .pipe(gulp.dest('/var/www/html/tbas2_1/pages/data/tbas-tutorial'));
+        .pipe(gulp.dest('/var/www/html/tbas2_3/pages/data/tbas-tutorial'));
 });
 
 

@@ -5,7 +5,7 @@
 [Step 13](#step13): Updating specimen metadata
 [Step 21](#step21): Upload unknown data on tree using MEP file
 
-1. <span id='step1'>T-BAS</span> can be used to perform consecutive placements on the same tree. This is useful to build on a previous placement run with additional sequence data. To start, go to the [T-BAS start page](https://tbas.vcl.ncsu.edu/tbas2_1/pages/tbas.php) and click on the **Upload Tree** button.
+1. <span id='step1'>T-BAS</span> can be used to perform consecutive placements on the same tree. This is useful to build on a previous placement run with additional sequence data. To start, go to the [T-BAS start page](https://tbas.vcl.ncsu.edu/tbas2_3/pages/tbas.php) and click on the **Upload Tree** button.
 
 ![](images/tbas-tutorial6/Tutorial6.1.png)
 
