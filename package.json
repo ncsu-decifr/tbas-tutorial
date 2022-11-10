@@ -1,24 +1,19 @@
 {
-  "name": "tbas-history",
+  "name": "build",
   "version": "1.0.0",
-  "description": "*\tSingle-locus placement of unknown taxa sequences and user-customizable metadata on two included trees: fungi (Ascomycota) and bacteria *\tSingle-locus placement on a user-provided reference tree, multi-locus sequence alignments and metadata *\tOption to select from two phylogeny-based placement options: EPA and backbone constraint tree *\tClassification of unknown nrITS barcode sequences using the UNITE fungal nrITS database *\tMetadata displayed as colorized outer rings in phylogenies *\tSave trees and color legends as SVG, PNG or PDF files",
+  "description": "",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ncsu-decifr/tbas-history.git"
-  },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ncsu-decifr/tbas-history/issues"
-  },
-  "homepage": "https://github.com/ncsu-decifr/tbas-history#readme",
   "devDependencies": {
     "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
     "gulp-markdown": "^6.0.0",
-    "gulp-rename": "^2.0.0"
+    "gulp-remove-logging": "^1.2.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-uglify": "^3.0.2"
   }
 }
