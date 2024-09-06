@@ -4,7 +4,7 @@ In this tutorial we will be using the *Ramularia* reference tree as an example t
 
 Pop-up windows will need to be enabled when using TBAS.
 
-1. Go to the [T-BAS start page](https://tbas.vcl.ncsu.edu/tbas2_3/pages/tbas.php) and click on the **T-BAS Trees** button (see arrow).
+1. Go to the [T-BAS start page](https://tbas.cifr.ncsu.edu//tbas2_3/pages/tbas.php) and click on the **T-BAS Trees** button (see arrow).
 
 ![](images/tbas-tutorial2a/Tutorial2.1.png)
 

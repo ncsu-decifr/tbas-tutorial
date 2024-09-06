@@ -2,7 +2,7 @@
 
 In this tutorial, the custom reference tree that was created in Tutorial 3 will be used to illustrate how unknowns can be examined using phylogeny-based placement. 
  
-1. Before beginning the tutorial, download these two example files: [Unknowns ITS file1](https://tbas.vcl.ncsu.edu/tbas2_3/pages/data/tbas-tutorial/its_sequences_set1.fasta) and [Unknowns metadata](https://tbas.vcl.ncsu.edu/tbas2_3/pages/data/tbas-tutorial/Metadata-Unknowns.csv). Then go to the [T-BAS start page](https://tbas.vcl.ncsu.edu/tbas2_3/pages/tbas.php) and click on **User Trees**.
+1. Before beginning the tutorial, download these two example files: [Unknowns ITS file1](https://tbas.cifr.ncsu.edu//tbas2_3/pages/data/tbas-tutorial/its_sequences_set1.fasta) and [Unknowns metadata](https://tbas.cifr.ncsu.edu//tbas2_3/pages/data/tbas-tutorial/Metadata-Unknowns.csv). Then go to the [T-BAS start page](https://tbas.cifr.ncsu.edu//tbas2_3/pages/tbas.php) and click on **User Trees**.
 
 ![](images/tbas-tutorial5/Tutorial5.1.1.png)
 
