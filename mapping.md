@@ -8,3 +8,6 @@ Once you have installed the software and downloaded the T-BAS geoJSON, then also
 
 Open QGIS and to to Layer -> Add Layer -> Add Vector Layer and select the file. 
 ![](images/mapping/add_vector_layer.png)
+
+After both the T-BAS geoJSON and world-administrative-boundaries.geojson are installed you should see points on a world map. If the points are not visible then look in the layers panel on the lower left and adjust order of drawing. There are many more options there to syle the map.
+![](images/mapping/qgis_geojson.png)
