@@ -82,6 +82,11 @@ gulp.task('move_images7', function() {
         .pipe(gulp.dest('/var/www/html/tbas2_4/pages/images/tbas-tutorial7'));
 });
 
+gulp.task('move_images_mapping', function() {
+    return gulp.src("images/mapping/*.*")
+        .pipe(gulp.dest('/var/www/html/tbas2_4/pages/images/mapping'));
+});
+
 gulp.task('move_data', function() {
     return gulp.src("data/tbas-tutorial/*.*")
         .pipe(gulp.dest('/var/www/html/tbas2_4/pages/data/tbas-tutorial'));
@@ -120,5 +125,6 @@ exports.default = gulp.series(
         'move_images6',
         'move_images7',
         'move_data',
-        'mapping'
+        'mapping',
+        'move_images_mapping'
     );
